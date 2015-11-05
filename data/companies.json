@@ -24,9 +24,9 @@
 		"github": "https://github.com/amazonwebservices",
 		"blog": "http://aws.amazon.com/blogs/aws/",
 		"blogrss": "http://feeds.feedburner.com/AmazonWebServicesBlog",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/aws-logo.png",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-logo.jpg",
 		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/aws-logo.png",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-logo.jpg",
 		"tags": null
 	},
 	{
@@ -99,9 +99,9 @@
 		"github": "https://github.com/d21",
 		"blog": "http://dyn.com/blog/",
 		"blogrss": "http://feeds.feedburner.com/dyn-blog",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/582_logo.png",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dyn-logo.jpg",
 		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/582_logo.png",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dyn-logo.jpg",
 		"tags": null
 	},
 	{
