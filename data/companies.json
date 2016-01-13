@@ -52,11 +52,26 @@
 		"website": "https://www.cloudflare.com",
 		"twitter": "https://twitter.com/CloudFlare",
 		"github": "https://github.com/cloudflare",
-		"blog": "",
-		"blogrss": "",
+		"blog": "https://blog.cloudflare.com/",
+		"blogrss": "http://blog.cloudflare.com/rss/",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png",
+		"tags": null
+	},
+	{
+		"id": "XNQEpxsu116NHzfqNlnX9Iwk7123BkfwjRrLWd6jHFJkimSIqyLXHoVw7ycmf7X3Y116FN4JGuc0ITJbooxEPmvPez123g117117",
+		"name": "DNS Check",
+		"summary": "With this API you can monitor the status of both individual DNS records, and groups of related DNS records. Verify that each record is resolvable, and returns the result that you expect. Supports A, AAAA, CNAME, MX, NS, PTR, SOA and TXT records.",
+		"details": "With this API you can monitor the status of both individual DNS records, and groups of related DNS records. Verify that each record is resolvable, and returns the result that you expect. Supports A, AAAA, CNAME, MX, NS, PTR, SOA and TXT records.",
+		"website": null,
+		"twitter": null,
+		"github": null,
+		"blog": null,
+		"blogrss": null,
+		"logo": "https://cdn.dnscheck.co/images/dns-check-icon.png",
+		"logo_width": null,
+		"screenshot": "https://cdn.dnscheck.co/images/dns-check-icon.png",
 		"tags": null
 	},
 	{
@@ -114,9 +129,9 @@
 		"github": "https://github.com/google",
 		"blog": "",
 		"blogrss": "http://feeds.feedburner.com/GoogleAdsDeveloperBlog",
-		"logo": "http://deployment.googleapps.com/_/rsrc/1326052805286/Home/user-resources/google-icons-and-logos/google_logo_3D_online_medium.png",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-logo.jpg",
 		"logo_width": "150",
-		"screenshot": "http://deployment.googleapps.com/_/rsrc/1326052805286/Home/user-resources/google-icons-and-logos/google_logo_3D_online_medium.png",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-logo.jpg",
 		"tags": null
 	},
 	{
