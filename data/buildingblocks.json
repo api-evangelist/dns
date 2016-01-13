@@ -8,73 +8,7 @@
 		"category": "Core DNS",
 		"image": "",
 		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "JoJeFA3esxqZrGknC02XvfxcFQSEKNFv7s2CUe7jVd6jJQD13phU07exg1e116IFkaIrKcCCZ3QvH2Te8i4syTPA117117",
-		"building_block_category_id": "sHoreAdhjX123lqSBy116uniFt0Q6BPVa87uLciC2cMrMkqPvlzoW6pxniX0RgT116pRHsSnugRlVBVQ123hw04Bsm19PA117117",
-		"name": "Record",
-		"about": "Management of all types of records for a single domain.",
-		"category_id": "195",
-		"category": "Core DNS",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "H0SFAY5Tht123fYueOcF1VcmsEnYBlNLy116CARqJzAF123XHoxKtrjJV60V6MZdaA5SKRJJGtZs4f123jJIJ5neyCLrlA117117",
-		"building_block_category_id": "sHoreAdhjX123lqSBy116uniFt0Q6BPVa87uLciC2cMrMkqPvlzoW6pxniX0RgT116pRHsSnugRlVBVQ123hw04Bsm19PA117117",
-		"name": "Zone",
-		"about": "Manage the zones for any particular domain.",
-		"category_id": "195",
-		"category": "Core DNS",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "fdTpI22sJa4cCRjwYvinDpZ1163123BjKXktbm49MEB3MvMzF123c1YQyEnNO123Bx6i46zpmcPSM6xQ5Pm1jE4LyeqNsw117117",
-		"building_block_category_id": "sHoreAdhjX123lqSBy116uniFt0Q6BPVa87uLciC2cMrMkqPvlzoW6pxniX0RgT116pRHsSnugRlVBVQ123hw04Bsm19PA117117",
-		"name": "Registration",
-		"about": "Being able to register new domains, purchase, and manage ownership and registrar.",
-		"category_id": "195",
-		"category": "Core DNS",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "VzY0UMSdQIyqUqxtcPzI9RgNOlo7ZgptfZe116HvIME116k6aF4vPrN8FYgVEbOczIStaLMM123NQv9iFgCZOwncboXw117117",
-		"building_block_category_id": "sHoreAdhjX123lqSBy116uniFt0Q6BPVa87uLciC2cMrMkqPvlzoW6pxniX0RgT116pRHsSnugRlVBVQ123hw04Bsm19PA117117",
-		"name": "Cache",
-		"about": "Allow for domain level caching of all requests made through the domain.",
-		"category_id": "195",
-		"category": "Core DNS",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "cTBtqWJr2pAtYB9T0123oYipo116jluOLiLhv6GqNEz1231w6tfY7AL123lXkwmfBKa11629D3s6ZtnSkY0mVb00osZmEbrA117117",
-		"building_block_category_id": "sHoreAdhjX123lqSBy116uniFt0Q6BPVa87uLciC2cMrMkqPvlzoW6pxniX0RgT116pRHsSnugRlVBVQ123hw04Bsm19PA117117",
-		"name": "IP Address",
-		"about": "Ability to manage IP address information, and perform lookups.",
-		"category_id": "195",
-		"category": "Core DNS",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "y9nwid1zXj6qqWuK5pfL5JGRKt3f6X123afOD2lmiRkfpew0cSvLkZLNwRgpHZhAprtFPMcwVUGAwXjBaMNHm8eg117117",
-		"building_block_category_id": "sHoreAdhjX123lqSBy116uniFt0Q6BPVa87uLciC2cMrMkqPvlzoW6pxniX0RgT116pRHsSnugRlVBVQ123hw04Bsm19PA117117",
-		"name": "Geo DNS",
-		"about": "Manage geographic specific details about domain operation.",
-		"category_id": "195",
-		"category": "Core DNS",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
+		"sort_order": "1"
 	},
 	{
 		"building_block_id": "IFjR0vg4cOCOVGwP6Fi123RFgucRe9CHN6nkIfZH2MJnEKJN123xa1b0MZPFNfoj5wgP3MuF1KeC116ayCl1169EaeSwzQ117117",
@@ -85,73 +19,7 @@
 		"category": "Stability",
 		"image": "",
 		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "f0vgDn116MqUOaMPIRsHob1Ds2vHivOhq6i16lEMCTgao5xJQBWfbcqx8GqedQanMo4OPgAe30DAtkb8ZRCWm6Ww117117",
-		"building_block_category_id": "d7Uov3QnJxLvJV116lNwcJFlQ8DmSe27hS8eloMI2ZfhzXK8cEv123HDzujSoy6r85FjDfSOsyZumwGDQEFCOFGNnQ117117",
-		"name": "Threat Analysis",
-		"about": "Being able to establish and understanding of, and measure DNS level threats.",
-		"category_id": "196",
-		"category": "Stability",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "123c6zpl9m0Z2xmi1I99i7IhwrNYosUkqiq4603bNvFaZ3z3OtvS5hW9SREDyawjwEf4sZY5teJg67Kh4XRCT1Ew117117",
-		"building_block_category_id": "d7Uov3QnJxLvJV116lNwcJFlQ8DmSe27hS8eloMI2ZfhzXK8cEv123HDzujSoy6r85FjDfSOsyZumwGDQEFCOFGNnQ117117",
-		"name": "Whitelist / Blacklist",
-		"about": "Being able to establish white lists and black lists of domains, IP addresses, and other criteria for DNS level defense.",
-		"category_id": "196",
-		"category": "Stability",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "WsVui72Dkb45cl2o123DjZDwXxrvSrTXzNrPGltJfJhvIG4A30pqkT2yHmZSieRZso8ulSjrirTZxNIaIs3l8eDg117117",
-		"building_block_category_id": "d7Uov3QnJxLvJV116lNwcJFlQ8DmSe27hS8eloMI2ZfhzXK8cEv123HDzujSoy6r85FjDfSOsyZumwGDQEFCOFGNnQ117117",
-		"name": "Denial of Service (DDOS)",
-		"about": "DNS tools for identifying and defending against a denial of service (DOS) attack.",
-		"category_id": "196",
-		"category": "Stability",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "joMCtIQu1239n1aJ5R0KTcTFmE0JBt11603b4WFFrbzUE116UFew123jl2n116PV8hKdpDJgMCnRLe1X4dYKamhSz0pMe7fQ117117",
-		"building_block_category_id": "d7Uov3QnJxLvJV116lNwcJFlQ8DmSe27hS8eloMI2ZfhzXK8cEv123HDzujSoy6r85FjDfSOsyZumwGDQEFCOFGNnQ117117",
-		"name": "DNS Failover",
-		"about": "Allowing for failover at the DNS level, providing redundancy and failover of DNS infrastructure.",
-		"category_id": "196",
-		"category": "Stability",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "JEPJ0ospNvPrTGx7YQI0I6iJmfmdkp116ioyQObSImnqEVxsedTD116ptcZWHMvScFvPPxb7vB1238dedhMr3pHD3Wjw117117",
-		"building_block_category_id": "d7Uov3QnJxLvJV116lNwcJFlQ8DmSe27hS8eloMI2ZfhzXK8cEv123HDzujSoy6r85FjDfSOsyZumwGDQEFCOFGNnQ117117",
-		"name": "Latency Based Routing",
-		"about": "Being able to route DNS traffic to different locations based upon latency of networks.",
-		"category_id": "196",
-		"category": "Stability",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "LL7rnbtr1K012xQI8GG9HKZrMVFwG6WXSBR0V66n0deaqC1Bl9116KO116KTGo0jUNPS4VAm9FGACZ8gzs6fZS5MgA117117",
-		"building_block_category_id": "d7Uov3QnJxLvJV116lNwcJFlQ8DmSe27hS8eloMI2ZfhzXK8cEv123HDzujSoy6r85FjDfSOsyZumwGDQEFCOFGNnQ117117",
-		"name": "Verification",
-		"about": "Ability to verify availability, and health of DNS infrastructure, and certifying for other parties.",
-		"category_id": "196",
-		"category": "Stability",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
+		"sort_order": "1"
 	},
 	{
 		"building_block_id": "FLM0sWtrYMiKN7IPxX4qzcwnvXGeihRgryUizAUp9quHPeaOUNKXR116jkOGcSGRd9wmofGPvCM9gS1wGIAJ88116w117117",
@@ -162,7 +30,29 @@
 		"category": "Utility",
 		"image": "",
 		"image_width": "100",
-		"sort_order": "0"
+		"sort_order": "1"
+	},
+	{
+		"building_block_id": "JoJeFA3esxqZrGknC02XvfxcFQSEKNFv7s2CUe7jVd6jJQD13phU07exg1e116IFkaIrKcCCZ3QvH2Te8i4syTPA117117",
+		"building_block_category_id": "sHoreAdhjX123lqSBy116uniFt0Q6BPVa87uLciC2cMrMkqPvlzoW6pxniX0RgT116pRHsSnugRlVBVQ123hw04Bsm19PA117117",
+		"name": "Record",
+		"about": "Management of all types of records for a single domain.",
+		"category_id": "195",
+		"category": "Core DNS",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "2"
+	},
+	{
+		"building_block_id": "f0vgDn116MqUOaMPIRsHob1Ds2vHivOhq6i16lEMCTgao5xJQBWfbcqx8GqedQanMo4OPgAe30DAtkb8ZRCWm6Ww117117",
+		"building_block_category_id": "d7Uov3QnJxLvJV116lNwcJFlQ8DmSe27hS8eloMI2ZfhzXK8cEv123HDzujSoy6r85FjDfSOsyZumwGDQEFCOFGNnQ117117",
+		"name": "Threat Analysis",
+		"about": "Being able to establish and understanding of, and measure DNS level threats.",
+		"category_id": "196",
+		"category": "Stability",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "2"
 	},
 	{
 		"building_block_id": "s6Vd62PZ3BWZyRYRoCP116r4S0QuXhuS7a0HlLxKTXuW6oyo3UB8c37cPm8UswkZ16eV7UneVzeSWaqU123mtJxsiA117117",
@@ -173,7 +63,29 @@
 		"category": "Utility",
 		"image": "",
 		"image_width": "100",
-		"sort_order": "0"
+		"sort_order": "2"
+	},
+	{
+		"building_block_id": "H0SFAY5Tht123fYueOcF1VcmsEnYBlNLy116CARqJzAF123XHoxKtrjJV60V6MZdaA5SKRJJGtZs4f123jJIJ5neyCLrlA117117",
+		"building_block_category_id": "sHoreAdhjX123lqSBy116uniFt0Q6BPVa87uLciC2cMrMkqPvlzoW6pxniX0RgT116pRHsSnugRlVBVQ123hw04Bsm19PA117117",
+		"name": "Zone",
+		"about": "Manage the zones for any particular domain.",
+		"category_id": "195",
+		"category": "Core DNS",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "3"
+	},
+	{
+		"building_block_id": "123c6zpl9m0Z2xmi1I99i7IhwrNYosUkqiq4603bNvFaZ3z3OtvS5hW9SREDyawjwEf4sZY5teJg67Kh4XRCT1Ew117117",
+		"building_block_category_id": "d7Uov3QnJxLvJV116lNwcJFlQ8DmSe27hS8eloMI2ZfhzXK8cEv123HDzujSoy6r85FjDfSOsyZumwGDQEFCOFGNnQ117117",
+		"name": "Whitelist / Blacklist",
+		"about": "Being able to establish white lists and black lists of domains, IP addresses, and other criteria for DNS level defense.",
+		"category_id": "196",
+		"category": "Stability",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "3"
 	},
 	{
 		"building_block_id": "vre123bWqeKWCunipkKxHGahfqFlM0UJukNuzSIZm0CZb116IgBlX5VdgoQhOX0RmEczWicsinzZnmWIkxuVHoreRg117117",
@@ -184,7 +96,29 @@
 		"category": "Utility",
 		"image": "",
 		"image_width": "100",
-		"sort_order": "0"
+		"sort_order": "3"
+	},
+	{
+		"building_block_id": "fdTpI22sJa4cCRjwYvinDpZ1163123BjKXktbm49MEB3MvMzF123c1YQyEnNO123Bx6i46zpmcPSM6xQ5Pm1jE4LyeqNsw117117",
+		"building_block_category_id": "sHoreAdhjX123lqSBy116uniFt0Q6BPVa87uLciC2cMrMkqPvlzoW6pxniX0RgT116pRHsSnugRlVBVQ123hw04Bsm19PA117117",
+		"name": "Registration",
+		"about": "Being able to register new domains, purchase, and manage ownership and registrar.",
+		"category_id": "195",
+		"category": "Core DNS",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "4"
+	},
+	{
+		"building_block_id": "WsVui72Dkb45cl2o123DjZDwXxrvSrTXzNrPGltJfJhvIG4A30pqkT2yHmZSieRZso8ulSjrirTZxNIaIs3l8eDg117117",
+		"building_block_category_id": "d7Uov3QnJxLvJV116lNwcJFlQ8DmSe27hS8eloMI2ZfhzXK8cEv123HDzujSoy6r85FjDfSOsyZumwGDQEFCOFGNnQ117117",
+		"name": "Denial of Service (DDOS)",
+		"about": "DNS tools for identifying and defending against a denial of service (DOS) attack.",
+		"category_id": "196",
+		"category": "Stability",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "4"
 	},
 	{
 		"building_block_id": "dDrfbJeHxf7OXxTr5jp4pzQrKAMX3XQpqVfEg918s116qeZWPCSMBDfWlZ5Kt6hWmYl9116rLXatUp828MlFezEP6g117117",
@@ -195,6 +129,72 @@
 		"category": "Utility",
 		"image": "",
 		"image_width": "100",
-		"sort_order": "0"
+		"sort_order": "4"
+	},
+	{
+		"building_block_id": "VzY0UMSdQIyqUqxtcPzI9RgNOlo7ZgptfZe116HvIME116k6aF4vPrN8FYgVEbOczIStaLMM123NQv9iFgCZOwncboXw117117",
+		"building_block_category_id": "sHoreAdhjX123lqSBy116uniFt0Q6BPVa87uLciC2cMrMkqPvlzoW6pxniX0RgT116pRHsSnugRlVBVQ123hw04Bsm19PA117117",
+		"name": "Cache",
+		"about": "Allow for domain level caching of all requests made through the domain.",
+		"category_id": "195",
+		"category": "Core DNS",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "5"
+	},
+	{
+		"building_block_id": "joMCtIQu1239n1aJ5R0KTcTFmE0JBt11603b4WFFrbzUE116UFew123jl2n116PV8hKdpDJgMCnRLe1X4dYKamhSz0pMe7fQ117117",
+		"building_block_category_id": "d7Uov3QnJxLvJV116lNwcJFlQ8DmSe27hS8eloMI2ZfhzXK8cEv123HDzujSoy6r85FjDfSOsyZumwGDQEFCOFGNnQ117117",
+		"name": "DNS Failover",
+		"about": "Allowing for failover at the DNS level, providing redundancy and failover of DNS infrastructure.",
+		"category_id": "196",
+		"category": "Stability",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "5"
+	},
+	{
+		"building_block_id": "cTBtqWJr2pAtYB9T0123oYipo116jluOLiLhv6GqNEz1231w6tfY7AL123lXkwmfBKa11629D3s6ZtnSkY0mVb00osZmEbrA117117",
+		"building_block_category_id": "sHoreAdhjX123lqSBy116uniFt0Q6BPVa87uLciC2cMrMkqPvlzoW6pxniX0RgT116pRHsSnugRlVBVQ123hw04Bsm19PA117117",
+		"name": "IP Address",
+		"about": "Ability to manage IP address information, and perform lookups.",
+		"category_id": "195",
+		"category": "Core DNS",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "6"
+	},
+	{
+		"building_block_id": "JEPJ0ospNvPrTGx7YQI0I6iJmfmdkp116ioyQObSImnqEVxsedTD116ptcZWHMvScFvPPxb7vB1238dedhMr3pHD3Wjw117117",
+		"building_block_category_id": "d7Uov3QnJxLvJV116lNwcJFlQ8DmSe27hS8eloMI2ZfhzXK8cEv123HDzujSoy6r85FjDfSOsyZumwGDQEFCOFGNnQ117117",
+		"name": "Latency Based Routing",
+		"about": "Being able to route DNS traffic to different locations based upon latency of networks.",
+		"category_id": "196",
+		"category": "Stability",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "6"
+	},
+	{
+		"building_block_id": "y9nwid1zXj6qqWuK5pfL5JGRKt3f6X123afOD2lmiRkfpew0cSvLkZLNwRgpHZhAprtFPMcwVUGAwXjBaMNHm8eg117117",
+		"building_block_category_id": "sHoreAdhjX123lqSBy116uniFt0Q6BPVa87uLciC2cMrMkqPvlzoW6pxniX0RgT116pRHsSnugRlVBVQ123hw04Bsm19PA117117",
+		"name": "Geo DNS",
+		"about": "Manage geographic specific details about domain operation.",
+		"category_id": "195",
+		"category": "Core DNS",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "7"
+	},
+	{
+		"building_block_id": "LL7rnbtr1K012xQI8GG9HKZrMVFwG6WXSBR0V66n0deaqC1Bl9116KO116KTGo0jUNPS4VAm9FGACZ8gzs6fZS5MgA117117",
+		"building_block_category_id": "d7Uov3QnJxLvJV116lNwcJFlQ8DmSe27hS8eloMI2ZfhzXK8cEv123HDzujSoy6r85FjDfSOsyZumwGDQEFCOFGNnQ117117",
+		"name": "Verification",
+		"about": "Ability to verify availability, and health of DNS infrastructure, and certifying for other parties.",
+		"category_id": "196",
+		"category": "Stability",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "7"
 	}
 ]
