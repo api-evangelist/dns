@@ -59,7 +59,7 @@ navigation:
     size1: 80
     extend: 1
     label2: JSON
-    link2: /data/companies.json
+    link2: /data/organizations.json
     size2: 60
     padding: 0
     decorate: 0
