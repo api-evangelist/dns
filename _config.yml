@@ -24,7 +24,7 @@ repo: dns
 
 # Masthead title
 masthead_link: http://dns.apievangelist.com
-masthead_font_size: 75
+masthead_font_size: 90
 masthead_title: '{"DNS API"}'
 
 # Feature
