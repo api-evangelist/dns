@@ -28,7 +28,7 @@ masthead_title: '{"DNS API"}'
 feature_title: API Guide
 feature_link: http://apievangelist.com
 feature_image_source: https://s3.amazonaws.com/kinlane-productions/whitepapers/api-guides-loading.jpg
-feature_image_width: 50
+feature_image_width: 45
 
 # Project
 project_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-globe.png
@@ -88,7 +88,7 @@ navigation:
     label2:
     link2:
     size2: 10
-    padding: 12
+    padding: 0
     decorate: 1
 
 # Footer Navigation
