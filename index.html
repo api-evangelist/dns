@@ -14,9 +14,9 @@ title: DNS API
 
     <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Top Links</strong></p>
     <ul class="featurelist">
-      <li><a href="http://apis.how/xlir5cw3eh">Cloudflare</a></li>
-      <li><a href="http://apis.how/lzkl4rm0xm">Amazon Route 53</a></li>
-      <li><a href="http://apis.how/nb4te8q7gf">ARIN Reg-RWS</a></li>
+      {% for org in site.data.organizations  limit:5 %}
+        <li><a href="{{ org.website }}">{{ org.name }}</a></li>
+      {% endfor %}
     </ul>
 
   </div>
