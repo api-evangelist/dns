@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 'DNS API Tooling'
+title: '{{ site.title }} Tooling'
 ---
-<h1>DNS API Tooling</h1>
-<p>These are the open source DNS API tooling that I am tracking on as part of my research, and can be used as part of the DNS process.</p>
+<h1>{{ site.title }} Tooling</h1>
+<p>{{ site.tools_desc }}</p>
 <table width="100%" border="0">
   {% for tool in site.data.tools %}
     {% if tool.tags contains 'DNS' %}
@@ -31,4 +31,4 @@ title: 'DNS API Tooling'
     {% endif %}
   {% endfor %}
 </table>
-<p>If there is an open source tool that should be listed here, <a href="https://github.com/api-evangelist/hyermedia/issues">submit as a Github Issue, and I will consider adding</a>.</p>
+<p>If there is an "open source tool" that should be listed here, <a href="https://github.com/{{ site.org }}/{{ site.repo }}/issues">submit as a Github Issue, and I will consider adding</a>.</p>
