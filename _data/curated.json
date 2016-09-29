@@ -1,5 +1,285 @@
 [
 	{
+		"curated_id": "rII4ztFwHiBtfF7LxAL43zGSL0p3bBVejFIJo9buHXXLfZnhdY116ajtJQFK1V116KSjV4TPx123jaAGNXoZgrwHCoYA117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "An overview of TLS 13 and QA",
+		"url": "https://blog.cloudflare.com/tls-1-3-overview-and-q-and-a/",
+		"domain": "blog.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1123IC0K61KY36NQ6udMd35Wl5hkKOpGV85SaSg0SQfX1238Q5XLz1116Ua7duOIMxqCAK9TeBWyIePd1231F3wJCQ11624Q117117",
+		"item_date": "2016-09-19 00:00:00",
+		"title": "CloudFlares new WordPress plugin",
+		"url": "https://blog.cloudflare.com/new-wordpress-plugin/",
+		"domain": "blog.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BgfUSfygQMCV314a4aS7NUcU6PVkdpqKS0VxaETN4DA0cbeksL123F1169hnjoxFPlpOKNNYCCZ2h1kMVt8QS1iePQ117117",
+		"item_date": "2016-09-20 00:00:00",
+		"title": "Are dedicated IPs important",
+		"url": "https://postmarkapp.com/blog/are-dedicated-ips-important",
+		"domain": "postmarkapp.com",
+		"image": ""
+	},
+	{
+		"curated_id": "j0LOD4123pG3rKY7Eo0ioWXfnNHmAptBWeN5116i7ZDvqHgtFxskM1razNZJeQ9eGV24XXoqZKHUslsvn3t7lE6PcA117117",
+		"item_date": "2016-09-21 09:15:15",
+		"title": "Is TLS Fast Yet",
+		"url": "https://istlsfastyet.com/",
+		"domain": "istlsfastyet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Lc9rxKMMgO123edpGsDJD6DpRJsdWL116nm4Ake3BC7Flau1JzsgE3jkcGHcJcaWJzPAJ2o8YY3PIhY29zDLrF6t6Q117117",
+		"item_date": "2016-09-21 09:15:15",
+		"title": "Introducing TLS 13",
+		"url": "https://blog.cloudflare.com/introducing-tls-1-3/",
+		"domain": "blog.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "FzmaUnN8AsQgjqfizNG864c412TeYqSnYtrbCbOH123B65fvDAuvWQecBQ123CA2123OYBx4hH91237JNbyLt116123shYVh6A117117",
+		"item_date": "2016-09-21 16:55:16",
+		"title": "Cloudflare looks to TLS 13 to secure internet",
+		"url": "http://www.scmagazineuk.com/cloudflare-looks-to-tls-13-to-secure-internet/article/523982/",
+		"domain": "www.scmagazineuk.com",
+		"image": ""
+	},
+	{
+		"curated_id": "tqBJ48AUUlRo7s123ayb8FouusF8ffLkfh0XaOAX3NtKe9khO116f116HYGYygaZGQMwwEDaZQH5LJ41YTIIpdftB47Q117117",
+		"item_date": "2016-09-19 00:00:00",
+		"title": "The US Is Not Handing Over The Internet",
+		"url": "http://dyn.com/blog/the-u-s-is-not-handing-over-the-internet/",
+		"domain": "dyn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "JsrI8Qq5MGNh9h1gTCXc123UO21N59vaNG4m3A6PRinJRg116UYYS3RppLkIUQpZm123a9krRExv96Em7jZmsc0qEV2w117117",
+		"item_date": "2016-09-13 03:31:51",
+		"title": "Tweet Announcing the official DNSimple API v2 Nodejs client httpstco9qiPGLfyGV ",
+		"url": "https://twitter.com/dnsimple/statuses/775643148303396864",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "oTLiweAqosSMsmwUNLtrwqLUfWYbfX9ktpKzUb0123TqZBLOsuLg7TDwH3DFxIx49pOIOIso4TYFpvYtlixUuLfQ117117",
+		"item_date": "2016-09-16 00:00:00",
+		"title": "GoDaddy039s Proposal for Standard DNS Configuration API Could Ease a Lot of Pain",
+		"url": "http://www.programmableweb.com/news/godaddys-proposal-standard-dns-configuration-api-could-ease-lot-pain/2016/09/16",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123kYmRUMUlt8IxK3uDWEal5hYLuN7OtkrEDQ2d3O9m4bI2ZukMmNbCrgTZb5l3IuKrWMSgmu7diSSnqTSoorvEQ117117",
+		"item_date": "2016-09-16 10:09:48",
+		"title": "GoDaddys New API Eases Domain Name Redirect to Microsoft Squarespace Others",
+		"url": "http://smallbiztrends.com/2016/09/godaddy-dns-domain-connect.html",
+		"domain": "smallbiztrends.com",
+		"image": ""
+	},
+	{
+		"curated_id": "I116ZppZOmyu54CU2AdIg9LmMpa116XvkHNoetRr09175va1168WKYbcZHiPWFyZxJtzycYcovEayVEJWtSyTvEVZ8oA117117",
+		"item_date": "2016-09-14 00:00:00",
+		"title": "Internet naming system not US property says congressional watchdog",
+		"url": "http://www.pcworld.com/article/3119891/internet/internet-naming-system-not-us-property-says-congressional-watchdog.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "aBxuuQDZWsiOEbAQgF4WJul52YDm00zcL116wxFh5123sfGoE4P7G4KHLzosymssyQ1AapvJVl5Q116uxdQo48JYMGYw117117",
+		"item_date": "2016-09-14 00:00:00",
+		"title": "IPTransparency and Direct Server Return with NGINX and NGINXPlus as Transparent Proxy",
+		"url": "https://www.nginx.com/blog/ip-transparency-direct-server-return-nginx-plus-transparent-proxy/",
+		"domain": "www.nginx.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PleLy276qgy2pLVNTbFQdu116GrOpGxd8Es875XDe116lALpLcCyRvp44IsOg6ZBd0Dd1lIPLdh9CrBuzfMaesHfbQ117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Dyn Joins Technology Industry Leaders Urging Congress To Support ICANN  IANA Transition",
+		"url": "http://dyn.com/blog/dyn-joins-technology-industry-leaders-urging-congress-to-support-icann-iana-transition/",
+		"domain": "dyn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Po1cwx6djBbuK4jm116j8L123KEscGLUHKYjWR2X5w302zROJQ5hIKtDgKQGh123Umno116hnvRBr9CtKsIEwKdoO353ew117117",
+		"item_date": "2016-09-09 21:13:39",
+		"title": "Tweet Cloudflare has graciously arranged to host the vDOS attack log which is pretty large as text files go httpstcogfK3VdR0zn",
+		"url": "https://twitter.com/briankrebs/statuses/774460806020956160",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Jqjf6Bfbf6ldc9bGztBU3Obr6MxgZ1Tjx6bpQkRA8r9gzN3cYRq123v123858yq2BlivinR5bkhemtweLv0ituJASA117117",
+		"item_date": "2016-09-08 12:09:42",
+		"title": "Tweet New Blog Benefits of Adopting IPv6 httpstcoUiIrWAjtLD",
+		"url": "https://twitter.com/TeamARIN/statuses/773961526885638145",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "n123oYTGSZAfz123rAjfpoQ116YkGq1SFEZrbIv2FiTCnV1XmRGDOoenwWFahF25BEoeuZ6ahPO6egUcOxW7sJ2C9vGQ117117",
+		"item_date": "2016-09-06 00:00:00",
+		"title": "A Domain by Any Other Name CNAMES Wildcard Records and Another Level of Indirection",
+		"url": "https://www.digitalgov.gov/2016/09/06/a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection/",
+		"domain": "www.digitalgov.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "w116477isZzdB1168VVakIa8D123jBw8EmJBHzg7IpoIbQ0OJxr123OtvJQsnx0BEYwosSbZFdGQfWobs0IlhSSWCzeifg117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "Help Us to Help You Get to the Next Big Thing in DNS Security",
+		"url": "https://community.infoblox.com/t5/Company-Blog/Help-Us-to-Help-You-Get-to-the-Next-Big-Thing-in-DNS-Security/ba-p/7605",
+		"domain": "community.infoblox.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CTybmtJQ904OankGOVWOFKAe2HJMuwOZ123PPlfbqLc116SHMmlsDEZR123AYlqZ2aWPj3vHvTqlvxU3pQag3ixDcnmw117117",
+		"item_date": "2016-09-02 09:00:06",
+		"title": "Take your domains performance to the next level Learn about these  reccomended PageRules",
+		"url": "https://www.cloudflare.com/features-page-rules/optimize-speed/",
+		"domain": "www.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "xh0123Riv0Cx00gDysJ116tPlzKy1sKzjvthXyM116m73UTVIjtOthYHZxSC7123n538H123V5M5luVpx2123cRvGbKpP7roEQ117117",
+		"item_date": "2016-09-02 13:05:03",
+		"title": "Enhance security amp performance on your WordPress site with our recommended  PageRules",
+		"url": "https://www.cloudflare.com/features-page-rules/optimize-wordpress/",
+		"domain": "www.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Lufta5Id123zfV5j5H7Nynj2fcVHbiZKeHL0pvgoXftG752TrSxVi9fRDBVVwki89xGlIS3v29m5IlVOFKdG8w9w117117",
+		"item_date": "2016-09-02 17:00:03",
+		"title": "Enhance the experience on magento with some of our most recommended PageRules",
+		"url": "https://www.cloudflare.com/features-page-rules/optimize-magento/",
+		"domain": "www.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ECoyftOxYovEF4he5ExT6Ulsjv123iWnp40WK116fkeqrsxCcoiCIPKGsuzS6sI116kN0vJ12IMKy8jXjKHOALxQh75w117117",
+		"item_date": "2016-08-29 16:30:07",
+		"title": "Crank up security on your site with some of our most recommended PageRules",
+		"url": "https://www.cloudflare.com/features-page-rules/harden-security/",
+		"domain": "www.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uCBCz3T0apvIPuYi4tdUeukgFTBje71hR123Cd1230MatiBuSxCD99e41eITQBhDpfUbVt4hzmMh0fZiPmgYXeciEQ117117",
+		"item_date": "2016-09-01 00:00:00",
+		"title": "Measure Cloud Performance Like A Customer",
+		"url": "http://dyn.com/blog/measure-cloud-performance-like-a-customer/",
+		"domain": "dyn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "d5YAB123Xza9cT7vicFPFzIyJorjQ123ljQmy80zlR123nZhLocLrApuBKpXVrpWD4Uu46HAW8vKp5m07ZkxBr3bZymw117117",
+		"item_date": "2016-08-31 00:00:00",
+		"title": "How I used Cloudinary to solve responsive image needs in my Jekyll website and shared the magic in a plugin",
+		"url": "http://cloudinary.com/blog/how_i_used_cloudinary_to_solve_responsive_image_needs_in_my_jekyll_website_and_shared_the_magic_in_a_plugin",
+		"domain": "cloudinary.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5gP9qclJbWpKoOV3WOvf3mgub116zCFMaDFFeTXekcfEEhVQr7n9FbpU5jcCqlUllfGa4D9Ljz1sRgxKyTxZCCeA117117",
+		"item_date": "2016-08-31 00:00:00",
+		"title": "DNS is NOT a Transport Protocol",
+		"url": "https://community.infoblox.com/t5/Company-Blog/DNS-is-NOT-a-Transport-Protocol/ba-p/7546",
+		"domain": "community.infoblox.com",
+		"image": ""
+	},
+	{
+		"curated_id": "VFUtOOWxc1jZN8VUDYXOfPKdIW3tHz1XNVgEaVRY123AGUBeslTxOahglBshK5USuAA852UyaRHx1j7DJv4sMT3w117117",
+		"item_date": "2016-08-25 10:27:56",
+		"title": "The Truly Massive Scale of IPv6 Visualized",
+		"url": "https://www.youtube.com/watch",
+		"domain": "www.youtube.com",
+		"image": ""
+	},
+	{
+		"curated_id": "VXhTEveiDKDPLyBKqzaIHF123PGoB0E3CyvBvSiYAVvE123v1VdamMNySkhfQ123nwAegUjKeNYVJ0paDzSjI6116suT2w117117",
+		"item_date": "2016-08-25 00:00:00",
+		"title": "Deliver Content as Well as Netflix with Dyn Internet Intelligence",
+		"url": "http://dyn.com/blog/deliver-content-as-well-as-netflix-with-dyn-internet-intelligence/",
+		"domain": "dyn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116VcZ0123KqnM0WJG116bumH12331vMmMDPm66YJJXYEjhs1163Sh62PHkFrgtyTMI2eki123U9lcGi8iSIT4N4P22xsseipA117117",
+		"item_date": "2016-08-24 00:00:00",
+		"title": "Joe St Sauver NonUS Universities with edu Domain Names Theyre More Common Than You Might Think",
+		"url": "https://www.farsightsecurity.com/Blog/20160824-stsauver-edu-investigation/",
+		"domain": "www.farsightsecurity.com",
+		"image": ""
+	},
+	{
+		"curated_id": "h0lZUC2u0noXssBN2I93ooWrdz7Vakh4UB5Wv2iMop2yhFvy116wq4UPgZUjZA3psubA8MydqLdBJ3B7ZLDKO0ZA117117",
+		"item_date": "2016-08-21 00:00:00",
+		"title": "Getblog by WordPress  Prebook blog domains before its open to public",
+		"url": "https://get.blog/",
+		"domain": "get.blog",
+		"image": ""
+	},
+	{
+		"curated_id": "g4j7abzsqrwM8d47uaMpZ6KdOaQIfnkj515oQ91Es8116123QzfHbbPyt63uJjJMtq9WYF9Jw4LG9aFA3CfQVsviNQ117117",
+		"item_date": "2016-08-16 00:00:00",
+		"title": "Poorly Configured DNSSEC  Potential DDoS Weapon",
+		"url": "http://www.darkreading.com/cloud/poorly-configured-dnssec---potential-ddos-weapon/d/d-id/1326643",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "d05Ct5Vhpbz1160HYuvSXohqswm99IaRx8AifM4UmInNFAfpYZn15kRoAY72BTJwh116EfSQxr29Vf1XyUKOAoVOpQ117117",
+		"item_date": "2016-08-18 00:00:00",
+		"title": "The Cuban CDN",
+		"url": "https://blog.cloudflare.com/the-cuban-cdn/",
+		"domain": "blog.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "AUCYWTEZ38GYzzBrf3AlGM1FRbU5w0hXS5lJSyZPX6V5gZkRt4123fxQ9rZ6HwCFGhzqWAUpwsEUgGEnfM3UgEbA117117",
+		"item_date": "2016-08-16 00:00:00",
+		"title": "Extending Global Load Balancing to the Cloud with Secondary DNS",
+		"url": "http://dyn.com/blog/extending-global-load-balancing-to-the-cloud-with-secondary-dns/",
+		"domain": "dyn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "lsDEIMhF116cYukO7lWroXw8rLBpYmLPgWByx6XgrlopXfoC1udzWgu48oQ9kLGf0VSepT2qOqWjkoSM1A123HWa116Q117117",
+		"item_date": "2016-08-12 13:01:42",
+		"title": "Airtel is sniffing and censoring CloudFlares traffic in India and CloudFlare doesnt even know it",
+		"url": "https://medium.com/@karthikb351/airtel-is-sniffing-and-censoring-cloudflares-traffic-in-india-and-they-don-t-even-know-it-90935f7f6d98#.rllbwnqwu",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Nkh123bhjuo1X123ueTvOth0116ex116REFde2mzyWMkuEIRKOd3PSHzAuEr7qw7INq4qlejB116iw01123116KZAxA3D3BGHgPg117117",
+		"item_date": "2016-08-12 00:00:00",
+		"title": "IANA successor organization set up amid internet handover controversy",
+		"url": "http://www.pcworld.com/article/3106741/internet/iana-successor-organization-set-up-amid-internet-handover-controversy.html",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PJxs3xR3h4RQv5dAQneCDr2C8Aca3zglj5wQaHlHFOa3L2L4zqwg3tQ28fSCwomopvZ123123xZGNSMaLpiv14jl2w117117",
+		"item_date": "2016-08-03 00:00:00",
+		"title": "DNS Experience Tests A Key Cog in the Online Ecosystem",
+		"url": "http://blog.catchpoint.com/2016/08/03/dns-experience-tests/",
+		"domain": "blog.catchpoint.com",
+		"image": ""
+	},
+	{
+		"curated_id": "R2UJZZh116JdF16y1232yjBAFil4rUs25Akq116uWNjQS5jHYdz0yLmYeO5Trhq123QVQG0alogur9FucZadoUaFYwahpw117117",
+		"item_date": "2016-08-02 00:00:00",
+		"title": "Introducing the p0f BPF compiler",
+		"url": "https://blog.cloudflare.com/introducing-the-p0f-bpf-compiler/",
+		"domain": "blog.cloudflare.com",
+		"image": ""
+	},
+	{
 		"curated_id": "FIMw4MxsMNJ2QHzzh06lMZlSL8tFkDMzv4J116SZ2X1237hSQanepg0K116kWS2YM3MHAzSDCyQfU9NDdlX1lT0LQNrA117117",
 		"item_date": "2016-08-01 00:00:00",
 		"title": "Dont Call It A Comeback Why DNS Is At The Core of Internet Performance Management",
