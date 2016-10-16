@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "RlznFOkbT9XOlthP12311veWv5wAcNoL5HoaonZzgXFlsJaBhUwZIgqmjmfhOfwD7pUAabRUVNDflP3VAHJcsvAA117117",
+		"item_date": "2016-10-12 08:41:34",
+		"title": "TLS noncense",
+		"url": "https://blog.cloudflare.com/tls-nonce-nse/",
+		"domain": "blog.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8kr116kvWXdoZldgwGA123116IaOjcTxJM1239pdibzW16v116qLFoHiDA957xO0geHUhu8j0cQ43WzqWnWzXRN5Drco0f8w117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "Global Load Balancing with Amazon Route 53 and NGINX Plus",
+		"url": "https://www.nginx.com/blog/global-load-balancing-amazon-route-53-nginx-plus/",
+		"domain": "www.nginx.com",
+		"image": ""
+	},
+	{
+		"curated_id": "4123kKoNJ2gxy6NIEvyS5db1wvbS2LAt551168STMP116o0qQiGFszj2hweJy0EmTf9vY4un7o1pjYbFHnuq3kuqKm5g117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "Detecting The Recent Blockchain DNS Hijack",
+		"url": "https://blog.opendns.com/2016/10/12/detecting-recent-blockchain-dns-hijack/",
+		"domain": "blog.opendns.com",
+		"image": ""
+	},
+	{
 		"curated_id": "GJbXIr96GOwG6fag36gLKF1LJpJi116Ti84k123PTq3Rr0j11239v123OyR1b157UHOyQeLNHNbEChtmdFPg6xzglFkc6w117117",
 		"item_date": "2016-10-07 00:00:00",
 		"title": "How to change your IP Address from Static to Dynamic",
