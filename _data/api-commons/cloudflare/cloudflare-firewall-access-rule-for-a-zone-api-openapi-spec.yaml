@@ -1,0 +1,16 @@
+swagger: "2.0"
+info:
+  title: CloudFlare Firewall access rule for a Zone API
+  description: The API for managing CloudFlare Firewall access rule for a Zone
+  termsOfService: https://www.cloudflare.com/terms/
+  version: 1.0.0
+host: api.cloudflare.com
+basePath: /client/v4
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths: []
+definitions: []
