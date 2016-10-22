@@ -1,6 +1,7 @@
 swagger: "2.0"
 info:
-  title: No Title
+  title: Network API
+  description: For managing network details.
   version: 1.0.0
 schemes:
 - http
