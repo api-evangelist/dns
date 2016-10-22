@@ -283,8 +283,6 @@ x-common:
   url: open-developer@akamai.com
 - type: x-twitter
   url: https://twitter.com/Akamai
-- type: x-webinars
-  url: https://akamai.com
 include: []
 maintainers:
 - FN: Kin Lane
