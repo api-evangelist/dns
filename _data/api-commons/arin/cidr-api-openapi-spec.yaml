@@ -1,6 +1,7 @@
 swagger: "2.0"
 info:
-  title: No Title
+  title: CIDR API
+  description: Managing IP Address and CIDR details.
   version: 1.0.0
 schemes:
 - http
