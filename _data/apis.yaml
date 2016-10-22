@@ -1,7 +1,7 @@
 name: DNS
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-globe.png
-created: "2016-10-21"
-modified: "2016-10-21"
+created: "2016-10-22"
+modified: "2016-10-22"
 url: http://dns.apievangelist.com/apis.json
 specificationVersion: "0.14"
 apis: []
