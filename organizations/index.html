@@ -37,7 +37,6 @@ title: API DNS Orgs
       {% for common in apisjson.x-common %}
         {% if common.type == 'x-website' %}
           {% assign website_url = common.url %}
-          website: {{ website_url }}<br />
         {% endif %}
         {% if common.type == 'x-blog' %}
           {% assign blog_url = common.url %}
