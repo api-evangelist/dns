@@ -1,6 +1,7 @@
 swagger: "2.0"
 info:
-  title: No Title
+  title: Point of Contact (POC) API
+  description: For managing Point of Contact (POC).
   version: 1.0.0
 schemes:
 - http
