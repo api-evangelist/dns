@@ -17,8 +17,8 @@ apis:
 - name: Billing Center
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -27,8 +27,8 @@ apis:
 - name: Case Management
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -37,8 +37,8 @@ apis:
 - name: Cloudlets
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -47,8 +47,8 @@ apis:
 - name: Connect API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -57,8 +57,8 @@ apis:
 - name: Content Control Utility (v2)
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -67,8 +67,8 @@ apis:
 - name: Content Control Utility (v3)
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -77,8 +77,8 @@ apis:
 - name: CPS API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -87,8 +87,8 @@ apis:
 - name: Diagnostic Tools
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -97,8 +97,8 @@ apis:
 - name: Enterprise Threat Protector
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -107,8 +107,8 @@ apis:
 - name: Event Center
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -117,8 +117,8 @@ apis:
 - name: FEO
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -127,8 +127,8 @@ apis:
 - name: Image Manager
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -137,8 +137,8 @@ apis:
 - name: Invoicing
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -147,8 +147,8 @@ apis:
 - name: Log Delivery Service
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -157,8 +157,8 @@ apis:
 - name: Network Lists
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -167,8 +167,8 @@ apis:
 - name: Prolexic Analytics
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -177,8 +177,8 @@ apis:
 - name: Property Manager
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -187,8 +187,8 @@ apis:
 - name: SaaS Registration
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -197,8 +197,8 @@ apis:
 - name: Secure Provisioning
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -207,8 +207,8 @@ apis:
 - name: SecureHD Policy Editor
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -217,8 +217,8 @@ apis:
 - name: Security Monitor
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -227,8 +227,8 @@ apis:
 - name: Service-Level Agreement API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -237,8 +237,8 @@ apis:
 - name: Site Shield
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -247,8 +247,8 @@ apis:
 - name: Traffic Management
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -257,8 +257,8 @@ apis:
 - name: Traffic Management Load Feedback
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
@@ -267,8 +267,8 @@ apis:
 - name: User Admin
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://akamai.com
+  baseURL: https://akamai.com
   tags:
   - DNS
   properties:
