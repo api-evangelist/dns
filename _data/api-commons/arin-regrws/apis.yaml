@@ -7,8 +7,8 @@ description: ARIN offers public access to ARIN registration data via a number of
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
 tags:
 - DNS
-created: "2016-10-21"
-modified: "2016-10-21"
+created: "2016-10-22"
+modified: "2016-10-22"
 url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin-regrws/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -22,26 +22,6 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin-regrws/arin-customers-api-openapi-spec.yaml
-- name: Arin Delegations API
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
-  humanURL: ""
-  baseURL: ""
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin-regrws/arin-delegations-api-openapi-spec.yaml
-- name: Arin Network Records (NET) API
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
-  humanURL: ""
-  baseURL: ""
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin-regrws/arin-network-records-net-api-openapi-spec.yaml
 - name: Arin Organization API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
@@ -52,7 +32,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin-regrws/arin-organization-api-openapi-spec.yaml
-- name: Arin Point of Contact (POC) API
+- name: CIDR API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
   humanURL: ""
@@ -61,8 +41,8 @@ apis:
   - DNS
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin-regrws/arin-point-of-contact-poc-api-openapi-spec.yaml
-- name: Arin Reports API
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin-regrws/cidr-api-openapi-spec.yaml
+- name: Network API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
   humanURL: ""
@@ -71,8 +51,8 @@ apis:
   - DNS
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin-regrws/arin-reports-api-openapi-spec.yaml
-- name: Arin Route Origin Authorizations (ROAs) API
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin-regrws/network-api-openapi-spec.yaml
+- name: Networks and Autonomous System Numbers (ASNs) API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
   humanURL: ""
@@ -81,8 +61,8 @@ apis:
   - DNS
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin-regrws/arin-route-origin-authorizations-roas-api-openapi-spec.yaml
-- name: Arin Tickets API
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin-regrws/networks-and-autonomous-system-numbers-asns-api-openapi-spec.yaml
+- name: Not Sure
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
   humanURL: ""
@@ -91,7 +71,27 @@ apis:
   - DNS
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin-regrws/arin-tickets-api-openapi-spec.yaml
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin-regrws/not-sure-openapi-spec.yaml
+- name: Point of Contact (POC) API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin-regrws/point-of-contact-poc-api-openapi-spec.yaml
+- name: Reverse DNS API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin-regrws/reverse-dns-api-openapi-spec.yaml
 x-common: []
 include: []
 maintainers:
