@@ -285,6 +285,10 @@ x-common:
   url: open-developer@akamai.com
 - type: x-twitter
   url: https://twitter.com/Akamai
+- type: x-website
+  url: https://akamai.com
+- type: x-portal
+  url: https://akamai.com
 include: []
 maintainers:
 - FN: Kin Lane
