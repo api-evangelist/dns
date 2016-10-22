@@ -1,0 +1,43 @@
+name: DNS
+image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-globe.png
+created: "2016-10-21"
+modified: "2016-10-21"
+url: http://dns.apievangelist.comapis.json
+specificationVersion: "0.14"
+apis: []
+tags:
+- DNS
+- DNS
+include:
+- name: Akamai Technologies
+  url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai-technologies/apis.yaml
+- name: Amazon Web Services
+  url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/amazon-web-services/apis.yaml
+- name: ARIN Reg-RWS
+  url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin-regrws/apis.yaml
+- name: CloudFlare
+  url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/apis.yaml
+- name: DNS Check
+  url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/dns-check/apis.yaml
+- name: DNS Made Easy
+  url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/dns-made-easy/apis.yaml
+- name: DNSimple
+  url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/dnsimple/apis.yaml
+- name: DomainTools
+  url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/domaintools/apis.yaml
+- name: Dyn
+  url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/dyn/apis.yaml
+- name: Google
+  url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/google/apis.yaml
+- name: GSLB.me
+  url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/gslbme/apis.yaml
+- name: Microsoft Azure
+  url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/microsoft-azure/apis.yaml
+- name: OpenDNS
+  url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/opendns/apis.yaml
+- name: Rackspace
+  url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/rackspace/apis.yaml
+- name: StatDNS
+  url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/statdns/apis.yaml
+- name: Zerigo
+  url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/zerigo/apis.yaml
