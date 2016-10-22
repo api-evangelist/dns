@@ -279,6 +279,8 @@ x-common:
   url: https://blogs.akamai.com
 - type: x-blog-rss-feed
   url: http://blogs.akamai.com/feeds.html
+- type: x-base-url-for-portal
+  url: https://developer.akamai.com/
 - type: x-email
   url: open-developer@akamai.com
 - type: x-twitter
