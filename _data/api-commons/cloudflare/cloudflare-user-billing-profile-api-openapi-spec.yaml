@@ -12,5 +12,15 @@ produces:
 - application/json
 consumes:
 - application/json
-paths: []
+paths:
+  /user/billing/profile:
+    get:
+      summary: Access your billing profile object
+      description: Access your billing profile object
+      operationId: cloudflare-user-billing-profile-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
 definitions: []
