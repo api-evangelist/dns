@@ -12,6 +12,16 @@ modified: "2016-10-22"
 url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin/apis.yaml
 specificationVersion: "0.14"
 apis:
+- name: Autonomous System Numbers (ASNs) API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin/autonomous-system-numbers-asns-api-openapi-spec.yaml
 - name: CIDR API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
@@ -42,16 +52,6 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin/network-api-openapi-spec.yaml
-- name: Networks and Autonomous System Numbers (ASNs) API
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
-  humanURL: ""
-  baseURL: ""
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin/networks-and-autonomous-system-numbers-asns-api-openapi-spec.yaml
 - name: Organization API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
