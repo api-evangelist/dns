@@ -13,8 +13,8 @@ include:
   url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/apis.yaml
 - name: Amazon Web Services
   url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/amazon-web-services/apis.yaml
-- name: ARIN Reg-RWS
-  url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin-regrws/apis.yaml
+- name: ARIN
+  url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin/apis.yaml
 - name: CloudFlare
   url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/apis.yaml
 - name: DNS Check
