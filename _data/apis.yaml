@@ -9,8 +9,8 @@ tags:
 - DNS
 - DNS
 include:
-- name: Akamai Technologies
-  url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai-technologies/apis.yaml
+- name: Akamai
+  url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/apis.yaml
 - name: Amazon Web Services
   url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/amazon-web-services/apis.yaml
 - name: ARIN Reg-RWS
