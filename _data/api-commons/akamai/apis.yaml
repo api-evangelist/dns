@@ -1,0 +1,432 @@
+name: Akamai
+description: Akamai Technologies, Inc. is a content delivery network or CDN and cloud
+  services provider headquartered in Cambridge, Massachusetts, in the United States.
+  Akamais content delivery network is one of the worlds largest distributed computing
+  platforms, responsible for serving between 15 and 30 percent of all web traffic.
+  The company operates a network of servers around the world and rents capacity on
+  these servers to customers who want their websites to work faster by distributing
+  content from locations close to the user
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+tags:
+- DNS
+created: "2016-10-21"
+modified: "2016-10-21"
+url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/apis.yaml
+specificationVersion: "0.14"
+apis:
+- name: Alerts
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/alerts-openapi-spec.yaml
+- name: AnswerX RKS API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/answerx-rks-api-openapi-spec.yaml
+- name: Billing Center
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/billing-center-openapi-spec.yaml
+- name: Case Management
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/case-management-openapi-spec.yaml
+- name: Cloud Networking API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/cloud-networking-api-openapi-spec.yaml
+- name: Cloud Networking API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/cloud-networking-api-openapi-spec.yaml
+- name: Cloudlets
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/cloudlets-openapi-spec.yaml
+- name: Connect API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/connect-api-openapi-spec.yaml
+- name: Content Control Utility (v2)
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/content-control-utility-v2-openapi-spec.yaml
+- name: Content Control Utility (v3)
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/content-control-utility-v3-openapi-spec.yaml
+- name: CPS API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/cps-api-openapi-spec.yaml
+- name: Diagnostic Tools
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/diagnostic-tools-openapi-spec.yaml
+- name: Diagnostic Tools API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/diagnostic-tools-api-openapi-spec.yaml
+- name: DNS - Zone Management
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/dns--zone-management-openapi-spec.yaml
+- name: DNS - Zone Reporting
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/dns--zone-reporting-openapi-spec.yaml
+- name: Enterprise Threat Protector
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/enterprise-threat-protector-openapi-spec.yaml
+- name: Event Center
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/event-center-openapi-spec.yaml
+- name: FEO
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/feo-openapi-spec.yaml
+- name: HD Network
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/hd-network-openapi-spec.yaml
+- name: Image Manager
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/image-manager-openapi-spec.yaml
+- name: Invoicing
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/invoicing-openapi-spec.yaml
+- name: Log Delivery Service
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/log-delivery-service-openapi-spec.yaml
+- name: Media Analytics
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/media-analytics-openapi-spec.yaml
+- name: Media Reports
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/media-reports-openapi-spec.yaml
+- name: Media Services
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/media-services-openapi-spec.yaml
+- name: Net Storage
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/net-storage-openapi-spec.yaml
+- name: Network Lists
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/network-lists-openapi-spec.yaml
+- name: Prolexic Analytics
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/prolexic-analytics-openapi-spec.yaml
+- name: Property Manager
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/property-manager-openapi-spec.yaml
+- name: PublishECCU
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/publisheccu-openapi-spec.yaml
+- name: SaaS Registration
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/saas-registration-openapi-spec.yaml
+- name: Secure Provisioning
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/secure-provisioning-openapi-spec.yaml
+- name: SecureHD Policy Editor
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/securehd-policy-editor-openapi-spec.yaml
+- name: Security Monitor
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/security-monitor-openapi-spec.yaml
+- name: Service-Level Agreement API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/servicelevel-agreement-api-openapi-spec.yaml
+- name: Site Shield
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/site-shield-openapi-spec.yaml
+- name: Traffic Management
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/traffic-management-openapi-spec.yaml
+- name: Traffic Management Load Feedback
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/traffic-management-load-feedback-openapi-spec.yaml
+- name: User Admin
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/user-admin-openapi-spec.yaml
+- name: Zone Record Management API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/zone-record-management-api-openapi-spec.yaml
+x-common:
+- type: x-blog
+  url: https://blogs.akamai.com
+- type: x-blog-rss-feed
+  url: http://blogs.akamai.com/feeds.html
+- type: x-email
+  url: open-developer@akamai.com
+- type: x-twitter
+  url: https://twitter.com/Akamai
+- type: x-webinars
+  url: https://akamai.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
