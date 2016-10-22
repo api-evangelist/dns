@@ -14,26 +14,6 @@ modified: "2016-10-21"
 url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/apis.yaml
 specificationVersion: "0.14"
 apis:
-- name: Alerts
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/alerts-openapi-spec.yaml
-- name: AnswerX RKS API
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/answerx-rks-api-openapi-spec.yaml
 - name: Billing Center
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
@@ -54,26 +34,6 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/case-management-openapi-spec.yaml
-- name: Cloud Networking API
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/cloud-networking-api-openapi-spec.yaml
-- name: Cloud Networking API
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/cloud-networking-api-openapi-spec.yaml
 - name: Cloudlets
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
@@ -134,36 +94,6 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/diagnostic-tools-openapi-spec.yaml
-- name: Diagnostic Tools API
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/diagnostic-tools-api-openapi-spec.yaml
-- name: DNS - Zone Management
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/dns--zone-management-openapi-spec.yaml
-- name: DNS - Zone Reporting
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/dns--zone-reporting-openapi-spec.yaml
 - name: Enterprise Threat Protector
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
@@ -194,16 +124,6 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/feo-openapi-spec.yaml
-- name: HD Network
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/hd-network-openapi-spec.yaml
 - name: Image Manager
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
@@ -234,46 +154,6 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/log-delivery-service-openapi-spec.yaml
-- name: Media Analytics
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/media-analytics-openapi-spec.yaml
-- name: Media Reports
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/media-reports-openapi-spec.yaml
-- name: Media Services
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/media-services-openapi-spec.yaml
-- name: Net Storage
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/net-storage-openapi-spec.yaml
 - name: Network Lists
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
@@ -404,16 +284,6 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/user-admin-openapi-spec.yaml
-- name: Zone Record Management API
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/zone-record-management-api-openapi-spec.yaml
 x-common:
 - type: x-blog
   url: https://blogs.akamai.com
