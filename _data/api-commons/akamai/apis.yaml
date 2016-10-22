@@ -9,8 +9,8 @@ description: Akamai Technologies, Inc. is a content delivery network or CDN and 
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
 tags:
 - DNS
-created: "2016-10-21"
-modified: "2016-10-21"
+created: "2016-10-22"
+modified: "2016-10-22"
 url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -184,16 +184,6 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/property-manager-openapi-spec.yaml
-- name: PublishECCU
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
-  humanURL: ""
-  baseURL: ""
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/akamai/publisheccu-openapi-spec.yaml
 - name: SaaS Registration
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
