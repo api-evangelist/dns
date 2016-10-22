@@ -1,0 +1,60 @@
+name: Zerigo
+description: Zerigo makes DNS worry-free. With a REST API, user-friendly interface,
+  and industry-leading advanced security and features, Zerigo DNS makes DNS easy and
+  efficient.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/zerigo-logo.png
+tags:
+- DNS
+created: "2016-10-21"
+modified: "2016-10-21"
+url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/zerigo/apis.yaml
+specificationVersion: "0.14"
+apis:
+- name: Zerigo Host Templates API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/zerigo-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/zerigo/zerigo-host-templates-api-openapi-spec.yaml
+- name: Zerigo Hosts API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/zerigo-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/zerigo/zerigo-hosts-api-openapi-spec.yaml
+- name: Zerigo Zone Templates API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/zerigo-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/zerigo/zerigo-zone-templates-api-openapi-spec.yaml
+- name: Zerigo Zones API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/zerigo-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/zerigo/zerigo-zones-api-openapi-spec.yaml
+x-common:
+- type: x-portal
+  url: https://www.zerigo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
