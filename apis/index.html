@@ -25,14 +25,39 @@ title: APIs In My DNS API Research
 
       {% assign apisjson = index[1].apis %}
       {% assign common_api_action_url = '' %}
-
-      {% if apisjson.humanURL == null %}
-        {% assign website_url = portal_url %}
-      {% else %}
-        {% assign website_url = apisjson.humanURL %}
-      {% endif %}
-
       {% assign api_action_url = '' %}
+
+      {% assign blog_url = '' %}
+      {% assign blogrss_url = '' %}
+      {% assign portal_url = '' %}
+      {% assign gitub_url = '' %}
+      {% assign twitter_url = '' %}
+      {% assign website_url = '' %}
+
+      {% for common in apisjson.x-common %}
+        {% if common.type == 'x-website' %}
+          {% assign website_url = common.url %}
+        {% endif %}
+        {% if common.type == 'x-blog' %}
+          {% assign blog_url = common.url %}
+        {% endif %}
+        {% if common.type == 'x-blog-rss-feed' %}
+          {% assign blogrss_url = common.url %}
+        {% endif %}
+        {% if common.type == 'x-portal' %}
+          {% assign portal_url = common.url %}
+        {% endif %}
+        {% if common.type == 'x-github' %}
+          {% assign gitub_url = common.url %}
+        {% endif %}
+        {% if common.type == 'x-twitter' %}
+          {% assign twitter_url = common.url %}
+        {% endif %}
+        {% if common.type == 'x-api-actions' %}
+          {% assign common_api_action_url = common.url %}
+        {% endif %}
+      {% endfor %}
+
       {% assign numberofapis = apisjson.apis | size %}
       {% if numberofapis == 0 %}
 
