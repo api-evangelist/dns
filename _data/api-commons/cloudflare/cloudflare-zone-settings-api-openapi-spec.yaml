@@ -1,11 +1,8 @@
 swagger: "2.0"
 info:
-  title: CloudFlare Zone Settings API
-  description: The API for managing CloudFlare Zone Settings
-  termsOfService: https://www.cloudflare.com/terms/
+  title: No Title
   version: 1.0.0
-host: api.cloudflare.com
-basePath: /client/v4
+basePath: /
 schemes:
 - http
 produces:
