@@ -12,5 +12,25 @@ produces:
 - application/json
 consumes:
 - application/json
-paths: []
+paths:
+  /organizations/:organization_identifier/roles:
+    get:
+      summary: Get all available roles for an organization
+      description: Get all available roles for an organization
+      operationId: cloudflare-organization-roles-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /organizations/:organization_identifier/roles/:identifier:
+    get:
+      summary: Get information about a specific role for an organization
+      description: Get information about a specific role for an organization
+      operationId: cloudflare-organization-roles-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
 definitions: []
