@@ -1,0 +1,882 @@
+swagger: "2.0"
+info:
+  title: Akamai Cloud Networking API
+  description: Provision and manage Orion Customers, Client and Customer IPSec Keys.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /orion/v1/build:
+    get:
+      summary: Get Build Information
+      description: ""
+      operationId: orionv1build
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/clients/{clientId}/op/deactivate:
+    post:
+      summary: Deactivate a Client
+      description: ""
+      operationId: orionv1clientsclientidopdeactivate
+      parameters:
+      - in: String
+        name: clientId
+        description: Akamai ID of the client, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/clients/{clientId}/op/reactivate:
+    post:
+      summary: Reactivate a Client
+      description: ""
+      operationId: orionv1clientsclientidopreactivate
+      parameters:
+      - in: String
+        name: clientId
+        description: Akamai ID of the client, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/clients/{clientId}/op/rotate:
+    post:
+      summary: Rotate Client Secrets
+      description: ""
+      operationId: orionv1clientsclientidoprotate
+      parameters:
+      - in: String
+        name: clientId
+        description: Akamai ID of the client, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/clients/{clientId}{?debug}:
+    get:
+      summary: Get a Client
+      description: ""
+      operationId: orionv1clientsclientiddebug
+      parameters:
+      - in: String
+        name: clientId
+        description: Client ID of the device, maximum 50 characters
+        type: string
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/clients{?akamaiCustomerId,type,status,includeDeleted,debug,self}:
+    get:
+      summary: List Clients
+      description: ""
+      operationId: orionv1clientsakamaicustomeridtypestatusincludedeleteddebugself
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      - in: String
+        name: akamaiOrderId
+        description: Akamai ID of the customer&#8217;s order, maximum 50 characters
+        type: string
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      - in: Boolean
+        name: includeDeleted
+        description: The flag to include deleted customers.
+        type: string
+      - in: Boolean
+        name: self
+        description: The flag to get its own client information.
+        type: string
+      - in: String
+        name: status
+        description: Current status of this client, maximum 50 characters
+        type: string
+      - in: String
+        name: type
+        description: Type of client
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Add a Client
+      description: ""
+      operationId: orionv1clientsakamaicustomeridtypestatusincludedeleteddebugself
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      - in: String
+        name: akamaiOrderId
+        description: Akamai ID of the customer&#8217;s order, maximum 50 characters
+        type: string
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      - in: Boolean
+        name: includeDeleted
+        description: The flag to include deleted customers.
+        type: string
+      - in: Boolean
+        name: self
+        description: The flag to get its own client information.
+        type: string
+      - in: String
+        name: status
+        description: Current status of this client, maximum 50 characters
+        type: string
+      - in: String
+        name: type
+        description: Type of client
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/customers:
+    post:
+      summary: Add a Customer
+      description: ""
+      operationId: orionv1customers
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/customers/{akamaiCustomerId}:
+    delete:
+      summary: Remove a Customer
+      description: ""
+      operationId: orionv1customersakamaicustomerid
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Modify a Customer
+      description: ""
+      operationId: orionv1customersakamaicustomerid
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/customers/{akamaiCustomerId}/devices/{deviceId}/op/deactivate:
+    post:
+      summary: Deactivate a Customer&#8217;s Device
+      description: ""
+      operationId: orionv1customersakamaicustomeriddevicesdeviceidopdeactivate
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      - in: String
+        name: deviceId
+        description: Akamai ID of the customer&#8217;s device, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/customers/{akamaiCustomerId}/devices/{deviceId}/op/reactivate:
+    post:
+      summary: Reactivate a Customer&#8217;s Device
+      description: ""
+      operationId: orionv1customersakamaicustomeriddevicesdeviceidopreactivate
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      - in: String
+        name: deviceId
+        description: Akamai ID of the customer&#8217;s device, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/customers/{akamaiCustomerId}/devices/{deviceId}{?debug}:
+    delete:
+      summary: Remove a Customer&#8217;s Device
+      description: ""
+      operationId: orionv1customersakamaicustomeriddevicesdeviceiddebug
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      - in: String
+        name: deviceId
+        description: Akamai ID of the customer&#8217;s device, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get a Customer&#8217;s Device
+      description: ""
+      operationId: orionv1customersakamaicustomeriddevicesdeviceiddebug
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      - in: String
+        name: deviceId
+        description: Akamai ID of the customer&#8217;s device, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Modify a Customer&#8217;s Device
+      description: ""
+      operationId: orionv1customersakamaicustomeriddevicesdeviceiddebug
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      - in: String
+        name: deviceId
+        description: Akamai ID of the customer&#8217;s device, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/customers/{akamaiCustomerId}/devices{?debug}:
+    get:
+      summary: List a Customer&#8217;s Devices
+      description: ""
+      operationId: orionv1customersakamaicustomeriddevicesdebug
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Add a Device for a Customer
+      description: ""
+      operationId: orionv1customersakamaicustomeriddevicesdebug
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/customers/{akamaiCustomerId}/op/deactivate:
+    post:
+      summary: Deactivate a Customer
+      description: ""
+      operationId: orionv1customersakamaicustomeridopdeactivate
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/customers/{akamaiCustomerId}/op/reactivate:
+    post:
+      summary: Reactivate a Customer
+      description: ""
+      operationId: orionv1customersakamaicustomeridopreactivate
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/customers/{akamaiCustomerId}/orders/{akamaiOrderId}{?debug}:
+    delete:
+      summary: Remove an Order
+      description: ""
+      operationId: orionv1customersakamaicustomeridordersakamaiorderiddebug
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      - in: String
+        name: akamaiOrderId
+        description: Akamai ID of the customer&#8217;s order, maximum 50 characters
+        type: string
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get an Order
+      description: ""
+      operationId: orionv1customersakamaicustomeridordersakamaiorderiddebug
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      - in: String
+        name: akamaiOrderId
+        description: Akamai ID of the customer&#8217;s order, maximum 50 characters
+        type: string
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Modify an Order
+      description: ""
+      operationId: orionv1customersakamaicustomeridordersakamaiorderiddebug
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      - in: String
+        name: akamaiOrderId
+        description: Akamai ID of the customer&#8217;s order, maximum 50 characters
+        type: string
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/customers/{akamaiCustomerId}/orders{?debug,partnerOrderId,includeDeleted,includeExpired}:
+    get:
+      summary: List Orders
+      description: ""
+      operationId: orionv1customersakamaicustomeridordersdebugpartnerorderidincludedeletedincludeexpired
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      - in: Boolean
+        name: includeDeleted
+        description: The flag to include deleted orders.
+        type: string
+      - in: Boolean
+        name: includeExpired
+        description: The flag to include expired orders.
+        type: string
+      - in: String
+        name: partnerOrderId
+        description: Original order ID created at the time of purchase, maximum 50
+          characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Add an Order
+      description: ""
+      operationId: orionv1customersakamaicustomeridordersdebugpartnerorderidincludedeletedincludeexpired
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      - in: Boolean
+        name: includeDeleted
+        description: The flag to include deleted orders.
+        type: string
+      - in: Boolean
+        name: includeExpired
+        description: The flag to include expired orders.
+        type: string
+      - in: String
+        name: partnerOrderId
+        description: Original order ID created at the time of purchase, maximum 50
+          characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/customers/{clientId}/op/complete_rotate:
+    post:
+      summary: Complete Rotation of a Client&#8217;s Secrets
+      description: ""
+      operationId: orionv1customersclientidopcomplete-rotate
+      parameters:
+      - in: String
+        name: clientId
+        description: Akamai ID of the client, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/customers{?akamaiCustomerId,parentClientId,type,status,partnerCustomerId,includeDeleted,debug}:
+    get:
+      summary: List Customers
+      description: ""
+      operationId: orionv1customersakamaicustomeridparentclientidtypestatuspartnercustomeridincludedeleteddebug
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      - in: Boolean
+        name: includeDeleted
+        description: The flag to include deleted customers.
+        type: string
+      - in: String
+        name: parentClientId
+        description: Client ID of the parent client, maximum 50 characters
+        type: string
+      - in: String
+        name: partnerCustomerId
+        description: Partner Customer Unique ID, maximum 36 characters
+        type: string
+      - in: String
+        name: status
+        description: Current status of this client, maximum 50 characters
+        type: string
+      - in: String
+        name: type
+        description: Type of client, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/devices/{deviceId}/op/deactivate:
+    post:
+      summary: Deactivate a Device
+      description: ""
+      operationId: orionv1devicesdeviceidopdeactivate
+      parameters:
+      - in: String
+        name: deviceId
+        description: Akamai ID of the customer&#8217;s device, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/devices/{deviceId}/op/reactivate:
+    post:
+      summary: Reactivate a Device
+      description: ""
+      operationId: orionv1devicesdeviceidopreactivate
+      parameters:
+      - in: String
+        name: deviceId
+        description: Akamai ID of the customer&#8217;s device, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/devices/{deviceId}{?debug}:
+    delete:
+      summary: Remove a Device
+      description: ""
+      operationId: orionv1devicesdeviceiddebug
+      parameters:
+      - in: Boolean
+        name: debug
+        description: If enabled, includes debug members in the response JSON.
+        type: string
+      - in: String
+        name: deviceId
+        description: Akamai ID of the customer&#8217;s device, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get a Device
+      description: ""
+      operationId: orionv1devicesdeviceiddebug
+      parameters:
+      - in: Boolean
+        name: debug
+        description: If enabled, includes debug members in the response JSON.
+        type: string
+      - in: String
+        name: deviceId
+        description: Akamai ID of the customer&#8217;s device, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Modify a Device
+      description: ""
+      operationId: orionv1devicesdeviceiddebug
+      parameters:
+      - in: Boolean
+        name: debug
+        description: If enabled, includes debug members in the response JSON.
+        type: string
+      - in: String
+        name: deviceId
+        description: Akamai ID of the customer&#8217;s device, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/devices{?debug}:
+    get:
+      summary: List Devices
+      description: ""
+      operationId: orionv1devicesdebug
+      parameters:
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Add a Device
+      description: ""
+      operationId: orionv1devicesdebug
+      parameters:
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/edges{?branchIp,branchGeo,edgeIps}:
+    get:
+      summary: List Akamai Edges
+      description: ""
+      operationId: orionv1edgesbranchipbranchgeoedgeips
+      parameters:
+      - in: Enumeration
+        name: branchGeo
+        description: 'Geo of the branch for look up, either na, eu, apac, mea, or
+          sa. Possible values: apac, eu, mea, na, sa.'
+        type: string
+      - in: String
+        name: branchIp
+        description: IP address of the branch for look up, maximum 15 characters
+        type: string
+      - in: String
+        name: edgeIps
+        description: Comma separated Akamai Edge IPs that the device can connect to,
+          maximum 48 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/ipsec_keys{?includeAlt,includePending,debug}:
+    get:
+      summary: List IPSec Keys
+      description: ""
+      operationId: orionv1ipsec-keysincludealtincludependingdebug
+      parameters:
+      - in: Boolean
+        name: debug
+        description: Flag to include debug members in the response JSON.
+        type: string
+      - in: Boolean
+        name: includeAlt
+        description: Flag to include the alternate key .
+        type: string
+      - in: Boolean
+        name: includePending
+        description: Flag to include the keys from the pending round.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/reports/bandwidth_utilization{?akamai_customer_id,endpoint_ids,geo_ids,start_date,end_date,debug}:
+    get:
+      summary: Get Bandwidth Report
+      description: ""
+      operationId: orionv1reportsbandwidth-utilizationakamai-customer-idendpoint-idsgeo-idsstart-dateend-datedebug
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: One or more Akamai customer IDs separated by commas. Optional
+          for CMC.
+        type: string
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      - in: Integer
+        name: endDate
+        description: End date and time in epoch for the report.
+        type: string
+      - in: String
+        name: endpointId
+        description: One or more Endpoint IDs associated with this client and separated
+          by commas.
+        type: string
+      - in: String
+        name: geoId
+        description: One or more Geographical region IDs associated with this client
+          and separated by commas.
+        type: string
+      - in: Integer
+        name: startDate
+        description: Start date and time in epoch for the report.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/secrets/{akamaiSecretId}/op/deactivate:
+    post:
+      summary: Deactivate a Secret
+      description: ""
+      operationId: orionv1secretsakamaisecretidopdeactivate
+      parameters:
+      - in: String
+        name: akamaiSecretId
+        description: Akamai ID of the customer&#8217;s secret, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/secrets/{akamaiSecretId}/op/reactivate:
+    post:
+      summary: Reactivate a Secret
+      description: ""
+      operationId: orionv1secretsakamaisecretidopreactivate
+      parameters:
+      - in: String
+        name: akamaiSecretId
+        description: Akamai ID of the customer&#8217;s secret, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/secrets/{akamaiSecretId}{?debug}:
+    delete:
+      summary: Remove a Secret
+      description: ""
+      operationId: orionv1secretsakamaisecretiddebug
+      parameters:
+      - in: String
+        name: akamaiSecretId
+        description: Akamai ID of the customer&#8217;s secret, maximum 50 characters
+        type: string
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get a Secret
+      description: ""
+      operationId: orionv1secretsakamaisecretiddebug
+      parameters:
+      - in: String
+        name: akamaiSecretId
+        description: Akamai ID of the customer&#8217;s secret, maximum 50 characters
+        type: string
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Modify a Secret
+      description: ""
+      operationId: orionv1secretsakamaisecretiddebug
+      parameters:
+      - in: String
+        name: akamaiSecretId
+        description: Akamai ID of the customer&#8217;s secret, maximum 50 characters
+        type: string
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /orion/v1/secrets{?debug}:
+    get:
+      summary: List Secrets
+      description: ""
+      operationId: orionv1secretsdebug
+      parameters:
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Add a Secret
+      description: ""
+      operationId: orionv1secretsdebug
+      parameters:
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []
