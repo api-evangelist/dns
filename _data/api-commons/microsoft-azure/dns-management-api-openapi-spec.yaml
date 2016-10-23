@@ -15,7 +15,7 @@ consumes:
 paths:
   /subscriptions/{subscriptionId}/providers/Microsoft.Network/dnszones:
     get:
-      summary: ""
+      summary: List Zones
       description: Lists the DNS zones within a resource group.
       operationId: Zones_ListInSubscription
       parameters:
@@ -32,7 +32,7 @@ paths:
       - Zones
   /subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Network/dnszones:
     get:
-      summary: ""
+      summary: List Zones
       description: Lists the DNS zones within a resource group.
       operationId: Zones_ListInResourceGroup
       parameters:
@@ -52,7 +52,7 @@ paths:
       - Zones
   /subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Network/dnszones/{zoneName}:
     delete:
-      summary: ""
+      summary: Remove Group
       description: Removes a DNS zone from a resource group.
       operationId: Zones_Delete
       parameters:
@@ -79,7 +79,7 @@ paths:
       tags:
       - Zones
     get:
-      summary: ""
+      summary: Get Zone
       description: Gets a DNS zone.
       operationId: Zones_Get
       parameters:
@@ -97,7 +97,7 @@ paths:
       tags:
       - Zones
     put:
-      summary: ""
+      summary: Update Zone Group
       description: Creates or Updates a DNS zone within a resource group.
       operationId: Zones_CreateOrUpdate
       parameters:
@@ -128,7 +128,7 @@ paths:
       - Zones
   /subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Network/dnszones/{zoneName}/recordsets:
     get:
-      summary: ""
+      summary: Get Record
       description: Lists all RecordSets in a DNS zone.
       operationId: RecordSets_ListAllInResourceGroup
       parameters:
@@ -151,7 +151,7 @@ paths:
       - Recordsets
   /subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Network/dnszones/{zoneName}/{recordType}:
     get:
-      summary: ""
+      summary: Get Record in Zone
       description: Lists the RecordSets of a specified type in a DNS zone.
       operationId: RecordSets_ListByType
       parameters:
@@ -177,7 +177,7 @@ paths:
       - Recordsets
   ? /subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Network/dnszones/{zoneName}/{recordType}/{relativeRecordSetName}
   : delete:
-      summary: ""
+      summary: Delete Record
       description: Removes a RecordSet from a DNS zone.
       operationId: RecordSets_Delete
       parameters:
@@ -210,7 +210,7 @@ paths:
       tags:
       - Recordsets
     get:
-      summary: ""
+      summary: Get Record
       description: Gets a RecordSet.
       operationId: RecordSets_Get
       parameters:
@@ -234,7 +234,7 @@ paths:
       tags:
       - Recordsets
     patch:
-      summary: ""
+      summary: Update Record
       description: Updates a RecordSet within a DNS zone.
       operationId: RecordSets_Update
       parameters:
@@ -270,7 +270,7 @@ paths:
       tags:
       - Recordsets
     put:
-      summary: ""
+      summary: Update Record
       description: Creates or Updates a RecordSet within a DNS zone.
       operationId: RecordSets_CreateOrUpdate
       parameters:
