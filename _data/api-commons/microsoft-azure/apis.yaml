@@ -7,35 +7,25 @@ description: Microsoft Azure is a cloud computing platform and infrastructure cr
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-azure-logo.png
 tags:
 - DNS
-created: "2016-10-21"
-modified: "2016-10-21"
+created: "2016-10-22"
+modified: "2016-10-22"
 url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/microsoft-azure/apis.yaml
 specificationVersion: "0.14"
 apis:
-- name: Azure DNS Record Sets API
+- name: DNS Management API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-azure-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://azure.microsoft.com/en-us/
+  baseURL: https://azure.microsoft.com/en-us/
   tags:
   - DNS
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/microsoft-azure/azure-dns-record-sets-api-openapi-spec.yaml
-- name: Azure DNS Zones API
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-azure-logo.png
-  humanURL: ""
-  baseURL: ""
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/microsoft-azure/azure-dns-zones-api-openapi-spec.yaml
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/microsoft-azure/dns-management-api-openapi-spec.yaml
 x-common:
 - type: x-blog
   url: http://azure.microsoft.com/blog/
-- type: x-portal
+- type: x-website
   url: https://azure.microsoft.com/en-us/
 include: []
 maintainers:
