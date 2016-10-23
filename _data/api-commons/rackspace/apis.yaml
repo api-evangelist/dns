@@ -11,71 +11,71 @@ description: Rackspace is a recognized leader in the IT hosting market. We deliv
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/rackspace-logo.jpg
 tags:
 - DNS
-created: "2016-10-21"
-modified: "2016-10-21"
+created: "2016-10-23"
+modified: "2016-10-23"
 url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/rackspace/apis.yaml
 specificationVersion: "0.14"
 apis:
+- name: DNS Domains API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/rackspace-logo.jpg
+  humanURL: http://www.rackspace.com/
+  baseURL: http://www.rackspace.com/
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/rackspace/dns-domains-api-openapi-spec.yaml
+- name: DNS Limits API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/rackspace-logo.jpg
+  humanURL: http://www.rackspace.com/
+  baseURL: http://www.rackspace.com/
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/rackspace/dns-limits-api-openapi-spec.yaml
+- name: DNS Records API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/rackspace-logo.jpg
+  humanURL: http://www.rackspace.com/
+  baseURL: http://www.rackspace.com/
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/rackspace/dns-records-api-openapi-spec.yaml
+- name: DNS Subdomains API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/rackspace-logo.jpg
+  humanURL: http://www.rackspace.com/
+  baseURL: http://www.rackspace.com/
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/rackspace/dns-subdomains-api-openapi-spec.yaml
 - name: Rackspace Cloud DNS
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/rackspace-logo.jpg
   humanURL: http://docs.rackspace.com/api/
-  baseURL: http://docs.rackspace.com/api/
+  baseURL: http://www.rackspace.com/
   tags:
   - DNS
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/rackspace/rackspace-cloud-dns-openapi-spec.yaml
-- name: Rackspace DNS Domains API
+- name: Reverse DNS API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/rackspace-logo.jpg
-  humanURL: ""
-  baseURL: http://docs.rackspace.com/api/
+  humanURL: http://www.rackspace.com/
+  baseURL: http://www.rackspace.com/
   tags:
   - DNS
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/rackspace/rackspace-dns-domains-api-openapi-spec.yaml
-- name: Rackspace DNS Limits API
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/rackspace-logo.jpg
-  humanURL: ""
-  baseURL: http://docs.rackspace.com/api/
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/rackspace/rackspace-dns-limits-api-openapi-spec.yaml
-- name: Rackspace DNS Records API
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/rackspace-logo.jpg
-  humanURL: ""
-  baseURL: http://docs.rackspace.com/api/
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/rackspace/rackspace-dns-records-api-openapi-spec.yaml
-- name: Rackspace DNS Subdomains API
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/rackspace-logo.jpg
-  humanURL: ""
-  baseURL: http://docs.rackspace.com/api/
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/rackspace/rackspace-dns-subdomains-api-openapi-spec.yaml
-- name: Rackspace Reverse DNS API
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/rackspace-logo.jpg
-  humanURL: ""
-  baseURL: http://docs.rackspace.com/api/
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/rackspace/rackspace-reverse-dns-api-openapi-spec.yaml
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/rackspace/reverse-dns-api-openapi-spec.yaml
 x-common:
 - type: x-blog
   url: http://www.rackspace.com/blog/
@@ -85,7 +85,11 @@ x-common:
   url: https://github.com/rackspace
 - type: x-twitter
   url: https://twitter.com/rackspace
+- type: x-website
+  url: http://www.rackspace.com/
 - type: x-webinars
+  url: http://www.rackspace.com/
+- type: x-portal
   url: http://www.rackspace.com/
 include: []
 maintainers:
