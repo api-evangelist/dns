@@ -7,16 +7,16 @@ description: CloudFlare, Inc. is a U.S. company that provides a content delivery
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
 tags:
 - DNS
-created: "2016-10-21"
-modified: "2016-10-21"
+created: "2016-10-22"
+modified: "2016-10-22"
 url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: App Subscription API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -25,8 +25,8 @@ apis:
 - name: Custom Pages for a Zone API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -35,8 +35,8 @@ apis:
 - name: Custom SSL for a Zone API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -45,8 +45,8 @@ apis:
 - name: DNS Records for a Zone API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -55,8 +55,8 @@ apis:
 - name: Firewall access rule for a Zone API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -65,8 +65,8 @@ apis:
 - name: Keyless SSL for a Zone API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -75,8 +75,8 @@ apis:
 - name: Organization Invites API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -85,8 +85,8 @@ apis:
 - name: Organization Members API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -95,8 +95,8 @@ apis:
 - name: Organization Roles API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -105,8 +105,8 @@ apis:
 - name: Organization-level Firewall access rule API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -115,8 +115,8 @@ apis:
 - name: Organizations API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -125,8 +125,8 @@ apis:
 - name: Railgun API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -135,8 +135,8 @@ apis:
 - name: Railgun connections for a Zone API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -145,8 +145,8 @@ apis:
 - name: User API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -155,8 +155,8 @@ apis:
 - name: User Billing History API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -165,8 +165,8 @@ apis:
 - name: User Billing Profile API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -175,8 +175,8 @@ apis:
 - name: User-level Firewall access rule API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -185,8 +185,8 @@ apis:
 - name: Users Invites API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -195,8 +195,8 @@ apis:
 - name: Users Organizations API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -205,8 +205,8 @@ apis:
 - name: WAF Rule Groups API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -215,8 +215,8 @@ apis:
 - name: WAF Rule Packages API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -225,8 +225,8 @@ apis:
 - name: WAF Rules API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -235,8 +235,8 @@ apis:
 - name: Zone Analytics API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -245,8 +245,8 @@ apis:
 - name: Zone API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -255,8 +255,8 @@ apis:
 - name: Zone Settings API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -265,8 +265,8 @@ apis:
 - name: Zone Subscription API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
   tags:
   - DNS
   properties:
@@ -293,6 +293,10 @@ x-common:
   url: https://www.cloudflare.com/terms/
 - type: x-twitter
   url: https://twitter.com/CloudFlare
+- type: x-website
+  url: https://www.cloudflare.com
+- type: x-portal
+  url: https://www.cloudflare.com
 include: []
 maintainers:
 - FN: Kin Lane
