@@ -1,3 +1,131 @@
+- patent_id: 1235B40kBUVj116zCzER9eEfOJ64eVq116VQzIA116fERRVs116bU117
+  name: Application programming interface and generalized network address translator
+    for translation of transport-layer sessions
+  summary: ""
+  abstract: An application programming interface for translation of transport-layer
+    sessions is presented. The system includes kernel-mode support for application-controlled
+    network address translation and user-mode implementation of the redirect API routines.
+    An application process may request that a network gateway modify the source and/or
+    destination of a given network session in a manner transparent to the original
+    source host and/or the replacement destination host. With the generalized NAT
+    (gNAT) of the instant invention and its associated API, both the source and the
+    destination addresses of message packets may be changed. The address changes are
+    mapped in the gNAT, and may result in apparent sessions between different clients
+    and servers. Depending on the protocol in use (e.g. TCP or UDP), the address translation
+    may be made dynamically by the gNAT, under the command of the application, and
+    take place at the kernel level.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=07305477&OS=07305477&RS=07305477
+  owner: Microsoft Corporation
+  company: Microsoft Azure
+  publication_number: "07305477"
+  publication_date: "2007-12-04"
+  application_number: "10858754"
+  application_date: "2004-06-02"
+  number: "07305477"
+  tags:
+  - DNS
+- patent_id: zhxIjJ8mU51161I4wG1jstvSTUwi28pglPCWLGAc0uzGM117
+  name: Web address converter for dynamic web pages
+  summary: ""
+  abstract: Herein is described an implementation of a Web address converter, which
+    helps dynamic Web sites get the attention of spiders of Internet search engines.
+    With the Web address converter, requests from Web browsers using static addresses
+    access corresponding dynamic Web pages and requests from search engines generate
+    an instance of a Web page having links with static addresses pointing to corresponding
+    dynamic Web pages. The Web address converter performs either or both Dynamic-to-Static
+    (D-to-S) address conversion and Static-to-Dynamic (S-to-D) address conversion.
+    D-to-S address conversion is done when generating a spider-friendly main page
+    for a spider of a search engine to crawl. S-to-D address conversion is used when
+    a browser uses a static address to access a corresponding dynamic Web page. The
+    static address that the browser uses was originally created when the spider-friendly
+    main page was generated.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=07299298&OS=07299298&RS=07299298
+  owner: Microsoft Corporation
+  company: Microsoft Azure
+  publication_number: 07299298
+  publication_date: "2007-11-20"
+  application_number: "10997237"
+  application_date: "2004-11-24"
+  number: 07299298
+  tags:
+  - DNS
+- patent_id: VliLfST6qUkBLTpUMOEwjTkouTZy8jYapZyYHS81ZNk117
+  name: Method and system for a second level address translation in a virtual machine
+    environment
+  summary: ""
+  abstract: A method of performing a translation from a guest virtual address to a
+    host physical address in a virtual machine environment includes receiving a guest
+    virtual address from a host computer executing a guest virtual machine program
+    and using the hardware oriented method of the host CPU to determine the guest
+    physical address. A second level address translation to a host physical address
+    is then performed. In one embodiment, a multiple tier tree is traversed which
+    translates the guest physical address into a host physical address. In another
+    embodiment, the second level of address translation is performed by employing
+    a hash function of the guest physical address and a reference to a hash table.
+    One aspect of the invention is the incorporation of access overrides associated
+    with the host physical address which can control the access permissions of the
+    host memory.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=07428626&OS=07428626&RS=07428626
+  owner: Microsoft Corporation
+  company: Microsoft Azure
+  publication_number: 07428626
+  publication_date: "2008-09-23"
+  application_number: "11075211"
+  application_date: "2005-03-08"
+  number: 07428626
+  tags:
+  - DNS
+- patent_id: i5Nshu61236ahoPKcjOAf123httQYIay3spKd29HEN5SUvQ117
+  name: Method and system for caching address translations from multiple address spaces
+    in virtual machines
+  summary: ""
+  abstract: A method of virtualizing memory through shadow page tables that cache
+    translations from multiple guest address spaces in a virtual machine includes
+    a software version of a hardware tagged translation look-aside buffer. Edits to
+    guest page tables are detected by intercepting the creation of guest-writable
+    mappings to guest page tables with translations cached in shadow page tables.
+    The affected cached translations are marked as stale and purged upon an address
+    space switch or an indiscriminate flush of translations by the guest. Thereby,
+    non-stale translations remain cached but stale translations are discarded. The
+    method includes tracking the guest-writable mappings to guest page tables, deferring
+    discovery of such mappings to a guest page table for the first time until a purge
+    of all cached translations when the number of untracked guest page tables exceeds
+    a threshold, and sharing shadow page tables between shadow address spaces and
+    between virtual processors.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=07363463&OS=07363463&RS=07363463
+  owner: Microsoft Corporation
+  company: Microsoft Azure
+  publication_number: "07363463"
+  publication_date: "2008-04-22"
+  application_number: "11128982"
+  application_date: "2005-05-13"
+  number: "07363463"
+  tags:
+  - DNS
+- patent_id: b94tXhDCQ123yF6FtE116x3GeQIeV1sOCZRJ5uuY116F6123dtM117
+  name: Method and system for a guest physical address virtualization in a virtual
+    machine environment
+  summary: ""
+  abstract: A method of sharing pages between virtual machines in a multiple virtual
+    machine environment includes initially allocating a temporary guest physical address
+    range of a first virtual machine for sharing pages with a second virtual machine.
+    The temporary range is within a guest physical address space of the first virtual
+    machine. An access request, such as with a DMA request, from a second virtual
+    machine for pages available to the first virtual machine is received. A reference
+    count of pending accesses to the pages is incremented to indicate a pending access
+    and the ages are mapped into the temporary guest physical address range. The pages
+    are accessed and the reference count is decremented. The mapping in the temporary
+    guest physical address range is then removed if the reference count is zero.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=07334076&OS=07334076&RS=07334076
+  owner: Microsoft Corporation
+  company: Microsoft Azure
+  publication_number: "07334076"
+  publication_date: "2008-02-19"
+  application_number: "11075219"
+  application_date: "2005-03-08"
+  number: "07334076"
+  tags:
+  - DNS
 - patent_id: pWFL7dheOtdxyaVy0H5L3dMvHUByOXZ11660G7l2j9PPk117
   name: Domain name resolution using a distributed DNS network
   summary: ""
@@ -19,6 +147,48 @@
   application_number: "11264616"
   application_date: "2005-10-31"
   number: "07725602"
+  tags:
+  - DNS
+- patent_id: 5hX33FJus9vcEE3QRdBLtxINkcIFp6pNbBs116FhPgpvs117
+  name: System using router in a web browser for inter-domain communication
+  summary: ""
+  abstract: A computer-implemented method for performing inter-domain communication
+    in a web browser includes receiving first data from a first domain at a router
+    associated with one or more domains other than the first domain, identifying at
+    the router the one or more domains for receiving data associated with the received
+    data, and transmitting second data associated with the received data to the one
+    or more domains.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=07809785&OS=07809785&RS=07809785
+  owner: Google Inc.
+  company: Google
+  publication_number: 07809785
+  publication_date: "2010-10-05"
+  application_number: "11754354"
+  application_date: "2007-05-28"
+  number: 07809785
+  tags:
+  - DNS
+- patent_id: Onn9PqlzOG5e3CDQq116WFOKas116fTj6CHYS1XZ0qSPohQ117
+  name: Address bar user interface control
+  summary: ""
+  abstract: "An address bar user interface control includes a plurality of interactive
+    segments, each segment including one or more filters or selection criteria for
+    selecting content from physical and/or virtual locations. A segment may include
+    two or more filters or selection criteria which are logically combined such as
+    by a logical \u201COR\u201D operation. A user may select a child control associated
+    with an interactive segment, i.e., a parent segment, to provide a list of selectable
+    child filters or selection criteria. In response to selection of a child filter
+    or selection criteria, an interactive segment representing the child filter or
+    selection criteria is added to the address bar succeeding the parent segment and
+    the interactive segments subsequent to the parent segment are removed."
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=07853890&OS=07853890&RS=07853890
+  owner: Microsoft Corporation
+  company: Microsoft Azure
+  publication_number: 07853890
+  publication_date: "2010-12-14"
+  application_number: "11111973"
+  application_date: "2005-04-22"
+  number: 07853890
   tags:
   - DNS
 - patent_id: qJd93kLbvk8U3SCoMeU6MJe5GHTBz116iMbOVS4O8nZ8I117
@@ -69,6 +239,95 @@
   number: 07984170
   tags:
   - DNS
+- patent_id: nxvpIgmrC1DYSiL123E6P0cMggJ2kUtctaq7oWlI7fxIk117
+  name: System using router in a web browser for inter-domain communication
+  summary: ""
+  abstract: A computer-implemented method for performing inter-domain communication
+    in a web browser includes receiving first data from a first domain at a router
+    associated with one or more domains other than the first domain, identifying at
+    the router the one or more domains for receiving data associated with the received
+    data, and transmitting second data associated with the received data to the one
+    or more domains.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08032584&OS=08032584&RS=08032584
+  owner: Google Inc.
+  company: Google
+  publication_number: 08032584
+  publication_date: "2011-10-04"
+  application_number: "12897293"
+  application_date: "2010-10-04"
+  number: 08032584
+  tags:
+  - DNS
+- patent_id: mLbRSRDBPBWGTOdi7wOWqoXYhH4nPNG0cG07KchyQeU117
+  name: Internet location coordinate enhanced domain name system
+  summary: ""
+  abstract: An exemplary architecture is for an Internet Location Coordinate enhanced
+    Domain Name System (DNS). An exemplary method includes requesting information
+    for a plurality of servers associated with a network domain name of a Domain Name
+    System (DNS) where the information includes information based in part on packets
+    transmitted by each of the plurality of servers to a plurality of network beacons;
+    receiving the requested information from a name server associated with the Domain
+    Name System (DNS); and, based in part on the received information, selecting an
+    optimal server for the network domain name. Other methods, devices and systems
+    are also disclosed.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=07991879&OS=07991879&RS=07991879
+  owner: Microsoft Corporation
+  company: Microsoft Azure
+  publication_number: 07991879
+  publication_date: "2011-08-02"
+  application_number: "12041583"
+  application_date: "2008-03-03"
+  number: 07991879
+  tags:
+  - DNS
+- patent_id: boOqO2116xrQ2ecQlPhGvuRjHbVIj0N98SDDOswOaERYs117
+  name: Validation of domain name control
+  summary: ""
+  abstract: A system, operable on one or more computers, and a computer-readable media
+    are presented for validating an assertion made by a user that he or she controls
+    a domain name. The system comprises an assertion receiver, authorization code
+    generator, and a validation component. The assertion receiver receives either
+    an explicit or an implicit indication that a particular user exercises control
+    over a domain name. The authorization code generator provides an authorization
+    code, to be electronically published in a Domain Name System (DNS) record associated
+    with the domain name. After the authorization code has been inserted in a DNS
+    record, the validation component accesses the DNS record to determine presence
+    of the authorization code within the DNS records. If the authorization code is
+    present, control of the domain by the user is established.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=07987251&OS=07987251&RS=07987251
+  owner: Microsoft Corporation
+  company: Microsoft Azure
+  publication_number: 07987251
+  publication_date: "2011-07-26"
+  application_number: "11228926"
+  application_date: "2005-09-16"
+  number: 07987251
+  tags:
+  - DNS
+- patent_id: 3rGDG7UXRIO9116NnThQ1167eSn70sBhuw1YU74123xmnvb1I117
+  name: Cross-domain communication technique for execution of web mashups
+  summary: ""
+  abstract: A system and method is described for communicating requests from a Web
+    mashup being executed within the context of a Web browser to third-party Web services
+    in a manner that does not violate the Same Origin Policy (SOP) observed by many
+    Web browsers. In one embodiment, a workflow engine operating in the context of
+    a Web browser executes a plurality of executable components comprising a Web mashup.
+    The workflow engine transparently redirects Web service requests generated by
+    the executing components to a proxy server that acts as an intermediate between
+    the workflow engine and third-party Web services. The proxy server, which is not
+    subject to SOP, transmits the Web service requests to the third-party Web service
+    and obtains requested data therefrom. The proxy server further returns the requested
+    data in a manner that is useable by the Web mashup components.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=07941546&OS=07941546&RS=07941546
+  owner: Microsoft Corporation
+  company: Microsoft Azure
+  publication_number: 07941546
+  publication_date: "2011-05-10"
+  application_number: "12273516"
+  application_date: "2008-11-18"
+  number: 07941546
+  tags:
+  - DNS
 - patent_id: jMwRswMVN1bWXm6nNlb9lyKFwbtbCd2pAZ8HsrMvytg117
   name: Domain name resolution using a distributed DNS network
   summary: ""
@@ -90,6 +349,138 @@
   application_number: "12786895"
   application_date: "2010-05-25"
   number: 08117296
+  tags:
+  - DNS
+- patent_id: q70mdDVOWYRY75tlOl7uPLWixOEFdlDclkEm1OKfMbw117
+  name: Inter-domain communication system using remote procedure calls for message
+    communications between applications in different domains
+  summary: ""
+  abstract: A computer-implemented method for performing inter-domain communication
+    in a web browser includes receiving first data from a first domain at a router
+    associated with one or more domains other than the first domain, identifying at
+    the router the one or more domains for receiving data associated with the received
+    data, and transmitting second data associated with the received data to the one
+    or more domains.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08316078&OS=08316078&RS=08316078
+  owner: Google Inc.
+  company: Google
+  publication_number: 08316078
+  publication_date: "2012-11-20"
+  application_number: "13251917"
+  application_date: "2011-10-03"
+  number: 08316078
+  tags:
+  - DNS
+- patent_id: O3R116WHJUdmSAn3bk9dqgJfBkmIdr8f0bDMZtVFEd4tY117
+  name: Cross-domain communications with a shared worker application
+  summary: ""
+  abstract: Techniques are described herein that provide for inter-domain communications
+    with one or more shared worker applications. A parent web application associated
+    with a first domain may create a child web application associated with a second
+    domain different than the first domain. The child web application may determine
+    whether a shared worker associated with the second domain is operating. The shared
+    worker acquires information associated with the second domain in response to one
+    or more requests, and stores acquired information associated with the second domain
+    in a memory of the local computing device. The parent web application may request,
+    via the child web application, information associated with the second domain from
+    the shared worker. In response to the request, the parent web application may
+    receive, from the shared worker, information associated with the second domain
+    stored in the memory of the local computing device.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08260937&OS=08260937&RS=08260937
+  owner: Google Inc.
+  company: Google
+  publication_number: 08260937
+  publication_date: "2012-09-04"
+  application_number: "13250129"
+  application_date: "2011-09-30"
+  number: 08260937
+  tags:
+  - DNS
+- patent_id: jO9ppKj6Fd2zzD9pUoX2Szak9NWi2rzXoZNkyZlMb1g117
+  name: Cross-domain communicating using data files
+  summary: ""
+  abstract: In one implementation, a computer-implemented method includes receiving
+    at a data server computer hosted at a first internet domain a request from a client
+    computer for data to be used by an application SWF file received from a web server
+    hosted at a second internet domain and executed by the client computer, the request
+    includes the second internet domain and information specifying the requested data.
+    The method further includes generating at least a portion of a data SWF file including
+    the requested data and a domain identifier corresponding to the second internet
+    domain, the domain identifier configured to specify that SWF formatted files associated
+    with the second internet domain are permitted to access the requested data within
+    the data SWF file. The method also includes transmitting the data SWF file from
+    the data server computer to the client computer.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08219598&OS=08219598&RS=08219598
+  owner: Google Inc.
+  company: Google
+  publication_number: 08219598
+  publication_date: "2012-07-10"
+  application_number: "12463816"
+  application_date: "2009-05-11"
+  number: 08219598
+  tags:
+  - DNS
+- patent_id: Q1WpqXSGtE116yo1bBviba0RRE48tq123XcktgWDPyU7D0s117
+  name: Cross-domain linking of data types
+  summary: ""
+  abstract: In one implementation, a computer-implemented method can include receiving,
+    at a first server corresponding to a first domain, a request from a client computer
+    for a vector graphics file that includes instructions that implement a first method.
+    The method can further include sending the vector graphics file to the client
+    computer, the client computer having received a library file from a second server
+    corresponding to a second domain, wherein the library file includes instructions
+    that implement a second method to direct calls to the first method, and wherein
+    executing the vector graphics file and the library file causes the client computer
+    to perform operations. The operations performed by the client computer can include
+    establishing a link between the first method and the second method and directing
+    a call made to the second method with an argument associated with a data type,
+    to the first method using the established link.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08103740&OS=08103740&RS=08103740
+  owner: Google Inc.
+  company: Google
+  publication_number: 08103740
+  publication_date: "2012-01-24"
+  application_number: "12465524"
+  application_date: "2009-05-13"
+  number: 08103740
+  tags:
+  - DNS
+- patent_id: A5io3OyKDFYgQaabf123p123QfCBZ3S4b123NwsU82123jV72WU117
+  name: Internet location coordinate enhanced domain name system
+  summary: ""
+  abstract: An exemplary architecture is for an Internet Location Coordinate enhanced
+    Domain Name System (DNS). An exemplary method includes requesting information
+    for a plurality of servers associated with a network domain name of a Domain Name
+    System (DNS) where the information includes information based in part on packets
+    transmitted by each of the plurality of servers to a plurality of network beacons;
+    receiving the requested information from a name server associated with the Domain
+    Name System (DNS); and, based in part on the received information, selecting an
+    optimal server for the network domain name. Other methods, devices and systems
+    are also disclosed.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08275873&OS=08275873&RS=08275873
+  owner: Microsoft Corporation
+  company: Microsoft Azure
+  publication_number: 08275873
+  publication_date: "2012-09-25"
+  application_number: "13188013"
+  application_date: "2011-07-21"
+  number: 08275873
+  tags:
+  - DNS
+- patent_id: E123sbIa1c84Fr1BKkmqyzJscWTy1uP7NVej8P5v97tq0117
+  name: Transactions for an application domain manager
+  summary: ""
+  abstract: Through one or more transaction calls, an application domain manager enables
+    a host application to create, initialize, customize, and otherwise manage an isolation
+    construct within the application.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08140985&OS=08140985&RS=08140985
+  owner: Microsoft Corporation
+  company: Microsoft Azure
+  publication_number: 08140985
+  publication_date: "2012-03-20"
+  application_number: "11040285"
+  application_date: "2005-01-20"
+  number: 08140985
   tags:
   - DNS
 - patent_id: 105Qf1163q116wuyUrsV1hd3mr1RzMlp116123aWBGWVH4d7HAc117
@@ -139,6 +530,52 @@
   number: 08560646
   tags:
   - DNS
+- patent_id: VGs1krtRlv3nUkxCAlkQxuQfSsqkbvaNLbE7fQPdSdU117
+  name: Methods and apparatuses for providing internet-based proxy services
+  summary: ""
+  abstract: A proxy server receives, from multiple visitors of multiple client devices,
+    a plurality of requests for actions to be performed on identified network resources
+    belonging to a plurality of origin servers. At least some of the origin servers
+    belong to different domains and are owned by different entities. The proxy server
+    and the origin servers are also owned by different entities. The proxy server
+    analyzes each request it receives to determine whether that request poses a threat
+    and whether the visitor belonging to the request poses a threat. The proxy server
+    blocks those requests from visitors that pose a threat or in which the request
+    itself poses a threat. The proxy server transmits the requests that are not a
+    threat and is from a visitor that is not a threat to the appropriate origin server.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08572737&OS=08572737&RS=08572737
+  owner: Cloudflare, Inc.
+  company: CloudFlare
+  publication_number: 08572737
+  publication_date: "2013-10-29"
+  application_number: "13251001"
+  application_date: "2011-09-30"
+  number: 08572737
+  tags:
+  - DNS
+- patent_id: qkTyDI6bcIryew9Pq116116bmIWrqTas2BuG27X123QYP123xrA117
+  name: Methods and apparatuses for providing internet-based proxy services
+  summary: ""
+  abstract: A proxy server receives, from multiple visitors of multiple client devices,
+    a plurality of requests for actions to be performed on identified network resources
+    belonging to a plurality of origin servers. At least some of the origin servers
+    belong to different domains and are owned by different entities. The proxy server
+    and the origin servers are also owned by different entities. The proxy server
+    analyzes each request it receives to determine whether that request poses a threat
+    and whether the visitor belonging to the request poses a threat. The proxy server
+    blocks those requests from visitors that pose a threat or in which the request
+    itself poses a threat. The proxy server transmits the requests that are not a
+    threat and is from a visitor that is not a threat to the appropriate origin server.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08370940&OS=08370940&RS=08370940
+  owner: Cloudflare, Inc.
+  company: CloudFlare
+  publication_number: 08370940
+  publication_date: "2013-02-05"
+  application_number: "12939902"
+  application_date: "2010-11-04"
+  number: 08370940
+  tags:
+  - DNS
 - patent_id: atrVGBlxw4Ue5pF60o8dXbsujzZY0Br8xDh1Tw00VpI117
   name: Cross site request forgery mitigation in multi-domain integrations
   summary: ""
@@ -164,6 +601,171 @@
   number: 08505106
   tags:
   - DNS
+- patent_id: A4Pe632keQKzPOwXk5AIeS3iI94aMluLoo4123G6kOY2M117
+  name: Cross-domain communications with a shared worker application
+  summary: ""
+  abstract: Techniques are described herein that provide for inter-domain communications
+    with one or more shared worker applications. A parent web application associated
+    with a first domain may create a child web application associated with a second
+    domain different than the first domain. The child web application may determine
+    whether a shared worker associated with the second domain is operating. The shared
+    worker acquires information associated with the second domain in response to one
+    or more requests, and stores acquired information associated with the second domain
+    in a memory of the local computing device. The parent web application may request,
+    via the child web application, information associated with the second domain from
+    the shared worker. In response to the request, the parent web application may
+    receive, from the shared worker, information associated with the second domain
+    stored in the memory of the local computing device.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08438289&OS=08438289&RS=08438289
+  owner: Google Inc.
+  company: Google
+  publication_number: 08438289
+  publication_date: "2013-05-07"
+  application_number: "12795559"
+  application_date: "2010-06-07"
+  number: 08438289
+  tags:
+  - DNS
+- patent_id: j6dpP2ycemkhjPR123DDuuIqxiEk6GBO9TW791ppN88Co117
+  name: Cross-domain communications with a shared worker application
+  summary: ""
+  abstract: Techniques are described herein that provide for inter-domain communications
+    with one or more shared worker applications. A parent web application associated
+    with a first domain may create a child web application associated with a second
+    domain different than the first domain. The child web application may determine
+    whether a shared worker associated with the second domain is operating. The shared
+    worker acquires information associated with the second domain in response to one
+    or more requests, and stores acquired information associated with the second domain
+    in a memory of the local computing device. The parent web application may request,
+    via the child web application, information associated with the second domain from
+    the shared worker. In response to the request, the parent web application may
+    receive, from the shared worker, information associated with the second domain
+    stored in the memory of the local computing device.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08423651&OS=08423651&RS=08423651
+  owner: Google Inc.
+  company: Google
+  publication_number: 08423651
+  publication_date: "2013-04-16"
+  application_number: "13250129"
+  application_date: "2011-09-30"
+  number: 08423651
+  tags:
+  - DNS
+- patent_id: SaSYFxitCbzLvEyRJPvHHQNL1apLI116Uz1kaWgoN1238cI117
+  name: Domain name buckets in a hosted storage system
+  summary: ""
+  abstract: In one general aspect, this document describes a computer-implemented
+    method for creating buckets in a hosted storage platform. The method may include
+    receiving, at a hosted storage computer system that utilizes a single namespace
+    across data stores of the hosted storage computer system, a request from a user
+    of the hosted storage computer system to create a bucket having a name that includes
+    a domain name. The method may also include verifying that the user is an authorized
+    manager of a domain that corresponds to the domain name. The method may also include
+    creating the bucket on the hosted storage computer system upon verification that
+    the user is an authorized manager of the domain.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08396969&OS=08396969&RS=08396969
+  owner: Google Inc.
+  company: Google
+  publication_number: 08396969
+  publication_date: "2013-03-12"
+  application_number: "13252426"
+  application_date: "2011-10-04"
+  number: 08396969
+  tags:
+  - DNS
+- patent_id: qalPF3lk123j3rzgZAhngIZdeimN1W2tNLKXIO3nu4Wzs117
+  name: Systems and methods for using a domain-specific security sandbox to facilitate
+    secure transactions
+  summary: ""
+  abstract: Computer systems, methods, and computer readable media for facilitating
+    a secure transaction are provided in which a client application is executed on
+    a client computer. The client application initiates a request to a first domain
+    comprising (i) a credential for the client application, (ii) a transaction identifier
+    that uniquely identifies the request, and (iii) optionally, an identification
+    of a user of the client application. Responsive to this request, the client receives
+    a validated transaction module from the first domain. The client application loads
+    the validated transaction module into a separate domain security sandbox that
+    is segregated from memory space in which the client application is run. The validated
+    transaction module conducts a validated transaction between the second domain
+    and the validated transaction module. Separately, through the client application,
+    a determination is made as to whether the transaction is complete by querying
+    the first domain.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08364959&OS=08364959&RS=08364959
+  owner: Google Inc.
+  company: Google
+  publication_number: 08364959
+  publication_date: "2013-01-29"
+  application_number: "12788173"
+  application_date: "2010-05-26"
+  number: 08364959
+  tags:
+  - DNS
+- patent_id: 6cQjP7eNj12sxELaZgxUQv9UA1yBvufV4o0Ng3d3dZE117
+  name: Direct addressability and direct server return
+  summary: ""
+  abstract: Cloud computing platforms having computer-readable media that perform
+    methods for direct addressability and direct server return are provided. The cloud
+    computing platform includes a load balancer and several servers. The servers are
+    configured with public addresses, private addresses, and an address of the load
+    balancer. The loopback interface of the servers is configured with the address
+    of the load balancer. This allows a server to bypass the load balancer when replying
+    to communication messages. Additionally, the public and private addresses of the
+    servers enable direct addressability in the cloud computing platform. Accordingly,
+    an application executing in the cloud computing platform may connect two or more
+    clients on the same server.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08510447&OS=08510447&RS=08510447
+  owner: Microsoft Corporation
+  company: Microsoft Azure
+  publication_number: 08510447
+  publication_date: "2013-08-13"
+  application_number: "13585215"
+  application_date: "2012-08-14"
+  number: 08510447
+  tags:
+  - DNS
+- patent_id: RLOXs2FtaFYL1F49ID0ME8chmiewNQqaCWJDaO37z5A117
+  name: Failover in an internet location coordinate enhanced domain name system
+  summary: ""
+  abstract: An exemplary failover module includes (a) instructions to respond to a
+    connection problem to a host server at an IP address by selecting a different
+    IP address from a cached list of IP addresses for a domain name associated with
+    the host server and (b) instructions to return the selected, different IP address
+    to future name queries where the instructions to respond, the instructions to
+    initiate, and the instructions to return execute at an operating system level
+    of a computing device configurable to connect to at least one of a plurality of
+    host servers. Such a module may include instructions to optionally initiate a
+    connection to a host server at the selected, different IP address. An exemplary
+    failover module may optionally select an IP address based in part on Internet
+    Location Coordinates (ILCs) where the host servers reside in an ILC enhanced Domain
+    Name System (DNS). Other methods, devices and systems are also disclosed.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08458298&OS=08458298&RS=08458298
+  owner: Microsoft Corporation
+  company: Microsoft Azure
+  publication_number: 08458298
+  publication_date: "2013-06-04"
+  application_number: "12041599"
+  application_date: "2008-03-03"
+  number: 08458298
+  tags:
+  - DNS
+- patent_id: v3Lc9k1WmmiQlnMQWnUuMMXzx8xMfP9WYATVdCPiC4k117
+  name: Communication across domains
+  summary: ""
+  abstract: Communication across domains is described. In at least one implementation,
+    a determination is made that an amount of data to be communicated via an Iframe
+    exceeds a threshold amount. The data is divided into a plurality of portions that
+    do not exceed the threshold amount. A plurality of messages is formed to communicate
+    the divided data across domains.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08489878&OS=08489878&RS=08489878
+  owner: Microsoft Corporation
+  company: Microsoft Azure
+  publication_number: 08489878
+  publication_date: "2013-07-16"
+  application_number: "13419215"
+  application_date: "2012-03-13"
+  number: 08489878
+  tags:
+  - DNS
 - patent_id: auSE0wVtuHLS4jG7o49tSln1EQYCrBxvyyOdR8QdjUo117
   name: Methods and apparatus for remapping public network addresses on a network
     to an external network via an intermediate network
@@ -187,6 +789,32 @@
   application_number: "13069727"
   application_date: "2011-03-23"
   number: 08751691
+  tags:
+  - DNS
+- patent_id: HSIx51tvtP1ndqhHnJ4vQExFsF698EG07jpZKh0Vcoc117
+  name: Recording internet visitor threat information through an internet-based proxy
+    service
+  summary: ""
+  abstract: An Internet-based proxy service server accesses a set of visitor characteristics
+    for multiple visitors to a set of one or more domains operated by a customer.
+    The set of visitor characteristics are reported from a set of one or more proxy
+    servers that are situated between client devices and a set of one or more origin
+    servers for the set of domains. The service server causes the set of visitor characteristics
+    to be displayed through a threat reporting interface that allows the customer
+    to report visitors as posing an Internet security threat. The service server receives
+    input from the customer through the threat reporting interface that at least one
+    of the visitors poses an Internet security threat, and records that visitor as
+    an Internet security threat in one or more threat databases that are used by the
+    proxy servers when determining whether to allow visitors to access network resources
+    hosted at a set of one or more origin servers.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08751633&OS=08751633&RS=08751633
+  owner: Cloudflare, Inc.
+  company: CloudFlare
+  publication_number: 08751633
+  publication_date: "2014-06-10"
+  application_number: "12939935"
+  application_date: "2010-11-04"
+  number: 08751633
   tags:
   - DNS
 - patent_id: 10MSBHdLDWmSVU2ew3fyj6ebh6PPPPv2j9Ez0Qyc82A117
@@ -226,6 +854,27 @@
   application_number: "12978116"
   application_date: "2010-12-23"
   number: 08689099
+  tags:
+  - DNS
+- patent_id: Iej5z123uePPNCxS49lelepim7U6G22G6RaLfOTVo67Po117
+  name: Validating pointer records in a domain name system (DNS) service
+  summary: ""
+  abstract: In one embodiment a method for receiving a request from a user to update
+    a pointer record of a domain name system (DNS) in a DNS service includes issuing
+    a query from the DNS service to a resource of a first service of the data center
+    from the DNS service using a uniform resource indicator (URI) of the request corresponding
+    to the resource, receiving a list of Internet protocol (IP) addresses in the DNS
+    service from the first service, determining whether an IP address received in
+    the request corresponds to one of the IP addresses of the list, and if so, enabling
+    the user to update the pointer record.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08800011&OS=08800011&RS=08800011
+  owner: Rackspace US, Inc.
+  company: Rackspace
+  publication_number: 08800011
+  publication_date: "2014-08-05"
+  application_number: "13484469"
+  application_date: "2012-05-31"
+  number: 08800011
   tags:
   - DNS
 - patent_id: nCj5ERFExhkT4mHYhAMICPeN7mbcorMNSfkr8DvtHH4117
@@ -283,6 +932,51 @@
   number: 09036504
   tags:
   - DNS
+- patent_id: 2hlurd63Ovp0YLWxE3qK11691dRDM9uYS40aNo6sHXthw117
+  name: Registering for internet-based proxy services
+  summary: ""
+  abstract: A domain name is received from a customer. DNS is queried for multiple
+    possible subdomains of the domain. For each subdomain that resolves, information
+    about that subdomain's corresponding resource record is stored in a zone file
+    that also includes a resource record for the domain name. The zone file is presented
+    to the customer. A designation from the customer of which of the resource records
+    are to point to an IP address of a proxy server is received. The resource records
+    are modified according to the input of the customer and the zone file is propagated
+    including the modified resource records.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=09049244&OS=09049244&RS=09049244
+  owner: CloudFlare, Inc.
+  company: CloudFlare
+  publication_number: 09049244
+  publication_date: "2015-06-02"
+  application_number: "13451353"
+  application_date: "2012-04-19"
+  number: 09049244
+  tags:
+  - DNS
+- patent_id: sKxwFNWYaGWZxA3fCuNOnH7jtZShh7nL5HlHHgentvo117
+  name: Internet-based proxy service to limit internet visitor connection speed
+  summary: ""
+  abstract: A proxy server for limiting Internet connection speed of visitors that
+    pose a threat. The proxy server receives from a client device a request to perform
+    an action on an identified resource that is hosted at an origin server for a domain.
+    The proxy server receives the request as a result of a DNS request for the domain
+    resolving to the proxy server. The origin server is one of multiple origin servers
+    that belong to different domains that resolve to the proxy server and are owned
+    by different entities. The proxy server analyzes the request to determine whether
+    a visitor belonging to the request poses a threat. If the proxy server determines
+    that the visitor poses a threat, the proxy server reduces the speed at which the
+    proxy server processes the request while keeping a connection to the client device
+    open.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=09009330&OS=09009330&RS=09009330
+  owner: Cloudflare, Inc.
+  company: CloudFlare
+  publication_number: 09009330
+  publication_date: "2015-04-14"
+  application_number: "12939919"
+  application_date: "2010-11-04"
+  number: 09009330
+  tags:
+  - DNS
 - patent_id: Qi96Ahs95r1166tMec4ZFlNyKgKk48hsr7n116Iwpx8PwN0117
   name: Cross site request forgery mitigation in multi-domain integrations
   summary: ""
@@ -308,4 +1002,145 @@
   number: 09015820
   tags:
   - Security
+  - DNS
+- patent_id: Uf8VnMh58Wb123a0RmLj92J5A9Y123EKvM2M15dlSpAdjkU117
+  name: Cross-domain communications with a shared worker application
+  summary: ""
+  abstract: Techniques are described herein that provide for inter-domain communications
+    with one or more shared worker applications. A parent web application associated
+    with a first domain may create a child web application associated with a second
+    domain different than the first domain. The child web application may determine
+    whether a shared worker associated with the second domain is operating. The shared
+    worker acquires information associated with the second domain in response to one
+    or more requests, and stores acquired information associated with the second domain
+    in a memory of the local computing device. The parent web application may request,
+    via the child web application, information associated with the second domain from
+    the shared worker. In response to the request, the parent web application may
+    receive, from the shared worker, information associated with the second domain
+    stored in the memory of the local computing device.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=09047393&OS=09047393&RS=09047393
+  owner: Google Inc.
+  company: Google
+  publication_number: 09047393
+  publication_date: "2015-06-02"
+  application_number: "13591676"
+  application_date: "2012-08-22"
+  number: 09047393
+  tags:
+  - DNS
+- patent_id: xAE4CQhjSpP99hmWzsSmjamCRCgT1ct2GdLaVEkzEqk117
+  name: Location bound secure domains
+  summary: ""
+  abstract: A method, apparatus, and electronic device with secure operation based
+    on geography are disclosed. A positioning mechanism  may determine a geographic
+    location of the apparatus or electronic device. A processor  may identify a secure
+    domain for a virtual machine application. The processor  may determine an availability
+    of an application programming interface for the virtual machine application based
+    on the geographic location.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=09223938&OS=09223938&RS=09223938
+  owner: Google Technology Holdings LLC
+  company: Google
+  publication_number: 09223938
+  publication_date: "2015-12-29"
+  application_number: "11967592"
+  application_date: "2007-12-31"
+  number: 09223938
+  tags:
+  - DNS
+- patent_id: t43EM123kSefb116aRe4oV9OYBrC63lyV29yyAefHIVNMNo117
+  name: Systems and methods for using a domain-specific security sandbox to facilitate
+    secure transactions
+  summary: ""
+  abstract: Computer systems, methods, and computer readable media for facilitating
+    a secure transaction are provided in which a client application is executed on
+    a client computer. The client application initiates a request to a first domain
+    comprising (i) a credential for the client application, (ii) a transaction identifier
+    that uniquely identifies the request, and (iii) optionally, an identification
+    of a user of the client application. Responsive to this request, the client receives
+    a validated transaction module from the first domain. The client application loads
+    the validated transaction module into a separate domain security sandbox that
+    is segregated from memory space in which the client application is run. The validated
+    transaction module conducts a validated transaction between the second domain
+    and the validated transaction module. Separately, through the client application,
+    a determination is made as to whether the transaction is complete by querying
+    the first domain.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=09160717&OS=09160717&RS=09160717
+  owner: GOOGLE INC.
+  company: Google
+  publication_number: 09160717
+  publication_date: "2015-10-13"
+  application_number: "13747280"
+  application_date: "2013-01-22"
+  number: 09160717
+  tags:
+  - DNS
+- patent_id: gcuYKhPYtVhLSBX3cNcLaAKNQO123JPuostjLfF46QJ0I117
+  name: Client-side management of domain name information
+  summary: ""
+  abstract: An exemplary method includes booting a computing device, in response to
+    the booting, accessing a file that includes domain names and resolving at least
+    one of the domain names by issuing a request to a server where the resolving occurs
+    as a background process. An exemplary method includes receiving a notice to invalidate
+    client DNS resolver cache information for a domain name, accessing a list of client
+    subscribers to an invalidation service for the domain name and issuing an instruction
+    to the client subscribers to invalidate their respective client DNS resolver cache
+    information for the domain name. An exemplary method includes receiving a request
+    to resolve a domain name, resolving the domain name and transmitting information
+    for the resolved domain name and additional information for at least one other
+    domain name. Other methods, devices and systems are also disclosed.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08966121&OS=08966121&RS=08966121
+  owner: Microsoft Corporation
+  company: Microsoft Azure
+  publication_number: 08966121
+  publication_date: "2015-02-24"
+  application_number: "12041608"
+  application_date: "2008-03-03"
+  number: 08966121
+  tags:
+  - DNS
+- patent_id: moeymcDfq39sdXUF8wtMq9UxxUYWfXHKMI29XN9F34A117
+  name: Internet-based proxy service to modify internet responses
+  summary: ""
+  abstract: A proxy server receives from a client device a request for a network resource
+    that is hosted at an origin server for a domain. The request is received at the
+    proxy server as a result of a DNS request for the domain resolving to the proxy
+    server. The origin server is one of multiple origin servers that belong to different
+    domains that resolve to the proxy server and are owned by different entities.
+    The proxy server retrieves the requested network resource. The proxy server determines
+    that the requested resource is an HTML page, automatically modifies the HTML page,
+    and transmits the modified HTML page to the client device.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=09369437&OS=09369437&RS=09369437
+  owner: CLOUDFLARE, INC.
+  company: CloudFlare
+  publication_number: 09369437
+  publication_date: "2016-06-14"
+  application_number: "12939923"
+  application_date: "2010-11-04"
+  number: 09369437
+  tags:
+  - DNS
+- patent_id: tQ81U1P0vuuMDloyYJzB550fzYpKCAKlJfqitWEnTGs117
+  name: Managing distribution of sensitive information
+  summary: ""
+  abstract: Managing distribution of sensitive data is disclosed. In one example,
+    a request is sent to a control platform to add a virtual domain. A domain key
+    associated with the virtual domain is received. A request that the credential
+    be transmitted to the virtual domain is sent, along with the application credential
+    which has been encrypted using the domain key. In another example, a request that
+    one or more application credentials be pushed to a virtual domain is received
+    from a configuration console. The virtual domain is notified that at least one
+    action request associated with the virtual domain is available. A signed request
+    is received from the virtual domain for the action request. The application credentials
+    are transmitted to the virtual domain. In a third example, an application credential
+    of a virtual domain is requested. A signed message including an encrypted application
+    credential is received from the control platform.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=09305182&OS=09305182&RS=09305182
+  owner: CLOUDFLARE, INC.
+  company: CloudFlare
+  publication_number: 09305182
+  publication_date: "2016-04-05"
+  application_number: "13215060"
+  application_date: "2011-08-22"
+  number: 09305182
+  tags:
   - DNS
