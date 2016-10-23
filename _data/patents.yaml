@@ -21,6 +21,54 @@
   number: "07725602"
   tags:
   - DNS
+- patent_id: qJd93kLbvk8U3SCoMeU6MJe5GHTBz116iMbOVS4O8nZ8I117
+  name: Embedding overlay virtual network addresses in underlying substrate network
+    addresses
+  summary: ""
+  abstract: Techniques are described for managing communications between multiple
+    computing nodes, such as computing nodes that are separated by one or more physical
+    networks. In some situations, the techniques may be used to provide a virtual
+    network between multiple computing nodes that are separated by one or more intermediate
+    physical networks, such as from the edge of the one or more intermediate physical
+    networks by modifying communications that enter and/or leave the intermediate
+    physical networks. In some situations, the computing nodes may include virtual
+    machine nodes hosted on one or more physical computing machines or systems, such
+    as by or on behalf of one or more users (e.g., users of a program execution service).
+    The managing of the communications may include using substrate network addresses
+    that are configured to embed virtual network addresses for a virtual network that
+    is overlaid on the underlying physical substrate network.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08046480&OS=08046480&RS=08046480
+  owner: Amazon Technologies, Inc.
+  company: Amazon Web Services
+  publication_number: 08046480
+  publication_date: "2011-10-25"
+  application_number: "12060138"
+  application_date: "2008-03-31"
+  number: 08046480
+  tags:
+  - DNS
+- patent_id: 54JEiQLXq5cwVZUgPLVhBDTBDWdB1NfaUcRP116RRuVts117
+  name: Cross-domain communication in domain-restricted communication environments
+  summary: ""
+  abstract: A messaging frame can be used to allow different domains to communicate
+    in an electronic environment that are otherwise prevented from directly communicating.
+    A messaging frame or other communication element can be configured to receive
+    messages or communications from any frame, object, or element in the same domain
+    as the messaging frame. The messaging frame then can switch to a target domain
+    in order to provide the message or communication to a frame, object, or element
+    in the target domain. The messaging frame can include an interface definition
+    that allows only approved messages to be passed between domains, such that the
+    risk of malicious attack is minimized.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=07984170&OS=07984170&RS=07984170
+  owner: Amazon Technologies, Inc.
+  company: Amazon Web Services
+  publication_number: 07984170
+  publication_date: "2011-07-19"
+  application_number: "12362377"
+  application_date: "2009-01-29"
+  number: 07984170
+  tags:
+  - DNS
 - patent_id: jMwRswMVN1bWXm6nNlb9lyKFwbtbCd2pAZ8HsrMvytg117
   name: Domain name resolution using a distributed DNS network
   summary: ""
@@ -66,4 +114,198 @@
   application_date: "2012-01-10"
   number: 08423672
   tags:
+  - DNS
+- patent_id: IWpQVn0S40NfMdrceTeL1DsNyAF3lM0QRD21NOaHIUA117
+  name: Managing communications using alternative packet addressing
+  summary: ""
+  abstract: "Techniques are described for managing communications for a managed virtual
+    computer network overlaid on a distinct substrate computer network, including
+    for communications involving computing nodes of the managed virtual computer network
+    that use an alternative addressing scheme to direct network packets and other
+    network communications to intended destination locations by using textual network
+    node monikers instead of numeric IP addresses to represent computing nodes at
+    a layer 3 or \u201Cnetwork layer\u201D of a corresponding computer networking
+    stack in use by the computing nodes. The techniques are provided without modifying
+    or configuring the network devices of the substrate computer network, by using
+    configured modules to manage and modify communications from the logical edge of
+    the substrate network."
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08560646&OS=08560646&RS=08560646
+  owner: Amazon Technologies, Inc.
+  company: Amazon Web Services
+  publication_number: 08560646
+  publication_date: "2013-10-15"
+  application_number: "12892805"
+  application_date: "2010-09-28"
+  number: 08560646
+  tags:
+  - DNS
+- patent_id: atrVGBlxw4Ue5pF60o8dXbsujzZY0Br8xDh1Tw00VpI117
+  name: Cross site request forgery mitigation in multi-domain integrations
+  summary: ""
+  abstract: Systems and methods for authenticating a request submitted from a client
+    device through a third party content provider to an electronic entity are described.
+    In one embodiment, a method includes providing a trusted script to the third party
+    content provider, passing a trust token to the third party content provider and
+    to the client device, and, in response to a request submitted from the client
+    device through the third party content provider, validating the trust token associated
+    with the request with the token passed to the client device, and processing the
+    request. The trusted script is configured to create a trusted window on the third
+    party Web page displayed on the client computing device, receive a trust token
+    from the electronic entity through the trusted window, and associate the trust
+    token with requests submitted from the client computing device through the third
+    party content provider to the electronic entity.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08505106&OS=08505106&RS=08505106
+  owner: Amazon Technologies, Inc.
+  company: Amazon Web Services
+  publication_number: 08505106
+  publication_date: "2013-08-06"
+  application_number: "12827526"
+  application_date: "2010-06-30"
+  number: 08505106
+  tags:
+  - DNS
+- patent_id: auSE0wVtuHLS4jG7o49tSln1EQYCrBxvyyOdR8QdjUo117
+  name: Methods and apparatus for remapping public network addresses on a network
+    to an external network via an intermediate network
+  summary: ""
+  abstract: Methods and apparatus for remapping IP addresses of a network to endpoints
+    within a different network. A provider network may allocate IP addresses and resources
+    to a customer. The provider network may allow the customer to map an IP address
+    to remap an IP address to an endpoint on the customer's network. When a packet
+    is received from a client addressed to the IP address, the provider network may
+    determine that the IP address has been remapped to the endpoint. The provider
+    network may translate the source and destination addresses of the packet and modify
+    the source address of the packet to indicate the endpoint as the destination,
+    and send the modified packet to the endpoint via the Internetan intermediate network.
+    Response traffic may be routed to the client through the provider network, or
+    may be directly routed to the client by the customer network.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08751691&OS=08751691&RS=08751691
+  owner: Amazon Technologies, Inc.
+  company: Amazon Web Services
+  publication_number: 08751691
+  publication_date: "2014-06-10"
+  application_number: "13069727"
+  application_date: "2011-03-23"
+  number: 08751691
+  tags:
+  - DNS
+- patent_id: 10MSBHdLDWmSVU2ew3fyj6ebh6PPPPv2j9Ez0Qyc82A117
+  name: Validating updates to domain name system records
+  summary: ""
+  abstract: Disclosed are various embodiments for validating updates to domain name
+    system (DNS) records. A request is received to modify at least one DNS record
+    associated with a domain owned by a domain owner. The request to modify the at
+    least one DNS record is compared with at least one policy. The at least one policy
+    is configurable by the domain owner. The requested modification to the at least
+    one DNS record is selectively granted based at least upon the comparison.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08719900&OS=08719900&RS=08719900
+  owner: Amazon Technologies, Inc.
+  company: Amazon Web Services
+  publication_number: 08719900
+  publication_date: "2014-05-06"
+  application_number: "12782227"
+  application_date: "2010-05-18"
+  number: 08719900
+  tags:
+  - DNS
+- patent_id: BvvLnYl1iDPAkgyBcOAFY123123wbpWgNlY116oDApqCvCffQ117
+  name: Cross-domain communication
+  summary: ""
+  abstract: Disclosed are various embodiments for performing cross-domain communication
+    using messenger frames. One or more messenger frames are dynamically generated
+    in response to determining that a message is to be sent from a first frame in
+    one domain to a second frame in another domain in a client. The message is sent
+    from the first frame to the second frame by embedding the message in addresses
+    of the messenger frames. Code executing in the first frame and code executing
+    in the second frame are restricted from direct communication in the client.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08689099&OS=08689099&RS=08689099
+  owner: Amazon Technologies, Inc.
+  company: Amazon Web Services
+  publication_number: 08689099
+  publication_date: "2014-04-01"
+  application_number: "12978116"
+  application_date: "2010-12-23"
+  number: 08689099
+  tags:
+  - DNS
+- patent_id: nCj5ERFExhkT4mHYhAMICPeN7mbcorMNSfkr8DvtHH4117
+  name: Distributed network address translation
+  summary: ""
+  abstract: Systems and methods are disclosed that facilitate the management of network
+    address information utilized by hosted computing devices. Each host computing
+    device includes a local network and port address management component that is
+    configured with port address translation information for the specific host computing
+    device. Additionally, one or more edge computing devices also include a local
+    network and port address management component that is configured with network
+    and port address translation information. The network and port address translation
+    information facilitates the correlation of internal network address information
+    associated with a virtual machine instance with a tuple of an externally accessible
+    network address and port address information. The local network and port address
+    translation management components utilize the network and port address translation
+    information to translate communication requests to and from the virtual machine
+    instances without requiring a centralized network and port address translation
+    component.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=09055117&OS=09055117&RS=09055117
+  owner: Amazon Technologies, Inc.
+  company: Amazon Web Services
+  publication_number: 09055117
+  publication_date: "2015-06-09"
+  application_number: "13246532"
+  application_date: "2011-09-27"
+  number: 09055117
+  tags:
+  - DNS
+- patent_id: KCJZHnaWm4M6aKhREwyUx6deWL116yvTlxkcWq5l9Nyqw117
+  name: Using virtual networking devices and routing information to associate network
+    addresses with computing nodes
+  summary: ""
+  abstract: Techniques are described for providing managed virtual computer networks
+    that have a configured logical network topology with virtual networking devices,
+    such as by a network-accessible configurable network service, with corresponding
+    networking functionality provided for communications between multiple computing
+    nodes of the virtual computer network by emulating functionality that would be
+    provided by the virtual networking devices if they were physically present. In
+    some situations, the networking functionality provided for a managed computer
+    network of a client includes receiving routing communications directed to the
+    virtual networking devices and using included routing information to update the
+    configuration of the managed computer network, such as to allow at least some
+    computing nodes of a managed computer network to dynamically signal particular
+    types of uses of one or more indicated target network addresses and/or to dynamically
+    signal use of particular external public network addresses based on such routing
+    information.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=09036504&OS=09036504&RS=09036504
+  owner: Amazon Technologies, Inc.
+  company: Amazon Web Services
+  publication_number: 09036504
+  publication_date: "2015-05-19"
+  application_number: "12632718"
+  application_date: "2009-12-07"
+  number: 09036504
+  tags:
+  - DNS
+- patent_id: Qi96Ahs95r1166tMec4ZFlNyKgKk48hsr7n116Iwpx8PwN0117
+  name: Cross site request forgery mitigation in multi-domain integrations
+  summary: ""
+  abstract: Systems and methods for authenticating a request submitted from a client
+    device through a third party content provider to an electronic entity are described.
+    In one embodiment, a method includes providing a trusted script to the third party
+    content provider, passing a trust token to the third party content provider and
+    to the client device, and, in response to a request submitted from the client
+    device through the third party content provider, validating the trust token associated
+    with the request with the token passed to the client device, and processing the
+    request. The trusted script is configured to create a trusted window on the third
+    party Web page displayed on the client computing device, receive a trust token
+    from the electronic entity through the trusted window, and associate the trust
+    token with requests submitted from the client computing device through the third
+    party content provider to the electronic entity.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=09015820&OS=09015820&RS=09015820
+  owner: Amazon Technologies, Inc.
+  company: Amazon Web Services
+  publication_number: 09015820
+  publication_date: "2015-04-21"
+  application_number: "13931613"
+  application_date: "2013-06-28"
+  number: 09015820
+  tags:
+  - Security
   - DNS
