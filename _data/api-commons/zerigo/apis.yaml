@@ -5,53 +5,43 @@ description: Zerigo makes DNS worry-free. With a REST API, user-friendly interfa
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/zerigo-logo.png
 tags:
 - DNS
-created: "2016-10-21"
-modified: "2016-10-21"
+created: "2016-10-23"
+modified: "2016-10-23"
 url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/zerigo/apis.yaml
 specificationVersion: "0.14"
 apis:
-- name: Zerigo Host Templates API
+- name: Hosts API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/zerigo-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.zerigo.com
+  baseURL: https://www.zerigo.com
   tags:
   - DNS
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/zerigo/zerigo-host-templates-api-openapi-spec.yaml
-- name: Zerigo Hosts API
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/zerigo/hosts-api-openapi-spec.yaml
+- name: Zone Templates API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/zerigo-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.zerigo.com
+  baseURL: https://www.zerigo.com
   tags:
   - DNS
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/zerigo/zerigo-hosts-api-openapi-spec.yaml
-- name: Zerigo Zone Templates API
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/zerigo/zone-templates-api-openapi-spec.yaml
+- name: Zones API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/zerigo-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.zerigo.com
+  baseURL: https://www.zerigo.com
   tags:
   - DNS
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/zerigo/zerigo-zone-templates-api-openapi-spec.yaml
-- name: Zerigo Zones API
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/zerigo-logo.png
-  humanURL: ""
-  baseURL: ""
-  tags:
-  - DNS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/zerigo/zerigo-zones-api-openapi-spec.yaml
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/zerigo/zones-api-openapi-spec.yaml
 x-common:
-- type: x-portal
+- type: x-website
   url: https://www.zerigo.com
 include: []
 maintainers:
