@@ -16,16 +16,13 @@ title: 'API DNS Patents'
       <td align="left" width="75%">
         <p><i>{{ patent.owner }}</i></p>
         <p>{{ patent.abstract }}</p>
+        <p align="center"><hr /></p>
       </td>
       <td width="75" align="center" valign="middle">
           <a href="{{ patent.url }}" target="_blank" title="USPTO Search">
-            <img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/uspto.png" width="50" />
+            <img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/uspto.png" width="75" /><br />
+            View on USPTO Site
           </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <hr />
       </td>
     </tr>
   {% endfor %}
