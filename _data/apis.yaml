@@ -37,7 +37,5 @@ include:
   url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/opendns/apis.yaml
 - name: Rackspace
   url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/rackspace/apis.yaml
-- name: StatDNS
-  url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/statdns/apis.yaml
 - name: Zerigo
   url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/zerigo/apis.yaml
