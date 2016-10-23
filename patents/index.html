@@ -6,23 +6,21 @@ title: 'API DNS Patents'
 <table width="100%" border="0">
   {% for patent in site.data.patents %}
   <tr>
-    <td align="left" colspan="2">
+    <td>
       <a href="{{ patent.url }}" style="color: #000;">
         <strong>{{ patent.name }}</strong>
       </a>
     </td>
   </tr>
     <tr>
-      <td align="left" width="75%">
+      <td>
+        <p><a href="{{ patent.url }}" target="_blank" title="USPTO Search">
+          <img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/uspto.png" width="75" align="right" /><br />
+          View on USPTO Site
+        </a></p>
         <p><i>{{ patent.owner }}</i></p>
         <p>{{ patent.abstract }}</p>
         <p align="center"><hr /></p>
-      </td>
-      <td width="75" align="center" valign="middle">
-          <a href="{{ patent.url }}" target="_blank" title="USPTO Search">
-            <img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/uspto.png" width="75" /><br />
-            View on USPTO Site
-          </a>
       </td>
     </tr>
   {% endfor %}
