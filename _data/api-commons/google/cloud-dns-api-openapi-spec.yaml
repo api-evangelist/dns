@@ -17,7 +17,7 @@ consumes:
 paths:
   /{project}:
     get:
-      summary: ""
+      summary: Get Projects
       description: Fetch the representation of an existing Project.
       operationId: dns.projects.get
       parameters:
@@ -30,7 +30,7 @@ paths:
       tags:
       - Projects
     parameters:
-      summary: ""
+      summary: Project Parameters
       description: ""
       operationId: ""
       responses:
@@ -40,7 +40,7 @@ paths:
       - Projects
   /{project}/managedZones:
     get:
-      summary: ""
+      summary: Get Managed Zones
       description: Enumerate ManagedZones that have been created but not yet deleted.
       operationId: dns.managedZones.list
       parameters:
@@ -64,7 +64,7 @@ paths:
       tags:
       - Zones
     parameters:
-      summary: ""
+      summary: Managed Zones Parameters
       description: ""
       operationId: ""
       responses:
@@ -73,7 +73,7 @@ paths:
       tags:
       - Zones
     post:
-      summary: ""
+      summary: Add Managed Zone
       description: Create a new ManagedZone.
       operationId: dns.managedZones.create
       parameters:
@@ -91,7 +91,7 @@ paths:
       - Zones
   /{project}/managedZones/{managedZone}:
     delete:
-      summary: ""
+      summary: Delete Managed Zone
       description: Delete a previously created ManagedZone.
       operationId: dns.managedZones.delete
       parameters:
@@ -108,7 +108,7 @@ paths:
       tags:
       - Zones
     get:
-      summary: ""
+      summary: Get Managed Zone
       description: Fetch the representation of an existing ManagedZone.
       operationId: dns.managedZones.get
       parameters:
@@ -125,7 +125,7 @@ paths:
       tags:
       - Zones
     parameters:
-      summary: ""
+      summary: Managed Zone Parameters
       description: ""
       operationId: ""
       responses:
@@ -135,7 +135,7 @@ paths:
       - Zones
   /{project}/managedZones/{managedZone}/changes:
     get:
-      summary: ""
+      summary: Get Managed Zone Changes
       description: Enumerate Changes to a ResourceRecordSet collection.
       operationId: dns.changes.list
       parameters:
@@ -166,7 +166,7 @@ paths:
       tags:
       - Zones
     parameters:
-      summary: ""
+      summary: Get Managed Zone Changes Parameters
       description: ""
       operationId: ""
       responses:
@@ -175,7 +175,7 @@ paths:
       tags:
       - Zones
     post:
-      summary: ""
+      summary: Add Managed Zone Changes
       description: Atomically update the ResourceRecordSet collection.
       operationId: dns.changes.create
       parameters:
@@ -197,7 +197,7 @@ paths:
       - Zones
   /{project}/managedZones/{managedZone}/changes/{changeId}:
     get:
-      summary: ""
+      summary: Get Managed Zone Change
       description: Fetch the representation of an existing Change.
       operationId: dns.changes.get
       parameters:
@@ -217,7 +217,7 @@ paths:
       tags:
       - Zones
     parameters:
-      summary: ""
+      summary: Get Managed Zone Changes Parameters
       description: ""
       operationId: ""
       responses:
@@ -227,7 +227,7 @@ paths:
       - Zones
   /{project}/managedZones/{managedZone}/rrsets:
     get:
-      summary: ""
+      summary: Get Managed Zone Resources
       description: Enumerate ResourceRecordSets that have been created but not yet
         deleted.
       operationId: dns.resourceRecordSets.list
@@ -261,7 +261,7 @@ paths:
       tags:
       - Zones
     parameters:
-      summary: ""
+      summary: Get Managed Zone Resources Parameters
       description: ""
       operationId: ""
       responses:
