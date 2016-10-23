@@ -1,6 +1,6 @@
 swagger: "2.0"
 info:
-  title: Google Cloud DNS
+  title: Cloud DNS
   description: Configures and serves authoritative DNS records.
   contact:
     name: Google
