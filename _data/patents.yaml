@@ -13,7 +13,7 @@
     made to the origin server directly.
   url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=07725602&OS=07725602&RS=07725602
   owner: Akamai Technologies, Inc.
-  company: apiOmat
+  company: Akamai
   publication_number: "07725602"
   publication_date: "2010-05-25"
   application_number: "11264616"
@@ -36,11 +36,34 @@
     made to the origin server directly.
   url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08117296&OS=08117296&RS=08117296
   owner: Akamai Technologies, Inc.
-  company: Appcelerator
+  company: Akamai
   publication_number: 08117296
   publication_date: "2012-02-14"
   application_number: "12786895"
   application_date: "2010-05-25"
   number: 08117296
+  tags:
+  - DNS
+- patent_id: 105Qf1163q116wuyUrsV1hd3mr1RzMlp116123aWBGWVH4d7HAc117
+  name: Domain name resolution using a distributed DNS network
+  summary: ""
+  abstract: A distributed DNS network includes a central origin server that actually
+    controls the zone, and edge DNS cache servers configured to cache the DNS content
+    of the origin server. The edge DNS cache servers are published as the authoritative
+    servers for customer domains instead of the origin server. When a request for
+    a DNS record results in a cache miss, the edge DNS cache servers get the information
+    from the origin server and cache it for use in response to future requests. Multiple
+    edge DNS cache servers can be deployed at multiple locations. Since an unlimited
+    number of edge DNS cache servers can be deployed, the system is highly scalable.
+    The disclosed techniques protect against DoS attacks, as DNS requests are not
+    made to the origin server directly.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08423672&OS=08423672&RS=08423672
+  owner: Akamai Technologies, Inc.
+  company: Akamai
+  publication_number: 08423672
+  publication_date: "2013-04-16"
+  application_number: "13346902"
+  application_date: "2012-01-10"
+  number: 08423672
   tags:
   - DNS
