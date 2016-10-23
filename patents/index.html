@@ -6,7 +6,9 @@ title: 'API DNS Patents'
 {% for patent in site.data.patents %}
   <h2>{{ patent.name }}</h2>
   <p><a href="{{ patent.url }}" target="_blank" title="View on USPTO Website"><img style="padding: 5px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/uspto.png" width="100" align="right" /></a></p>
-  <p><i>{{ patent.owner }}</i></p>
+  <p><strong>Owner:</strong> <i>{{ patent.owner }}</i></p>
+  <p><strong>Publication #:</strong> <i>{{ patent.publication_number }}</i></p>
+  <p><strong>Publication Date:</strong> <i>{{ patent.publication_date }}</i></p>
   <p>{{ patent.abstract }}</p>
   <p align="center"><hr /></p>
 {% endfor %}
