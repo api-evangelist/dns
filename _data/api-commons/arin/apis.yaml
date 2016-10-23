@@ -15,8 +15,8 @@ apis:
 - name: Autonomous System Numbers (ASNs) API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.arin.net
+  baseURL: https://www.arin.net
   tags:
   - DNS
   properties:
@@ -25,8 +25,8 @@ apis:
 - name: CIDR API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.arin.net
+  baseURL: https://www.arin.net
   tags:
   - DNS
   properties:
@@ -35,8 +35,8 @@ apis:
 - name: Customers API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.arin.net
+  baseURL: https://www.arin.net
   tags:
   - DNS
   properties:
@@ -45,8 +45,8 @@ apis:
 - name: Network API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.arin.net
+  baseURL: https://www.arin.net
   tags:
   - DNS
   properties:
@@ -55,8 +55,8 @@ apis:
 - name: Organization API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.arin.net
+  baseURL: https://www.arin.net
   tags:
   - DNS
   properties:
@@ -65,8 +65,8 @@ apis:
 - name: Point of Contact (POC) API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.arin.net
+  baseURL: https://www.arin.net
   tags:
   - DNS
   properties:
@@ -75,18 +75,22 @@ apis:
 - name: Reverse DNS API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.arin.net
+  baseURL: https://www.arin.net
   tags:
   - DNS
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin/reverse-dns-api-openapi-spec.yaml
 x-common:
+- type: x-website
+  url: https://www.arin.net
 - type: x-base-url-for-portal
   url: https://www.arin.net/resources/restful-interfaces.html
 - type: x-twitter
   url: https://twitter.com/TeamARIN
+- type: x-portal
+  url: https://www.arin.net
 include: []
 maintainers:
 - FN: Kin Lane
