@@ -7,16 +7,26 @@ description: Google Inc. is an American multinational corporation specializing i
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-logo.jpg
 tags:
 - DNS
-created: "2016-10-21"
-modified: "2016-10-21"
+created: "2016-10-22"
+modified: "2016-10-22"
 url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/google/apis.yaml
 specificationVersion: "0.14"
 apis:
+- name: Google Cloud DNS API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-logo.jpg
+  humanURL: https://www.google.com/
+  baseURL: https://www.google.com/
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/google/google-cloud-dns-api-openapi-spec.yaml
 - name: Google DNS Changes API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-logo.jpg
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.google.com/
+  baseURL: https://www.google.com/
   tags:
   - DNS
   properties:
@@ -25,8 +35,8 @@ apis:
 - name: Google DNS Managed Zones API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-logo.jpg
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.google.com/
+  baseURL: https://www.google.com/
   tags:
   - DNS
   properties:
@@ -35,8 +45,8 @@ apis:
 - name: Google DNS Projects API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-logo.jpg
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.google.com/
+  baseURL: https://www.google.com/
   tags:
   - DNS
   properties:
@@ -45,8 +55,8 @@ apis:
 - name: Google DNS Resource Recordsets API
   description: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-logo.jpg
-  humanURL: ""
-  baseURL: ""
+  humanURL: https://www.google.com/
+  baseURL: https://www.google.com/
   tags:
   - DNS
   properties:
@@ -71,9 +81,9 @@ x-common:
   url: http://googlecode.blogspot.com/feeds/posts/default?alt=rss
 - type: x-github
   url: https://github.com/google
-- type: x-webinars
+- type: x-website
   url: https://www.google.com/
-- type: x-portal
+- type: x-webinars
   url: https://www.google.com/
 include: []
 maintainers:
