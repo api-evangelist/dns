@@ -3,22 +3,10 @@ layout: page
 title: 'API DNS Patents'
 ---
 <p>{{ site.patents_desc }}</p>
-<table width="100%" border="0">
-  {% for patent in site.data.patents %}
-  <tr>
-    <td>
-      <a href="{{ patent.url }}" style="color: #000;">
-        <strong>{{ patent.name }}</strong>
-      </a>
-    </td>
-  </tr>
-    <tr>
-      <td>
-        <p><a href="{{ patent.url }}" target="_blank" title="View on USPTO Website"><img style="padding: 5px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/uspto.png" width="100" align="right" /></a></p>
-        <p><i>{{ patent.owner }}</i></p>
-        <p>{{ patent.abstract }}</p>
-        <p align="center"><hr /></p>
-      </td>
-    </tr>
-  {% endfor %}
-</table>
+{% for patent in site.data.patents %}
+  <h2>{{ patent.name }}</h2>
+  <p><a href="{{ patent.url }}" target="_blank" title="View on USPTO Website"><img style="padding: 5px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/uspto.png" width="100" align="right" /></a></p>
+  <p><i>{{ patent.owner }}</i></p>
+  <p>{{ patent.abstract }}</p>
+  <p align="center"><hr /></p>
+{% endfor %}
