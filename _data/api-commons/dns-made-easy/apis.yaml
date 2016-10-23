@@ -7,16 +7,16 @@ description: DNS Made Easy&rsquo;s API is available to perform core functions of
 image: ""
 tags:
 - DNS
-created: "2016-10-21"
-modified: "2016-10-21"
+created: "2016-10-22"
+modified: "2016-10-22"
 url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/dns-made-easy/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: DNS Made Easy Managed DNS API
   description: ""
   image: ""
-  humanURL: ""
-  baseURL: ""
+  humanURL: http://www.dnsmadeeasy.com
+  baseURL: http://www.dnsmadeeasy.com
   tags:
   - DNS
   properties:
@@ -27,7 +27,11 @@ x-common:
   url: http://www.dnsmadeeasy.com/feed/
 - type: x-twitter
   url: https://twitter.com/dnsmadeeasy
+- type: x-website
+  url: http://www.dnsmadeeasy.com
 - type: x-webinars
+  url: http://www.dnsmadeeasy.com
+- type: x-portal
   url: http://www.dnsmadeeasy.com
 include: []
 maintainers:
