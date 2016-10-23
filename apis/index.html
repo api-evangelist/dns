@@ -105,7 +105,6 @@ title: APIs In My DNS API Research
                 {% assign pathname = pathname | replace: '/','' %}
                 {% assign pathname = pathname | replace: '.yaml','' %}
                 name: {{ thisname }}
-                apisjson {{ this_apis_json }}
                 {% assign this_apis_json = site.data.api-commons | map: thisname %}
                 {% assign openapi_spec_yaml = this_apis_json | map: pathname %}
 
@@ -125,7 +124,7 @@ title: APIs In My DNS API Research
               <td colspan="2" align="left" style="margin-left: 25px; margin-right: 25px;">
 
                 <ul style="padding-left: 70px;">
-              
+
                   {% for spec in openapi_spec_yaml %}
 
                     {% for path in spec.paths %}
