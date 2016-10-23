@@ -95,12 +95,12 @@ title: APIs In My DNS API Research
 
                 {% assign openapi_spec_url = property.url %}
 
-                {% assign pathname = openapi_spec_url | replace: 'https://raw.githubusercontent.com/','' %}
+                {% assign raw_url = 'https://raw.githubusercontent.com/' | append: site.org | append: '/' | append: site.repo %}
+
+                {% assign pathname = openapi_spec_url | replace: raw_url,'' %}
                 {% assign pathname = pathname | replace: '_data/','' %}
                 {% assign pathname = pathname | replace: 'gh-pages/','' %}
                 {% assign pathname = pathname | replace: 'api-commons/','' %}
-                {% assign pathname = pathname | replace: site.org,'' %}
-                {% assign pathname = pathname | replace: site.repo,'' %}
                 {% assign pathname = pathname | replace: thisname,'' %}
                 {% assign pathname = pathname | replace: '/','' %}
                 {% assign pathname = pathname | replace: '.yaml','' %}
