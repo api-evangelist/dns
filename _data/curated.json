@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "aXHJd5IwOjPWZNvUiH123ZaMaTm123C9b5w8POcrkaCu7avRdvvWXX2J5asZINj0BEADGRZyHnZ8uiAkTKR0PwtlIw117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Introducing Internationalized Domain Name IDN Support",
+		"url": "https://letsencrypt.org//2016/10/21/introducing-idn-support.html",
+		"domain": "letsencrypt.org",
+		"image": ""
+	},
+	{
+		"curated_id": "ADe7XR0BUaXOVEw4cIu3ByVnDrD12313CVzh8TGu5e116Eh0zT07ex328HDhL74ira9YPNdP116EEdja096jIqpbPIUw117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "Recent IoTbased Attacks What Is the Impact On Managed DNS Operators",
+		"url": "http://dyn.com/blog/recent-iot-based-attacks-what-is-the-impact-on-managed-dns-operators/",
+		"domain": "dyn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "3NH4LJ116OGkfbOesldmB3ZwUdwSCuAR1xeX6fvrjAbyyi1ypTC123edVDn123WLyJjYVxvEDwUVqeCpjKHxlRaTtE116A117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "Engineers are testing a new namebased internet",
+		"url": "http://www.futurity.org/mobilityfirst-internet-1277112-2/",
+		"domain": "www.futurity.org",
+		"image": ""
+	},
+	{
+		"curated_id": "rUcVbAoyjHIkBNdxHme7MsUz4ZGa116OTS3SSHQ3oJUVz3R116iysYtCNj8123Mi436tDndRr6yb1G96RvFJ61x2zrlg117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "Discovering Dockers IP Address",
+		"url": "https://dzone.com/articles/discovering-dockers-ip-address",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "Vug3Eoxq12340knZIoCTRugrkV0HDZZ0tyg5JOZ5QId0r5Fvv7TzhpfaE5fnvNReVSKOhXB0LZyN1340uaQk123SUw117117",
 		"item_date": "2016-10-12 11:38:28",
 		"title": "Tweet What is the difference between A AAAA CNAME and ANAME records And how do you use themhttpstcodzjfTUxwwShellip httpstco3NEuejP94i",
