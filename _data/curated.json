@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "116E9Pa2qwunBfq5gyjY4DwjI0wv1238K0n8mJtj6y5SidJ9OwXhY2vY4kcVF7Vz7gQemy1Or0IFKViFFlRwEkZLQg117117",
+		"item_date": "2016-11-03 00:00:00",
+		"title": "Advanced Secondary DNS For The Technically Inclined",
+		"url": "http://dyn.com/blog/advanced-secondary-dns-for-the-technically-inclined/",
+		"domain": "dyn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "moymf116n9NCDPH116ZdKySqIh5f9pLVtUVcV116QVcpMjP8Xfa8ciOKiLC1eY9inUqC2uTOja9123Ydex9RL6rsYp9clA117117",
+		"item_date": "2016-11-03 00:00:00",
+		"title": "Visualizing the Evolution",
+		"url": "https://blog.opendns.com/2016/11/03/visualizing-the-evolution/",
+		"domain": "blog.opendns.com",
+		"image": ""
+	},
+	{
 		"curated_id": "aXHJd5IwOjPWZNvUiH123ZaMaTm123C9b5w8POcrkaCu7avRdvvWXX2J5asZINj0BEADGRZyHnZ8uiAkTKR0PwtlIw117117",
 		"item_date": "2016-10-21 00:00:00",
 		"title": "Introducing Internationalized Domain Name IDN Support",
