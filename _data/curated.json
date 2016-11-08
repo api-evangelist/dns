@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "UMRQCJ4wjjx0A7adD3aMEkVNye116q7dg7IO3116MtkwPqBjpWNUZt7J0SdISrthtElID5WEWC09OYypg5Xit1160N0Q117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Sundown Exploit Kit Operating 80000 Malicious Subdomains",
+		"url": "https://continuum.cisco.com/2016/10/31/sundown-exploit-kit-operating-80000-malicious-subdomains/",
+		"domain": "continuum.cisco.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kwtqJ3a9YiKQJW123c0vt6sWD123TlmpLe6Cx1E0HyFzobbbLnqMofQoE7lf97aRd3Bki1Gzy6PxDbJ123fEL1ZmxGnQ117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "ThreatConnect Shares Incident Information on Typosquatting Domains",
+		"url": "https://www.threatconnect.com/blog/chinese-typosquatting-domains-identified/",
+		"domain": "www.threatconnect.com",
+		"image": ""
+	},
+	{
 		"curated_id": "116E9Pa2qwunBfq5gyjY4DwjI0wv1238K0n8mJtj6y5SidJ9OwXhY2vY4kcVF7Vz7gQemy1Or0IFKViFFlRwEkZLQg117117",
 		"item_date": "2016-11-03 00:00:00",
 		"title": "Advanced Secondary DNS For The Technically Inclined",
