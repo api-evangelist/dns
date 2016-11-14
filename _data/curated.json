@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "SVKfCTmntchUJwUcpKRphSnLOnBGQ0XYqQN7oR8EIIaugPQ1Go2JRtYIlO9wHi116WGJqhEsapuUAMKvyPAsiUtw117117",
+		"item_date": "2016-11-07 00:00:00",
+		"title": "CoreDNS for Kubernetes Service Discovery",
+		"url": "https://community.infoblox.com/t5/Community-Blog/CoreDNS-for-Kubernetes-Service-Discovery/ba-p/8187",
+		"domain": "community.infoblox.com",
+		"image": ""
+	},
+	{
+		"curated_id": "gD9123jxWEfDci5orxYz144CciwsHcZgaxL4qrnJT24rQW2Eo5Y0h123ahcJttpg1oMYGnoX123HNsIagwG8UyPq79kA117117",
+		"item_date": "2016-11-09 00:00:00",
+		"title": "Introducing DomainTools PhishEye",
+		"url": "https://blog.domaintools.com/2016/11/introducing-domaintools-phisheye/",
+		"domain": "blog.domaintools.com",
+		"image": ""
+	},
+	{
 		"curated_id": "UMRQCJ4wjjx0A7adD3aMEkVNye116q7dg7IO3116MtkwPqBjpWNUZt7J0SdISrthtElID5WEWC09OYypg5Xit1160N0Q117117",
 		"item_date": "2016-10-31 00:00:00",
 		"title": "Sundown Exploit Kit Operating 80000 Malicious Subdomains",
