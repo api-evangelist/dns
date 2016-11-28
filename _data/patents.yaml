@@ -126,6 +126,26 @@
   number: "07334076"
   tags:
   - DNS
+- patent_id: 4M2h5t4MghSjjiPpRU7dH056E123FYQp7pISH7123VJGg8Y117
+  name: System and method for providing a relational application domain model
+  summary: ""
+  abstract: This disclosure provides a system and method for providing a relational
+    application domain model. In one embodiment, the system is operable to or includes
+    software that is operable to receive a structured query language (SQL) query for
+    one or more services by at least a first of a plurality of resources. The software
+    may be further operable to convert the SQL query into an object-oriented request
+    compatible with at least the first resource and execute the object-oriented request
+    at at least the first resource.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=07542990&OS=07542990&RS=07542990
+  owner: Computer Associates Think, Inc.
+  company: CA Technologies
+  publication_number: 07542990
+  publication_date: "2009-06-02"
+  application_number: "10974510"
+  application_date: "2004-10-26"
+  number: 07542990
+  tags:
+  - DNS
 - patent_id: pWFL7dheOtdxyaVy0H5L3dMvHUByOXZ11660G7l2j9PPk117
   name: Domain name resolution using a distributed DNS network
   summary: ""
@@ -791,32 +811,6 @@
   number: 08751691
   tags:
   - DNS
-- patent_id: HSIx51tvtP1ndqhHnJ4vQExFsF698EG07jpZKh0Vcoc117
-  name: Recording internet visitor threat information through an internet-based proxy
-    service
-  summary: ""
-  abstract: An Internet-based proxy service server accesses a set of visitor characteristics
-    for multiple visitors to a set of one or more domains operated by a customer.
-    The set of visitor characteristics are reported from a set of one or more proxy
-    servers that are situated between client devices and a set of one or more origin
-    servers for the set of domains. The service server causes the set of visitor characteristics
-    to be displayed through a threat reporting interface that allows the customer
-    to report visitors as posing an Internet security threat. The service server receives
-    input from the customer through the threat reporting interface that at least one
-    of the visitors poses an Internet security threat, and records that visitor as
-    an Internet security threat in one or more threat databases that are used by the
-    proxy servers when determining whether to allow visitors to access network resources
-    hosted at a set of one or more origin servers.
-  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08751633&OS=08751633&RS=08751633
-  owner: Cloudflare, Inc.
-  company: CloudFlare
-  publication_number: 08751633
-  publication_date: "2014-06-10"
-  application_number: "12939935"
-  application_date: "2010-11-04"
-  number: 08751633
-  tags:
-  - DNS
 - patent_id: 10MSBHdLDWmSVU2ew3fyj6ebh6PPPPv2j9Ez0Qyc82A117
   name: Validating updates to domain name system records
   summary: ""
@@ -854,6 +848,32 @@
   application_number: "12978116"
   application_date: "2010-12-23"
   number: 08689099
+  tags:
+  - DNS
+- patent_id: HSIx51tvtP1ndqhHnJ4vQExFsF698EG07jpZKh0Vcoc117
+  name: Recording internet visitor threat information through an internet-based proxy
+    service
+  summary: ""
+  abstract: An Internet-based proxy service server accesses a set of visitor characteristics
+    for multiple visitors to a set of one or more domains operated by a customer.
+    The set of visitor characteristics are reported from a set of one or more proxy
+    servers that are situated between client devices and a set of one or more origin
+    servers for the set of domains. The service server causes the set of visitor characteristics
+    to be displayed through a threat reporting interface that allows the customer
+    to report visitors as posing an Internet security threat. The service server receives
+    input from the customer through the threat reporting interface that at least one
+    of the visitors poses an Internet security threat, and records that visitor as
+    an Internet security threat in one or more threat databases that are used by the
+    proxy servers when determining whether to allow visitors to access network resources
+    hosted at a set of one or more origin servers.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08751633&OS=08751633&RS=08751633
+  owner: Cloudflare, Inc.
+  company: CloudFlare
+  publication_number: 08751633
+  publication_date: "2014-06-10"
+  application_number: "12939935"
+  application_date: "2010-11-04"
+  number: 08751633
   tags:
   - DNS
 - patent_id: Iej5z123uePPNCxS49lelepim7U6G22G6RaLfOTVo67Po117
@@ -932,6 +952,32 @@
   number: 09036504
   tags:
   - DNS
+- patent_id: Qi96Ahs95r1166tMec4ZFlNyKgKk48hsr7n116Iwpx8PwN0117
+  name: Cross site request forgery mitigation in multi-domain integrations
+  summary: ""
+  abstract: Systems and methods for authenticating a request submitted from a client
+    device through a third party content provider to an electronic entity are described.
+    In one embodiment, a method includes providing a trusted script to the third party
+    content provider, passing a trust token to the third party content provider and
+    to the client device, and, in response to a request submitted from the client
+    device through the third party content provider, validating the trust token associated
+    with the request with the token passed to the client device, and processing the
+    request. The trusted script is configured to create a trusted window on the third
+    party Web page displayed on the client computing device, receive a trust token
+    from the electronic entity through the trusted window, and associate the trust
+    token with requests submitted from the client computing device through the third
+    party content provider to the electronic entity.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=09015820&OS=09015820&RS=09015820
+  owner: Amazon Technologies, Inc.
+  company: Amazon Web Services
+  publication_number: 09015820
+  publication_date: "2015-04-21"
+  application_number: "13931613"
+  application_date: "2013-06-28"
+  number: 09015820
+  tags:
+  - Security
+  - DNS
 - patent_id: 2hlurd63Ovp0YLWxE3qK11691dRDM9uYS40aNo6sHXthw117
   name: Registering for internet-based proxy services
   summary: ""
@@ -976,32 +1022,6 @@
   application_date: "2010-11-04"
   number: 09009330
   tags:
-  - DNS
-- patent_id: Qi96Ahs95r1166tMec4ZFlNyKgKk48hsr7n116Iwpx8PwN0117
-  name: Cross site request forgery mitigation in multi-domain integrations
-  summary: ""
-  abstract: Systems and methods for authenticating a request submitted from a client
-    device through a third party content provider to an electronic entity are described.
-    In one embodiment, a method includes providing a trusted script to the third party
-    content provider, passing a trust token to the third party content provider and
-    to the client device, and, in response to a request submitted from the client
-    device through the third party content provider, validating the trust token associated
-    with the request with the token passed to the client device, and processing the
-    request. The trusted script is configured to create a trusted window on the third
-    party Web page displayed on the client computing device, receive a trust token
-    from the electronic entity through the trusted window, and associate the trust
-    token with requests submitted from the client computing device through the third
-    party content provider to the electronic entity.
-  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=09015820&OS=09015820&RS=09015820
-  owner: Amazon Technologies, Inc.
-  company: Amazon Web Services
-  publication_number: 09015820
-  publication_date: "2015-04-21"
-  application_number: "13931613"
-  application_date: "2013-06-28"
-  number: 09015820
-  tags:
-  - Security
   - DNS
 - patent_id: Uf8VnMh58Wb123a0RmLj92J5A9Y123EKvM2M15dlSpAdjkU117
   name: Cross-domain communications with a shared worker application
@@ -1096,51 +1116,5 @@
   application_number: "12041608"
   application_date: "2008-03-03"
   number: 08966121
-  tags:
-  - DNS
-- patent_id: moeymcDfq39sdXUF8wtMq9UxxUYWfXHKMI29XN9F34A117
-  name: Internet-based proxy service to modify internet responses
-  summary: ""
-  abstract: A proxy server receives from a client device a request for a network resource
-    that is hosted at an origin server for a domain. The request is received at the
-    proxy server as a result of a DNS request for the domain resolving to the proxy
-    server. The origin server is one of multiple origin servers that belong to different
-    domains that resolve to the proxy server and are owned by different entities.
-    The proxy server retrieves the requested network resource. The proxy server determines
-    that the requested resource is an HTML page, automatically modifies the HTML page,
-    and transmits the modified HTML page to the client device.
-  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=09369437&OS=09369437&RS=09369437
-  owner: CLOUDFLARE, INC.
-  company: CloudFlare
-  publication_number: 09369437
-  publication_date: "2016-06-14"
-  application_number: "12939923"
-  application_date: "2010-11-04"
-  number: 09369437
-  tags:
-  - DNS
-- patent_id: tQ81U1P0vuuMDloyYJzB550fzYpKCAKlJfqitWEnTGs117
-  name: Managing distribution of sensitive information
-  summary: ""
-  abstract: Managing distribution of sensitive data is disclosed. In one example,
-    a request is sent to a control platform to add a virtual domain. A domain key
-    associated with the virtual domain is received. A request that the credential
-    be transmitted to the virtual domain is sent, along with the application credential
-    which has been encrypted using the domain key. In another example, a request that
-    one or more application credentials be pushed to a virtual domain is received
-    from a configuration console. The virtual domain is notified that at least one
-    action request associated with the virtual domain is available. A signed request
-    is received from the virtual domain for the action request. The application credentials
-    are transmitted to the virtual domain. In a third example, an application credential
-    of a virtual domain is requested. A signed message including an encrypted application
-    credential is received from the control platform.
-  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=09305182&OS=09305182&RS=09305182
-  owner: CLOUDFLARE, INC.
-  company: CloudFlare
-  publication_number: 09305182
-  publication_date: "2016-04-05"
-  application_number: "13215060"
-  application_date: "2011-08-22"
-  number: 09305182
   tags:
   - DNS
