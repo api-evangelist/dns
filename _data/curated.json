@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "HngPDZ7sw9v5s116M224nVgeiDQ0Cx42116Z4qhoO1VPMoRtU4P20rRpJRDbRkIvVMBW3ypqK12331eGZtjOCqfHo5HA117117",
+		"item_date": "2016-12-16 00:00:00",
+		"title": "Why Now Is the Time to Implement Redundant DNS",
+		"url": "https://dzone.com/articles/why-now-is-the-time-to-implement-redundant-dns",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "SVKfCTmntchUJwUcpKRphSnLOnBGQ0XYqQN7oR8EIIaugPQ1Go2JRtYIlO9wHi116WGJqhEsapuUAMKvyPAsiUtw117117",
 		"item_date": "2016-11-07 00:00:00",
 		"title": "CoreDNS for Kubernetes Service Discovery",
