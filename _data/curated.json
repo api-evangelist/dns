@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "M49qgNqfmKROJTX6honBsivmiQeboof67wLudd12311QyG116ZvjEg5Ud116bHN116R3d5qw60q8mM0n116Ky123OgAZqmyL3g117117",
+		"item_date": "2016-12-16 00:00:00",
+		"title": "WhoisJson",
+		"url": "http://www.programmableweb.com/api/whoisjson",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
 		"curated_id": "UzJ123yQW1234OkNA9k7t123qWc4NnnpVS7Q7Z1237QvFhuQkHzCvjo116gBqrOzEpfxnBeLuZhKX4KJNk2tYTrSe5ahWR116w117117",
 		"item_date": "2016-12-19 00:00:00",
 		"title": "In the Eye of Hailstorm",
@@ -16,11 +24,51 @@
 		"image": ""
 	},
 	{
+		"curated_id": "2LuDUd5m0e07qxKAqa0rZK1pvu7mHhU2aNXrGtGnf33rWoNibP4qjrFruwSNAq5voSnnhCQWPZBLVgny9pEMaQ117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Facebook helps companies detect rogue SSL certificates for domains",
+		"url": "http://www.pcworld.com/article/3149740/security/facebook-helps-companies-detect-rogue-ssl-certificates-for-domains.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "2otCfWKpABCBwTw8ZRJQczef123psip6UAFqqZYe2wjzsV0yFFbZ2azVjUZVRWMPczy11623VQqOc6Di123s0PLqHENA117117",
+		"item_date": "2016-12-14 00:00:00",
+		"title": "Getting Technical With Secondary And MultiDNS",
+		"url": "http://dyn.com/blog/getting-technical-with-secondary-and-multi-dns/",
+		"domain": "dyn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CXHnh5ihTI1jwfGJ123PE3JSYDFsPmWwTkgvDrSbt4xVtSzSuNaek9FTu2dA0L8SMAyAD4kAr2j4tBTSbeQslkew117117",
+		"item_date": "2016-12-14 00:00:00",
+		"title": "Amazon Web Services Is Getting into the IPv6 Holiday Spirit",
+		"url": "https://community.infoblox.com/t5/IPv6-Center-of-Excellence/Amazon-Web-Services-Is-Getting-into-the-IPv6-Holiday-Spirit/ba-p/8565",
+		"domain": "community.infoblox.com",
+		"image": ""
+	},
+	{
 		"curated_id": "HngPDZ7sw9v5s116M224nVgeiDQ0Cx42116Z4qhoO1VPMoRtU4P20rRpJRDbRkIvVMBW3ypqK12331eGZtjOCqfHo5HA117117",
 		"item_date": "2016-12-16 00:00:00",
 		"title": "Why Now Is the Time to Implement Redundant DNS",
 		"url": "https://dzone.com/articles/why-now-is-the-time-to-implement-redundant-dns",
 		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "IzyUy8IR1230hg3MPKHfdNtLGRP1161oxjiakmQi9Y6gSECWL5ivR9TWzplv4gdVd4qnVP1168C1NLy7SSKMu2I2d6iA117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Cloudflare Acquires Eager to Reimagine Apps",
+		"url": "https://blog.cloudflare.com/cloudflare-acquires-eager/",
+		"domain": "blog.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "cF1EBN1NyfglhSzjNG32zcPw123ZdI116JD2i41vSWmxU32wNR5QDBLdVa3IgROWIIeIRMd3U6ZBH3N3vy8yQM5nGQ117117",
+		"item_date": "2016-12-14 00:00:00",
+		"title": "Manage Cloudflare records with Salt",
+		"url": "https://blog.cloudflare.com/manage-cloudflare-records-with-salt/",
+		"domain": "blog.cloudflare.com",
 		"image": ""
 	},
 	{
