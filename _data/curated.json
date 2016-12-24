@@ -72,6 +72,14 @@
 		"image": ""
 	},
 	{
+		"curated_id": "doTp7Ef75wFBlTKRkdNukTcDMeDkWBkaa1169gByr123QXhzGFdSUCEb123TRD4T5MncNgAFHCVyapQauLh4NDFi19SA117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "The Query Volumes of Mirai DGAs",
+		"url": "https://blog.opendns.com/2016/12/13/query-volumes-mirai-dgas/",
+		"domain": "blog.opendns.com",
+		"image": ""
+	},
+	{
 		"curated_id": "SVKfCTmntchUJwUcpKRphSnLOnBGQ0XYqQN7oR8EIIaugPQ1Go2JRtYIlO9wHi116WGJqhEsapuUAMKvyPAsiUtw117117",
 		"item_date": "2016-11-07 00:00:00",
 		"title": "CoreDNS for Kubernetes Service Discovery",
