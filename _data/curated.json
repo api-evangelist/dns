@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "sIaIhDz74kIiyc116fqXHZ2C116JbqSEhaVOcVFMjFMcX058FwGzOfuertNPhHtol72123116L6nET3k9RRSJ1JcKWc5Tg117117",
+		"item_date": "2017-04-14 00:00:00",
+		"title": "Understanding Our Cache and the Web Cache Deception Attack",
+		"url": "https://blog.cloudflare.com/understanding-our-cache-and-the-web-cache-deception-attack/",
+		"domain": "blog.cloudflare.com",
+		"image": ""
+	},
+	{
 		"curated_id": "XWZItw4bzOJn0MTKHsy6GfLN60E8123DELoynsH8D6fC31hBy1239jiOvqNOxl116PsUlkppfJGZ8hqU4TrT2RsUjUCw117117",
 		"item_date": "2017-04-14 00:00:00",
 		"title": "Ecommerce websites on Cloudflare best practices",
