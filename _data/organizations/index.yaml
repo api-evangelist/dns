@@ -1,601 +1,364 @@
-- slug: api-fortress
-  name: API Fortress
+- slug: amazon-web-services
+  name: Amazon Web Services
   description: >-
-    Test. Monitor. Automate: API Fortress is an enterprise cloud solution to
-    test, monitor, and automate the testing of APIs and web services. Create a
-    response validation test using our simple wizard, schedule the test to run
-    multiple times a day, and monitor the updates sent to your inbox.
-  url: 'http://apifortress.com'
+    Amazon Web Services(AWS) is a collection of remote computing services (also
+    called web services) that together make up a cloud computing platform,
+    offered over the Internet by Amazon.com. The most central and well-known of
+    these services are Amazon EC2 and Amazon S3. The service is advertised as
+    providing a large computing capacity (potentially many servers) much faster
+    and cheaper than building a physical server farm.
+  url: 'http://aws.amazon.com'
   short_url: ''
-  twitter: 'https://twitter.com/apifortress'
-  blog: 'http://apifortress.com/blog/'
-  blog_rss: ''
-  github: ''
+  twitter: 'https://twitter.com/awscloud'
+  blog: 'http://aws.amazon.com/blogs/aws/'
+  blog_rss: 'http://feeds.feedburner.com/AmazonWebServicesBlog'
+  github: 'https://github.com/amazonwebservices'
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-fortress.png
-  tags: 'Testing,Monitoring'
-- slug: apibond.com
-  name: apibond.com
-  description: >-
-    APIBond is an API management platform that acts as a proxy where you can
-    validate, transform, secure, analyze and scale any existing API.
-  url: 'http://apibond.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/apibond'
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apibond-logo.png
-  tags: 'Monitoring,Aggregation,Testing'
-- slug: apica
-  name: Apica
-  description: >-
-    Apica provides the most effective technology for optimizing the performance
-    of cloud and mobile applications. Apica offers companies and developers
-    alike easy-to-use, cloud-based load testing and web performance monitoring
-    tools to test applications for maximum capacity, daily performance, improved
-    load times, and protection from peak loads. For more information about how
-    Apica is providing the highest standard for cloud and mobile application
-    performance management.
-  url: 'https://www.apicasystem.com'
-  short_url: ''
-  twitter: 'https://twitter.com/apicasystems'
-  blog: 'https://www.apicasystem.com/blog/'
-  blog_rss: 'https://www.apicasystem.com/feed/'
-  github: 'https://github.com/ApicaSystem'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apica-logo.png
-  tags: 'Monitoring,Testing,Performance'
-- slug: apigee-api-studio
-  name: Apigee API Studio
-  description: >-
-    Apigee launched their API Studio out of their earlier Apigee-127 product,
-    their work on the Swagger platform and editor, and their BaaS offering. The
-    new studio opens up the ability for developers to design, mock, test and
-    share via their online open source based platform.
-  url: 'http://apistudio.io/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-studio-logo.png
-  tags: 'Design,Testing,Virtualization,Clients,Studio'
-- slug: apitest.io
-  name: APITest.IO
-  description: >-
-    apiTest.io is the new testing tool to test all your API requests, easy to
-    use with request and results saving. With our preconfigured API calls it is
-    easy to test some popular websites or your own HTTP(s), REST, SOAP, OAUTH
-    server.
-  url: 'https://www.apitest.io/'
-  short_url: ''
-  twitter: 'https://twitter.com/apitest_io'
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-test-io-logo.png
-  tags: Testing
-- slug: apitools
-  name: APItools
-  description: >-
-    Building Apps that depend on APIs speeds up development and helps make
-    software all-round more awesome. However, tracking and managing traffic
-    flows to these APIs, reacting if they slow down or fail, dealing with
-    version changes and the like can add massive overhead to development and
-    operations.
-  url: 'https://www.apitools.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/apitools'
-  blog: 'http://docs.apitools.com/blog/'
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apitools-logo.png
-  tags: 'Testing,API Proxy'
-- slug: assertible
-  name: Assertible
-  description: >-
-    Gain confidence in crucial infrastructure by using Assertible's automated QA
-    tools to test and monitor your web services across deployments and
-    environments. Reduce bugs in web applications by using Assertible to create
-    an automated QA pipeline that helps you catch failures and ship code faster.
-  url: 'https://assertible.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/AssertibleApp'
-  blog: 'https://assertible.com/blog'
-  blog_rss: ''
-  github: 'https://github.com/assertible'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-    Shot 2017-04-27 at 1.26.20 PM.png
-  tags: Testing
-- slug: aws-xray
-  name: AWS X-Ray
-  description: >-
-    AWS X-Ray helps developers analyze and debug production, distributed
-    applications, such as those built using a microservices architecture. With
-    X-Ray, you can understand how your application and its underlying services
-    are performing to identify and troubleshoot the root cause of performance
-    issues and errors. X-Ray provides an end-to-end view of requests as they
-    travel through your application, and shows a map of your applications
-    underlying components. You can use X-Ray to analyze both applications in
-    development and in production, from simple three-tier applications to
-    complex microservices applications consisting of thousands of services.
-  url: 'https://aws.amazon.com/xray/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-xray.png
-  tags: 'Amazon Web Services,Monitoring,Testing,Orchestration'
-- slug: azure-application-insights
-  name: Azure Application Insights
-  description: >-
-    Get rich performance monitoring, powerful alerting, and easy-to-consume
-    dashboards to help ensure your applications are available and performing as
-    you expect. Quickly see if you have a problem, how many customers are
-    affected, and perform a root cause analysis to find and fix the issue.
-  url: 'https://azure.microsoft.com/en-us/services/application-insights/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/performance-management.png
-  tags: 'Microsoft,Monitoring,Testing,Diagnostics'
-- slug: azure-devtest-labs
-  name: Azure DevTest Labs
-  description: >-
-    Azure DevTest Labs makes it easy to quickly create environments to deploy
-    and test applications. Use reusable templates and artifacts to build Windows
-    and Linux environments while minimalizing waste and controlling costs.
-  url: 'https://azure.microsoft.com/en-us/services/devtest-lab/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-devtest-integrate.png
-  tags: 'Testing,Microsoft,Orchestration'
-- slug: bad-testing
-  name: BAD TESTING
-  description: "BAD TESTING offers software testing consulting services and helps you manage risks associated with technology changes. We offer\_an advanced and versatile skill set in software quality assurance, testing, and configuration to ensure effectively and on time product releases. We are experts at testing and evaluating both hardware and software products to identify and resolve all potential issues for both start ups or established environments."
-  url: 'http://www.badtesting.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/BadTesting'
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bad-testing-logo.png
-  tags: 'Testing,Chicago,Blog'
-- slug: blazemeter
-  name: BlazeMeter
-  description: >-
-    BlazeMeter is a self-service, load testing platform (PaaS) for developers
-    providing an enterprise grade, out-of-the-box load testing solution. Start
-    testing in under five minutes. BlazeMeter significantly simplifies the load
-    testing process by providing developers easy integration into their native
-    development environment.
-  url: 'http://blazemeter.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/BlazeMeter'
-  blog: 'http://blazemeter.com/blog'
-  blog_rss: 'http://feedburner.google.com/fb/a/mailverify?uri=JmeterCloudBlog'
-  github: 'https://github.com/Blazemeter'
-  image: ''
-  tags: 'Testing,Testing,Performance'
-- slug: bugbuster
-  name: BugBuster
-  description: >-
-    BugBuster provides a full suite of functional testing tools. We make it easy
-    to build functional tests and automate the repetitive manual testing of your
-    site.
-  url: 'http://bugbuster.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/BugBuster_Inc'
-  blog: 'http://blog.bugbuster.com/'
-  blog_rss: 'http://blog.bugbuster.com/feed/'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2039_logo.png
-  tags: 'Bug,Detection,Code,Testing'
-- slug: catch-software
-  name: Catch Software
-  description: >-
-    Catch Software makes test management software, execution and integration
-    tools that help QA professionals get more out of their testing effort. Our
-    flagship product, Enterprise Tester, is test management software which was
-    released in early 2009 and is built by QA professionals for QA
-    professionals, Enterprise Tester provides testers with easy management of
-    test plans, execution sets, requirements, and incidents.
-  url: 'http://catchsoftware.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/catchsoftware'
-  blog: 'http://catchsoftware.com/blogs/'
-  blog_rss: 'http://catchsoftware.com/blogs/feed/'
-  github: 'https://github.com/catch-software'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/catch_logo.gif
-  tags: Testing
-- slug: crossbrowsertesting
-  name: CrossBrowserTesting
-  description: >-
-    Test your website in dozens of browsers and real devices with instant
-    results. Over one thousand combinations of browsers, OSs, and devices. With
-    CrossBrowserTesting.com, you can test your sites on more than 1500 browsers
-    across more than 65 operating systems, including iOS, Android, Windows, Mac
-    and more.
-  url: 'http://crossbrowsertesting.com'
-  short_url: ''
-  twitter: 'https://twitter.com/xbrowsertesting'
-  blog: 'http://crossbrowsertesting.com/blog'
-  blog_rss: 'http://crossbrowsertesting.com/blog/feed'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cbt-logo.png
-  tags: 'Performance,Projects,Testing,Browser Testing'
-- slug: crosscheck-networks
-  name: Crosscheck Networks
-  description: >-
-    Crosscheck Networks is the global leader in API Testing, Simulation, and
-    Gateway technologies with product deployments in over 50,000 customer
-    networks worldwide. Comprehensive API testing includes functional
-    automation, performance, compliance and security testing with patented
-    dynamic mutation technology.
-  url: 'http://www.crosschecknet.com/'
-  short_url: ''
-  twitter: ''
-  blog: 'http://soa-testing.blogspot.com/'
-  blog_rss: 'http://feeds.feedburner.com/soatesting?format=xml'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cross-check-networks.png
-  tags: 'Testing,Security,Virtualization,API Gateways'
-- slug: cucumber
-  name: Cucumber
-  description: >-
-    Cucumber lets software development teams describe how software should behave
-    in plain text. The text is written in a business-readable domain-specific
-    language and serves as documentation, automated tests and development-aid -
-    all rolled into one format.
-  url: 'https://cucumber.io/'
-  short_url: ''
-  twitter: ''
-  blog: 'https://cucumber.io/blog'
-  blog_rss: 'https://cucumber.io/feed.xml'
-  github: 'https://github.com/cucumber'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Cucumber.png
-  tags: Testing
-- slug: firebase
-  name: Firebase
-  description: >-
-    Firebase is a mobile platform that helps you
-    quickly&nbsp;develop&nbsp;high-quality apps,&nbsp;grow&nbsp;your user base,
-    and&nbsp;earn&nbsp;more money. Firebase is made up of complementary features
-    that you can mix-and-match to fit your needs.
-  url: 'https://firebase.google.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/firebase'
-  blog: 'https://firebase.googleblog.com/'
-  blog_rss: 'http://firebase.googleblog.com/feeds/posts/default?alt=rss'
-  github: 'https://github.com/firebase'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/firebase-logo.png
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/amazon-aws-logo.jpg
   tags: >-
-    Real Time,API LIfeycle,Database,Command Line Interface,Links,Google
-    APIs,Security,Testing,Virtualization
-- slug: flood-io
-  name: Flood IO
+    Storage,DNS,BaaS,Payments,Hypermedia,Cloud,Compute,My API
+    Stack,Management,Voice,Partners,Plans,API LIfeycle,Real
+    Time,Serverless,Advertising,Commerce,Database,Command Line Interface,DNS
+    Cloud,Getting Started,Orchestration
+- slug: microsoft-azure
+  name: Microsoft Azure
   description: >-
-    Flood enables you to generate load from any AWS region, using your own
-    account or ours to achieve the most realistic traffic scenarios. We collate
-    all the results for you, so you can spend more time testing. We sort out the
-    infrastructure, so you can spend more time testing. We've built a massive
-    distributed shared nothing infrastructure which lets you scale out on
-    demand. You'll enjoy much better economies of scale on Flood than you can on
-    our competitors.
-  url: 'https://flood.io/'
+    Microsoft Azure is a cloud computing platform and infrastructure created by
+    Microsoft for building, deploying, and managing applications and services
+    through a global network of Microsoft-managed datacenters. It provides both
+    PaaS and IaaS services and supports many different programming languages,
+    tools and frameworks, including both Microsoft-specific and third-party
+    software and systems
+  url: 'https://azure.microsoft.com/en-us/'
   short_url: ''
-  twitter: 'https://twitter.com/flood_io'
-  blog: 'https://blog.flood.io/'
-  blog_rss: 'https://blog.flood.io/rss/'
-  github: 'https://github.com/flood-io'
+  twitter: 'https://twitter.com/azure'
+  blog: 'http://azure.microsoft.com/blog/'
+  blog_rss: 'http://azure.microsoft.com/blog/feed/'
+  github: 'https://github.com/Azure'
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flood-io.png
-  tags: 'Testing,Performance'
-- slug: frisby.js
-  name: Frisby.js
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-azure-logo.png
+  tags: >-
+    Management,API Management
+    Other,Deployment,Compute,Database,Serverless,Portal,Command Line
+    Interface,DNS,DNS Cloud,Reliability,Service Level Agreement,Cloud,Bigcos
+- slug: google-url-shortener
+  name: Google URL Shortener
   description: >-
-    Frisby is a REST API testing framework built on node.js and Jasmine that
-    makes testing API endpoints easy, fast, and fun. Read below for a quick
-    overview, or check out the API documentation.
-  url: 'http://frisbyjs.com/'
+    The Google URL Shortener at goo.gl is a service that takes long URLs and
+    squeezes them into fewer characters to make a link that is easier to share,
+    tweet, or email to friends. Users can create these short links through the
+    web interface at goo.gl, or they can programatically create them through the
+    URL Shortener API. With the URL Shortener API you can write applications
+    that use simple HTTP methods to create, inspect, and manage goo.gl short
+    links from desktop, mobile, or web.
+  url: 'https://goo.gl/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/frisby-js.png
-  tags: Testing
-- slug: google-stackdriver
-  name: Google Stackdriver
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-shortener.png
+  tags: 'Links,URL Shortener,DNS,Google APIs'
+- slug: google-site-verification
+  name: Google Site Verification
   description: >-
-    Google Stackdriver provides powerful monitoring, logging, and diagnostics.
-    It equips you with insight into the health, performance, and availability of
-    cloud-powered applications, enabling you to find and fix issues faster. It
-    is natively integrated with Google Cloud Platform, Amazon Web Services, and
-    popular open source packages. Stackdriver provides a wide variety of
-    metrics, dashboards, alerting, log management, reporting, and tracing
-    capabilities.
-  url: 'https://cloud.google.com/stackdriver/'
+    The Google Site Verification API lets you develop applications or services
+    that automate the process of verifying that the authenticated user owns a
+    domain or website. This is important, since some Google services can only be
+    used by site owners.
+  url: 'https://developers.google.com/site-verification/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-stackdriver-debugger.png
-  tags: 'Monitoring,Testing,Debugging,Google APIs,Logging'
-- slug: gtmetrix
-  name: GTmetrix
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-site-verification-500x362.png
+  tags: 'Google APIs,Links,DNS,Security'
+- slug: dnsimple
+  name: DNSimple
   description: >-
-    GTmetrix can help you develop a faster, more efficient, and all-around
-    improved website experience for your users.  Studies show that users leave a
-    site if it hasn&#8217;t loaded in 4 seconds; keep your users happy and
-    engaged by providing a fast performing website!  GTmetrix uses Google Page
-    Speed and Yahoo! YSlow to grade your site&#8217;s performance and provides
-    actionable recommendations to fix these issues.  GTmetrix provides: full
-    video capture of how your site loads from multiple regions around the world,
-    performance monitoring and alerts for when your site dips below a given
-    threshold, easy to use API for integration with other sites, and much more!
-  url: 'http://gtmetrix.com'
+    DNSimple provides DNS hosting and domain registration that is simple and
+    friendly. We provide a full API and an easy-to-use web interface so you can
+    get your domain registered and set up with a minimal amount of effort.
+  url: 'http://dnsimple.com'
   short_url: ''
-  twitter: 'https://twitter.com/gtmetrix'
+  twitter: 'https://twitter.com/dnsimple'
+  blog: 'http://blog.dnsimple.com/'
+  blog_rss: ''
+  github: 'https://github.com/dnsimple'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/575_logo.jpg
+  tags: 'Domain,DNS,DNS General'
+- slug: domaintools
+  name: DomainTools
+  description: >-
+    DomainTools offers the most comprehensive searchable database of domain name
+    registration and hosting data. Combined with their other data sites such as
+    DailyChanges.com, Screenshots.com and ReverseMX.com, users of
+    DomainTools.com can review millions of historical domain name records from
+    basic Whois and DNS information, to homepage images and email settings. The
+    Company's comprehensive snapshots of past and present domain name
+    registration, ownership and usage data, in addition to powerful research and
+    monitoring resources, help customers by unlocking everything there is to
+    know about a domain name.&nbsp;
+  url: 'http://www.domaintools.com'
+  short_url: ''
+  twitter: 'https://twitter.com/DomainTools'
   blog: ''
-  blog_rss: 'http://gtmetrix.com/news.xml'
-  github: ''
+  blog_rss: 'http://blog.domaintools.com/feed/'
+  github: 'https://github.com/DomainTools'
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/806_logo.png
-  tags: Performance Testing
-- slug: load-impact
-  name: Load Impact
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DomainToolsLogo2013.png
+  tags: 'Domain Names,DNS,DNS Internet'
+- slug: opendns
+  name: OpenDNS
   description: >-
-    Load Impact is an online load testing service for websites, web apps, mobile
-    apps and APIs. The service allows users to run load tests over the Internet,
-    rather than having to set up their own load testing infrastructure to run
-    tests. Tests are easily repeatable, with minimum preparation required, which
-    also makes the service a good development/optimization tool.
-  url: 'https://loadimpact.com/'
+    OpenDNS is a company and service which extends the Domain Name System (DNS)
+    by adding features such as phishing protection and optional content
+    filtering to traditional recursive DNS services. The company hosts a cloud
+    computing security product suite, Umbrella, designed to protect enterprise
+    customers from malware, botnets, phishing, and targeted online
+    attacks.&nbsp;
+  url: 'https://www.opendns.com/'
   short_url: ''
-  twitter: 'https://twitter.com/loadimpact'
-  blog: 'http://blog.loadimpact.com/'
-  blog_rss: 'http://blog.loadimpact.com/rss.xml'
-  github: 'https://github.com/loadimpact'
+  twitter: 'https://twitter.com/OpenDNS'
+  blog: 'https://blog.opendns.com/'
+  blog_rss: 'https://blog.opendns.com/feed/'
+  github: 'https://github.com/opendns'
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/load-impact-logo.png
-  tags: 'Testing,Performance'
-- slug: loader.io
-  name: Loader.io
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/opendns-logo.png
+  tags: 'DNS,Security,DNS New'
+- slug: arin
+  name: ARIN
   description: >-
-    Loader.io is a free load testing service that allows you to stress test your
-    web-apps/apis with thousands of concurrent connections. We were born out of
-    SendGrid Labs which is a new and growing internal effort at SendGrid. Born
-    in late 2012, SendGrid Labs builds tools and services to help developers
-    focus on their core business. We aim to provide creative and innovative
-    solutions to common developer pain points, to make their lives easier, and
-    to help them scale.
-  url: 'https://loader.io/'
+    ARIN offers public access to ARIN registration data via a number of
+    services. Traditionally, these services are known in the industry as Whois
+    in reference to the public data service of the ARPANET, precursor of today's
+    modern Internet. Whois services are offered by all the Regional Internet
+    Registries (RIRs), most Internet Routing Registries (IRRs) and most domain
+    name registries and registrars.
+  url: 'https://www.arin.net'
   short_url: ''
-  twitter: 'https://twitter.com/loaderio'
-  blog: 'http://blog.loader.io/'
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loader-io.png
-  tags: 'Testing,Performance'
-- slug: loadfocus
-  name: LoadFocus
-  description: >-
-    Load test with thousands of concurrent users. Monitor website uptime and
-    perfomance. Measure website speed and get insights. Run load tests in the
-    Cloud and stress your API with up to 50,000 concurrent users. Inspect
-    results to optimise and improve performance.
-  url: 'https://loadfocus.com/'
-  short_url: ''
-  twitter: ''
-  blog: 'http://loadfocus.com/blog/'
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loadfocus.png
-  tags: 'Performance,Testing'
-- slug: parasoft
-  name: Parasoft
-  description: >-
-    Parasoft researches and develops software solutions that help organizations
-    deliver defect-free software efficiently. By integrating&nbsp;development
-    testing,&nbsp;API testing, and&nbsp;service virtualization, we reduce the
-    time, effort, and cost of delivering secure, reliable, and compliant
-    software. Parasoft's enterprise and embedded development solutions are the
-    industry's most comprehensive&mdash;including static analysis, unit testing,
-    requirements traceability, coverage analysis, functional and load testing,
-    dev/test environment management, and more.
-  url: 'http://www.parasoft.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/Parasoft'
-  blog: 'http://blog.parasoft.com/'
-  blog_rss: 'http://www.parasoft.com/rss/'
-  github: 'https://github.com/parasoft'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/parasoft-logo.png
-  tags: 'Testing,Virtualization'
-- slug: postman
-  name: Postman
-  description: >-
-    Postman on Chrome is the most efficient way to test, develop and document
-    APIs. Create complex requests, go back in time and view results in a
-    beautiful way. Postman has more than 80 features to help you at every
-    step.&nbsp;Our user base is growing rapidly and with more tools in the
-    pipeline, Postman aims to provide the most comprehensive API development and
-    testing solution to developers.
-  url: 'http://www.getpostman.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/postmanclient'
-  blog: 'http://blog.getpostman.com/'
-  blog_rss: 'http://blog.getpostman.com/index.php/feed/'
-  github: 'https://github.com/postmanlabs'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/postman-rest-logo.png
-  tags: 'Clients, Testing, Definitions'
-- slug: rest-united
-  name: REST United
-  description: >-
-    Our mission is to help REST API providers easily create SDKs in different
-    programming languages with easy-to-follow documentation and code samples
-    while software developers can effortlessly consume the REST API by following
-    the SDK installation instruction and using the code samples within minutes.
-  url: 'http://restunited.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/restunited'
+  twitter: 'https://twitter.com/TeamARIN'
   blog: ''
   blog_rss: ''
-  github: ''
+  github: 'https://github.com/arineng'
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rest-united.png
-  tags: 'Documentation,SDK,Testing,Debugging,API Management SDK'
-- slug: restcase
-  name: RestCase
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
+  tags: 'DNS,Registry,Infrastructure,DNS Internet'
+- slug: cloudflare
+  name: CloudFlare
   description: >-
-    RestCase focuses on the REST API development cycle and enhances team
-    collaboration, reduces development time, improves testing and increases
-    overall product quality.
-  url: 'http://www.restcase.com/'
+    CloudFlare, Inc. is a U.S. company that provides a content delivery network
+    and distributed domain name server services, sitting between the visitor and
+    the CloudFlare user's hosting provider, acting as a reverse proxy for
+    websites. Its network protects, speeds up, and improves availability for a
+    website or mobile application with a change in DNS.&nbsp;
+  url: 'https://www.cloudflare.com'
   short_url: ''
-  twitter: 'https://twitter.com/RestCaseApi'
-  blog: 'http://blog.restcase.com/'
-  blog_rss: 'http://blog.restcase.com/rss/'
-  github: 'https://github.com/restcase'
+  twitter: 'https://twitter.com/CloudFlare'
+  blog: 'https://blog.cloudflare.com/'
+  blog_rss: 'http://blog.cloudflare.com/rss/'
+  github: 'https://github.com/cloudflare'
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restcase_logo.png
-  tags: 'Virtualization,Testing'
-- slug: restlet-dhc
-  name: Restlet DHC
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  tags: 'DNS,Partners,My API Stack,Encryption,Security,CDN,DNS New'
+- slug: azure-dns
+  name: Azure DNS
   description: >-
-    Call APIs to discover and validate their behavior, build and run complete
-    test scenarios.&nbsp;Trying out an API to check its behavior usually
-    involves writing a program or sending command line instructions to call the
-    API
-  url: 'https://restlet.com/products/dhc/'
+    Azure DNS lets you host your DNS domains alongside your Azure apps and
+    manage DNS records by using your existing Azure subscription.
+    Microsoft&rsquo;s global network of name servers has the reach, scale, and
+    redundancy to ensure ultra-fast DNS responses and ultra-high availability
+    for your domains. With Azure DNS, you can be sure your DNS will always be
+    fast and available.
+  url: 'https://azure.microsoft.com/en-us/services/dns/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restlet-dhc-logo.jpg
-  tags: 'Clients,Testing'
-- slug: rightapi
-  name: RightAPI
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-dns-01-host.png
+  tags: 'DNS,Microsoft'
+- slug: dyn
+  name: Dyn
   description: >-
-    TheRightAPI is enabling the API community by providing solutions to make
-    working with APIs easier. If you need to discover, trust, monitor and manage
-    APIs, TheRightAPI is here to help. TheRightAPI provides the platform and
-    intelligence developers need to establish and maintain successful next
-    generation applications.
-  url: 'http://www.therightapi.com/'
+    Dyn helps companies monitor, control, and optimize online infrastructure to
+    improve end-user experience. Their Internet performance product suite
+    includes Dyn Internet Intelligence, IP Transit Intelligence, Traffic
+    Director, and DNS APIs. Dyn provides enterprise level sales and pricing for
+    their DNS, and email services.
+  url: 'http://dyn.com/'
   short_url: ''
-  twitter: 'https://twitter.com/rightapi'
-  blog: 'http://blog.therightapi.com'
-  blog_rss: 'http://feeds.feedburner.com/rtur'
-  github: 'https://github.com/theRightAPI'
+  twitter: 'https://twitter.com/Dyn'
+  blog: 'http://dyn.com/blog/'
+  blog_rss: 'http://feeds.feedburner.com/dyn-blog'
+  github: 'https://github.com/dyninc'
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/therightapi-logo-2.png
-  tags: Testing
-- slug: runscope
-  name: Runscope
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dyn-logo.png
+  tags: 'DNS,Messaging,Email,Email API,DNS,Partners,DNS General,Getting Started'
+- slug: gslb.me
+  name: GSLB.me
   description: >-
-    Runscope was started with the idea that depending on a web service API in a
-    mobile or web application should be as easy as depending on code running
-    locally. We&rsquo;ve assembled a team of API, infrastructure and developer
-    experience experts to build tools to support the modern application
-    development lifecycle.
-  url: 'https://www.runscope.com/'
+    GSLB.me comes with a fully-fledged REST-based API to manage your DNS
+    services. Using the API you can add, modify, delete, enable and disable
+    domains (GSLB.me refers to DNS domains as &ldquo;zones&ldquo;) and records.
+    You can also manage your geohosts and more features are scheduled for next
+    releases.
+  url: 'http://www.gslb.me/'
   short_url: ''
-  twitter: 'https://twitter.com/Runscope'
-  blog: 'http://blog.runscope.com/'
-  blog_rss: 'http://blog.runscope.com/posts?format=rss'
-  github: 'https://github.com/Runscope'
+  twitter: 'https://twitter.com/GSLBme'
+  blog: ''
+  blog_rss: 'http://www.gslb.me/feed'
+  github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
-  tags: 'My API Stack,Monitoring,Testing,Monitoring,Testing,API LIfeycle'
-- slug: smartbear-software
-  name: SmartBear Software
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gslb-me-logo.png
+  tags: 'DNS,Hosting,DNS Internet'
+- slug: google-cloud-dns
+  name: Google Cloud DNS
   description: >-
-    SmartBear Software provides tools for over 100,000 software professionals to
-    build, test, and monitor some of the best software applications and websites
-    anywhere on the desktop, mobile and in the cloud.
-  url: 'http://smartbear.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/smartbear'
-  blog: 'http://blog.smartbear.com/'
-  blog_rss: 'http://feeds.feedburner.com/smartbear'
-  github: 'https://github.com/SmartBear'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/SmartBear-Logo.png
-  tags: 'Security,Testing,Monitoring,Virtualization,Performance,API LIfeycle'
-- slug: stoplight
-  name: StopLight
-  description: >-
-    StopLight provides engineering teams with a new way to document, test, and
-    build web APIs. Our technology easily and automatically maps an API, and
-    then provides tooling and services to reduce development time, and increase
-    reliability and accessibility.
-  url: 'http://stoplight.io/'
-  short_url: ''
-  twitter: 'https://twitter.com/stoplightio'
-  blog: 'http://blog.stoplight.io/'
-  blog_rss: 'http://blog.stoplight.io/rss/'
-  github: 'https://github.com/stoplightio'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stoplight-io-logo.png
-  tags: 'Testing,Clients,API LIfeycle,Proxy,Design,Studio'
-- slug: vrest
-  name: vREST
-  description: 'Simplify, Automate and Speed-up REST API Testing'
-  url: 'http://vrest.io/'
+    Google Cloud DNS is a scalable, reliable and managed authoritative Domain
+    Name System (DNS) service running on the same infrastructure as Google. It
+    has low latency, high availability and is a cost-effective way to make your
+    applications and services available to your users. Cloud DNS translates
+    requests for domain names like www.google.com into IP addresses like
+    74.125.29.101. Cloud DNS is programmable. You can easily publish and manage
+    millions of DNS zones and records using our simple user interface,
+    command-line interface or API.
+  url: 'https://cloud.google.com/dns/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/vrsest-logo.png
-  tags: 'Testing,Virtualization'
-- slug: webpagetest
-  name: WebPagetest
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/global-dns-network.png
+  tags: 'DNS,Google APIs'
+- slug: dns-made-easy
+  name: DNS Made Easy
   description: >-
-    WebPagetest is used for measuring and analyzing the performance of web
-    pages.  There are a lot of options that may seem intimidating at first but
-    doing quick testing is pretty simple.  This guide will walk you through
-    submitting a test and interpreting the results.
-  url: >-
-    https://sites.google.com/a/webpagetest.org/docs/advanced-features/webpagetest-restful-apis
+    DNS Made Easy&rsquo;s API is available to perform core functions of the DNS
+    Made Easy web interface programmatically. DNS Made Easy&rsquo;s API is a
+    powerful resource and a great alternative to DNS management through our
+    conventional web interface. Use of the REST based API is available free to
+    all Business and Corporate Memberships.
+  url: 'http://www.dnsmadeeasy.com'
+  short_url: ''
+  twitter: 'https://twitter.com/dnsmadeeasy'
+  blog: 'http://social.dnsmadeeasy.com/'
+  blog_rss: ''
+  github: ''
+  image: ''
+  tags: 'DNS,Domain,DNS General,Reliability,Service Level Agreement'
+- slug: dns-check
+  name: DNS Check
+  description: 'DNS Check enables you to easily monitor, share and troubleshoot DNS records.'
+  url: 'https://www.dnscheck.co/'
+  short_url: ''
+  twitter: 'https://twitter.com/dns_check'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://cdn.dnscheck.co/images/dns-check-icon.png'
+  tags: >-
+    dns check,dns monitor,DNS,mx record check,spf record check,DNS
+    General,Monitoring
+- slug: rackspace
+  name: Rackspace
+  description: >-
+    Rackspace is a recognized leader in the IT hosting market. We deliver
+    enterprise-level managed services to businesses of all sizes and kinds
+    around the world. Serving more than 14,000 customers in eight data centers
+    worldwide, Rackspace integrates the industry&rsquo;s best technologies and
+    practices for each customer&rsquo;s specific need and delivers it as a
+    service via the company&rsquo;s promise of Fanatical Support&Acirc;&reg;. We
+    serve as an extension of our customers&rsquo; IT departments, enabling them
+    to focus on their core business. We got started in 1998 and since then
+    Rackspace has grown more than 50 percent a year. There are currently 2,000
+    Rackers around the world serving our customers.
+  url: 'http://www.rackspace.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/rackspace'
+  blog: 'http://www.rackspace.com/blog/'
+  blog_rss: 'http://www.rackspace.com/blog/feed/rss/'
+  github: 'https://github.com/rackspace'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/rackspace-logo.jpg
+  tags: >-
+    Cloud,Storage,Compute,Cloud,Storage,DNS,API LIfeycle,Compute,DNS
+    Cloud,Federal Government,Federal Government,Federal Government,Federal
+    Government
+- slug: akamai
+  name: Akamai
+  description: >-
+    Akamai Technologies, Inc. is a content delivery network or CDN and cloud
+    services provider headquartered in Cambridge, Massachusetts, in the United
+    States. Akamai's content delivery network is one of the world's largest
+    distributed computing platforms, responsible for serving between 15 and 30
+    percent of all web traffic. The company operates a network of servers around
+    the world and rents capacity on these servers to customers who want their
+    websites to work faster by distributing content from locations close to the
+    user
+  url: 'https://akamai.com'
+  short_url: ''
+  twitter: 'https://twitter.com/Akamai'
+  blog: 'https://blogs.akamai.com'
+  blog_rss: 'http://blogs.akamai.com/feeds.html'
+  github: 'https://github.com/akamai'
+  image: 'https://s3.amazonaws.com/kinlane-productions/akamai/akamai-logo.png'
+  tags: 'Applications,Cloud,DNS,API LIfeycle,Bots,Performance,Security,DNS Cloud'
+- slug: aws-lightsale
+  name: AWS Lightsale
+  description: >-
+    Amazon Lightsail is the easiest way to get started with AWS for developers
+    who just need virtual private servers. Lightsail includes everything you
+    need to launch your project quickly - a virtual machine, SSD-based storage,
+    data transfer, DNS management, and a static IP - for a low, predictable
+    price. You manage those Lightsail servers through the Lightsail console or
+    by using the API or command-line interface (CLI).
+  url: 'https://amazonlightsail.com/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    https://s3.amazonaws.com/kinlane-productions/webpagetest/webpagetest-logo.png
-  tags: 'Websites,Performance Testing'
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-lightsail.png
+  tags: 'Amazon Web Services,DNS'
+- slug: aws-route-53
+  name: AWS Route 53
+  description: >-
+    Amazon Route 53 is a highly available and scalable cloud Domain Name System
+    (DNS) web service. It is designed to give developers and businesses an
+    extremely reliable and cost effective way to route end users to Internet
+    applications by translating names like www.example.com into the numeric IP
+    addresses like 192.0.2.1 that computers use to connect to each other. Amazon
+    Route 53 is fully compliant with IPv6 as well. Amazon Route 53 effectively
+    connects user requests to infrastructure running in AWS &ndash; such as
+    Amazon EC2 instances, Elastic Load Balancing load balancers, or Amazon S3
+    buckets &ndash; and can also be used to route users to infrastructure
+    outside of AWS. You can use Amazon Route 53 to configure DNS health checks
+    to route traffic to healthy endpoints or to independently monitor the health
+    of your application and its endpoints. Amazon Route 53 Traffic Flow makes it
+    easy for you to manage traffic globally through a variety of routing types,
+    including Latency Based Routing, Geo DNS, and Weighted Round Robin&mdash;all
+    of which can be combined with DNS Failover in order to enable a variety of
+    low-latency, fault-tolerant architectures. Using Amazon Route 53 Traffic
+    Flow&rsquo;s simple visual editor, you can easily manage how your end-users
+    are routed to your application&rsquo;s endpoints&mdash;whether in a single
+    AWS region or distributed around the globe. Amazon Route 53 also offers
+    Domain Name Registration &ndash; you can purchase and manage domain names
+    such as example.com and Amazon Route 53 will automatically configure DNS
+    settings for your domains.
+  url: 'https://aws.amazon.com/route53/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AmazonRoute53.png
+  tags: 'Amazon Web Services,DNS'
