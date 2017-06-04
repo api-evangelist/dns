@@ -1,8 +1,9 @@
 ---
 layout: page
-title: 'API DNS Patents'
+title: 'API Definition Patents'
 ---
-<p>{{ site.patents_desc }}</p>
+<h3>{{ site.patent_title}}</h3>
+<p>{{ site.patent_desc }}</p>
 {% for patent in site.data.patents %}
   <h2>{{ patent.name }}</h2>
   <p><a href="{{ patent.url }}" target="_blank" title="View on USPTO Website"><img style="padding: 5px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/uspto.png" width="150" align="right" /></a></p>
@@ -14,3 +15,4 @@ title: 'API DNS Patents'
   <p>{{ patent.abstract }}</p>
   <p align="center"><hr /></p>
 {% endfor %}
+<p>{{ site.patent_footer }}</p>
