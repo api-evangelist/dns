@@ -1,8 +1,1114 @@
 ---
+- curated_id: e3c9bea7c3f04453d0765c93bbe14844
+  item_date: "2012-06-03 11:15:18"
+  title: DNS Made Easy Releases REST API 2.0
+  url: http://www.prweb.com/releases/dns/management/prweb9564929.htm
+  domain: www.prweb.com
+  image: ""
+- curated_id: ad03e14f97ef9b7dddb3713cf72f232f
+  item_date: "2013-01-02 00:00:00"
+  title: Dyn Acquires Website Monitoring Startup Verelo
+  url: http://dyn.com/blog/dyn-acquires-website-monitoring-startup-verelo/
+  domain: dyn.com
+  image: ""
+- curated_id: fb8c2dd36ad5d1af918ecdb047cf38a6
+  item_date: "2013-04-07 00:00:00"
+  title: AWS Elastic Beanstalk for .NET Supports Amazon VPC and Configuration Files
+  url: https://aws.amazon.com/about-aws/whats-new/2013/04/08/aws-elastic-beanstalk-for-net-supports-amazon-vpc-and-configuration-files/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 80b34a80fef93e92b64ef125fb26448c
+  item_date: "2013-04-08 00:00:00"
+  title: AWS GovCloud (US) Region Announces Amazon EMR
+  url: https://aws.amazon.com/about-aws/whats-new/2013/04/09/aws-govcloud-us-region-announces-amazon-emr/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 60d6f14026b43e32fb1e6e16056069fe
+  item_date: "2013-04-09 00:00:00"
+  title: AWS Storage Gateway Now Supports Microsoft Hyper-V
+  url: https://aws.amazon.com/about-aws/whats-new/2013/04/10/aws-storage-gateway-now-supports-microsoft-hyper-v/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: a33d9d198ea39228d1a2d04992744499
+  item_date: "2013-04-15 00:00:00"
+  title: 5 Tips for Developing a Competitive Intelligence Strategy Using DomainTools
+  url: https://blog.domaintools.com/2013/04/5-tips-for-developing-a-competitive-intelligence-strategy-using-domaintools/
+  domain: blog.domaintools.com
+  image: ""
+- curated_id: b8b92a548e5ad13b2a2ff9ab974b2bd6
+  item_date: "2013-04-17 00:00:00"
+  title: Amazon RDS for Oracle Now Supports Transparent Data Encryption and Native
+    Network Encryption
+  url: https://aws.amazon.com/about-aws/whats-new/2013/04/18/amazon-rds-oracle-encryption/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 35efe7d554defc8347ab11bb5c12bab6
+  item_date: "2013-04-22 00:00:00"
+  title: 'AWS Management Console now available for AWS GovCloud (US) '
+  url: https://aws.amazon.com/about-aws/whats-new/2013/04/23/aws-management-console-now-available-for-aws-govcloud-us-region/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 7288b79d89d48f14de7bf120bdb3ce5e
+  item_date: "2013-04-23 00:00:00"
+  title: AWS Marketplace Applications Now Available With 1-Click Deployment In Sydney
+  url: https://aws.amazon.com/about-aws/whats-new/2013/04/24/aws-marketplace-applications-now-available-with-1-click-deployment-in-sydney/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 436a784d56d9d531be0c8c18464de6a5
+  item_date: "2013-04-24 00:00:00"
+  title: AWS OpsWorks now supports more Amazon EC2 instance types including the micro
+    instance
+  url: https://aws.amazon.com/about-aws/whats-new/2013/04/25/aws-opsworks-new-instance-types/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 9d514b6608757a697889b8bf8c33dfb0
+  item_date: "2013-04-29 00:00:00"
+  title: Announcing Amazon Web Services Global Certification Program
+  url: https://aws.amazon.com/about-aws/whats-new/2013/04/30/announcing-amazon-web-services-global-certification-program/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: ff66292e6dcf4aa28cfadb6fa033987d
+  item_date: "2013-04-30 00:00:00"
+  title: Announcing New Edge Location in Seoul, Korea for Amazon CloudFront and Amazon
+    Route 53
+  url: https://aws.amazon.com/about-aws/whats-new/2013/05/01/amazon-cloudfront-route53-announce-seoul-edge-location/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: bf18851321a02514004c38991f95b944
+  item_date: "2013-05-07 00:00:00"
+  title: ""
+  url: http://dyn.com/blog/research-dns-traffic-management-external-cloud-load-balancing/
+  domain: dyn.com
+  image: ""
+- curated_id: 3fdc58aa8e80db9a927f76d352dc3b34
+  item_date: "2013-05-22 00:00:00"
+  title: 'DynECT Managed DNS API: Get Started Using CURL, Java or Python'
+  url: http://dyn.com/blog/dynect-api-example-curl-managed-dns-aws-heroku-devops/
+  domain: dyn.com
+  image: ""
+- curated_id: 5939b63a2d3c91f7bd60fd305b0e44bd
+  item_date: "2013-05-30 00:00:00"
+  title: Multi data center redundancy ? Application Considerations
+  url: https://blog.serverdensity.com/multi-data-center-redundancy-application-considerations/
+  domain: blog.serverdensity.com
+  image: ""
+- curated_id: 47f4f244bb1e5eb0d9a5bc76f1e89bc5
+  item_date: "2013-06-27 00:00:00"
+  title: Akamai Appoints Lauren M. Van Wazer as Head of Global Public Policy
+  url: https://www.akamai.com/us/en/about/news/press/2013-press/akamai-appoints-lauren-van-wazer-global-public-policy.jsp
+  domain: www.akamai.com
+  image: ""
+- curated_id: 532060ffbd58f30a706b1a9d72b65eda
+  item_date: "2013-06-28 00:00:00"
+  title: New OpenSRS Status Site Launches on July 2
+  url: https://opensrs.com/blog/2013/06/new-opensrs-status-site-launches-on-july-2/
+  domain: opensrs.com
+  image: ""
+- curated_id: 43f820ace4e24f94295d72d86911f3b6
+  item_date: "2013-07-07 00:00:00"
+  title: DomainsBot Launches Domain Suggestion API for Developers
+  url: https://dzone.com/articles/domainsbot-launches-domain
+  domain: dzone.com
+  image: ""
+- curated_id: cb95dcdaf6553c54035ce6e055088ab7
+  item_date: "2013-08-16 00:00:00"
+  title: 'Google?s DNS Crashes: Google Resolving DNS (Caching DNS) vs. Authoritative
+    DNS'
+  url: http://www.dnsmadeeasy.com/googles-dns-crashes-google-resolving-dns-caching-dns-vs-authoritative-dns/
+  domain: www.dnsmadeeasy.com
+  image: ""
+- curated_id: 8282a318fafc2ccd904b6c96b034e3ca
+  item_date: "2013-08-19 00:00:00"
+  title: DNS Made Easy Launches Mobile App for Android Devices
+  url: http://www.dnsmadeeasy.com/uncategorized/dns-made-easy-launches-mobile-app-for-android-devices/
+  domain: www.dnsmadeeasy.com
+  image: ""
+- curated_id: 1c7cdd061322edb435e0cf3b6c3e2bd1
+  item_date: "2013-09-04 00:00:00"
+  title: DNS  Server Load Balancing API joins Mashape
+  url: http://blog.mashape.com/kong-and-datadog-announce-integration/
+  domain: blog.mashape.com
+  image: ""
+- curated_id: a0f99a74827a89dbdaabf4b5c6a11faa
+  item_date: "2013-09-05 00:00:00"
+  title: DNS Made Easy Announces Facelift to Hardware at European Facilities
+  url: http://www.dnsmadeeasy.com/blog/dns-made-easy-announces-facelift-to-hardware-at-european-facilities/
+  domain: www.dnsmadeeasy.com
+  image: ""
+- curated_id: 767e5740c75e222fafd51738000f0d57
+  item_date: "2013-09-17 00:00:00"
+  title: DynECT Managed DNS API Documentation Now Available
+  url: http://dyn.com/blog/dynect-managed-dns-api-documentation-now-available/
+  domain: dyn.com
+  image: ""
+- curated_id: 6af08aff79b9fa739b3e99ce507efc88
+  item_date: "2013-09-25 00:00:00"
+  title: U.S. Government Moving Data to Cloud Computing
+  url: http://www.dnsmadeeasy.com/u-s-government-moving-data-to-cloud-computing/
+  domain: www.dnsmadeeasy.com
+  image: ""
+- curated_id: 02819018918bd553c4729a3c40d4c3ec
+  item_date: "2013-10-29 00:00:00"
+  title: DNS Made Easy Hits 50,000 ANAME Records in System
+  url: http://www.dnsmadeeasy.com/press-release/dns-made-easy-hits-50000-aname-records-in-system/
+  domain: www.dnsmadeeasy.com
+  image: ""
+- curated_id: 5920d7dff3b65812b5fb2a51554b34e2
+  item_date: "2013-11-08 00:00:00"
+  title: 'The Mechanics Behind The Internet: What is a DNS Query?'
+  url: http://www.dnsmadeeasy.com/blog/the-mechanics-behind-the-internet-what-is-a-dns-query/
+  domain: www.dnsmadeeasy.com
+  image: ""
+- curated_id: 678ae028f8b43a2986ad474af03bf3a3
+  item_date: "2013-11-11 00:00:00"
+  title: ""
+  url: https://www.akamai.com/us/en/about/news/press/2013-press/turk-telekom-and-akamai-build-cdn-and-accelerate-media.jsp
+  domain: www.akamai.com
+  image: ""
+- curated_id: bd7db2bc87b0e863858c9027771c3f23
+  item_date: "2013-11-18 00:00:00"
+  title: 'Dyn Research: The API Usage Of Managed DNS Customers'
+  url: http://dyn.com/blog/research-dynect-api-usage-managed-dns/
+  domain: dyn.com
+  image: ""
+- curated_id: d5c6d37e1c5eef9e21a48ced04ef234f
+  item_date: "2013-12-03 00:00:00"
+  title: 'DynEdu: Load Balancing'
+  url: http://dyn.com/blog/dynedu-load-balancing/
+  domain: dyn.com
+  image: ""
+- curated_id: 81930a7ce4b34636afb91044decf09f0
+  item_date: "2013-12-10 00:00:00"
+  title: What Is a DDoS Attack?
+  url: http://www.dnsmadeeasy.com/what-is-a-ddos-attack/
+  domain: www.dnsmadeeasy.com
+  image: ""
+- curated_id: d34af952af3bdaab27f10183d4b5334e
+  item_date: "2013-12-10 00:00:00"
+  title: DNS Made Easy Adds Two-Factor Authentication with Time-Based Passwords
+  url: http://www.dnsmadeeasy.com/dns-made-easy-adds-two-factor-authentication-with-time-based-passwords/
+  domain: www.dnsmadeeasy.com
+  image: ""
+- curated_id: 5a663fdb120590604750200becaf0493
+  item_date: "2014-01-30 00:00:00"
+  title: DNS Made Easy Announces Successful Launch of Two-Factor Authentication
+  url: http://www.dnsmadeeasy.com/dns-made-easy-announces-successful-launch-two-factor-authentication/
+  domain: www.dnsmadeeasy.com
+  image: ""
+- curated_id: cbe10655cd26560dfe2432906a31e570
+  item_date: "2014-04-10 00:00:00"
+  title: What You Should Know About The Heartbleed Security Bug
+  url: http://dyn.com/blog/what-you-should-know-about-the-heartbleed-security-bug/
+  domain: dyn.com
+  image: ""
+- curated_id: 8115adc75c0a33c94bbc5022faf24b1d
+  item_date: "2014-06-12 00:00:00"
+  title: Use Your own Encryption Keys with S3s Server-Side Encryption
+  url: https://aws.amazon.com/blogs/aws/s3-encryption-with-your-keys/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 925494cf2a6b7feba3298b1545920006
+  item_date: "2014-06-25 00:00:00"
+  title: Amazon AppStream Update - New Features and New Docs
+  url: https://aws.amazon.com/blogs/aws/appstream-features-and-docs-update/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 12b20e7bb79e037d5a040d92f70c00ba
+  item_date: "2014-06-26 00:00:00"
+  title: Build Apps for Amazon Mobile Devices with AWS
+  url: https://aws.amazon.com/blogs/aws/build-for-mobile-with-aws/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 40d58840e093adb852197a599a83aefd
+  item_date: "2014-07-14 00:00:00"
+  title: New Annual Pricing for AWS Marketplace Products
+  url: https://aws.amazon.com/blogs/aws/marketplace-annual-pricing/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 04449e0e8722781cb8fce238115781f8
+  item_date: "2014-07-15 00:00:00"
+  title: Amazon RDS PostgreSQL Update - Service Level Agreement and General Availability
+  url: https://aws.amazon.com/blogs/aws/rds-postgres-sla/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: d886273c3b39170c9fde27a2a76bf1a5
+  item_date: "2014-07-15 00:00:00"
+  title: Human Confirmation Bias In Monitoring Of Systems
+  url: http://dyn.com/blog/human-confirmation-bias-in-monitoring-of-systems/
+  domain: dyn.com
+  image: ""
+- curated_id: 55c5bb3a869ccee3ff96862d1f8516cc
+  item_date: "2014-07-16 00:00:00"
+  title: AWS Support API Update - Attachment Creation and Lightweight Monitoring
+  url: https://aws.amazon.com/blogs/aws/aws-support-api-update/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: d66a1a8d5e0ad7cb9ead7c2d53dfc359
+  item_date: "2014-07-16 00:00:00"
+  title: Dyn Releases IP Transit Intelligence, Provides Global Perspective On Peering
+    And Transfer Data
+  url: http://dyn.com/blog/dyn-releases-ip-transit-intelligence-provides-global-perspective-on-peering-and-transfer-data/
+  domain: dyn.com
+  image: ""
+- curated_id: ed55485cef650a26763e18dc7b8c22c9
+  item_date: "2014-07-21 00:00:00"
+  title: 'Announcing: Reverse DNS for Azure Cloud Services'
+  url: https://azure.microsoft.com/en-us/blog/2014/07/21/announcing-reverse-dns-for-azure-cloud-services/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: b470df3873c363db29440a41c75d5f81
+  item_date: "2014-07-22 00:00:00"
+  title: Big Data Update - New Blog and New Web-Based Training
+  url: https://aws.amazon.com/blogs/aws/big-data-update-blog-and-training/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: aefee31b8d4e82b3a3faa0d06d071d36
+  item_date: "2014-07-24 00:00:00"
+  title: Elastic Load Balancing Connection Timeout Management
+  url: https://aws.amazon.com/blogs/aws/elb-idle-timeout-control/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 88d29e4f186f3e2eb1611b1325106ee4
+  item_date: "2014-07-31 00:00:00"
+  title: Route 53 Update - Domain Name Registration, Geo Routing, and a Price Reduction
+  url: https://aws.amazon.com/blogs/aws/route-53-domain-reg-geo-route-price-drop/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: cccfbd461eb97ea818d6dbfa3a728055
+  item_date: "2014-07-31 00:00:00"
+  title: AWS Trusted Advisor For Everyone
+  url: https://aws.amazon.com/blogs/aws/trusted-advisor-console-basic/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 57c59070c223ab116b47a5544434ac26
+  item_date: "2014-08-06 00:00:00"
+  title: 'All Data Are Belong to AWS: Streaming upload via Fluentd'
+  url: https://aws.amazon.com/blogs/aws/all-your-data-fluentd/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 7d9c023470207bd4d4c64132a7eb3439
+  item_date: "2014-08-07 00:00:00"
+  title: AWS SDK for Python (Boto) Now Supports Python 3
+  url: https://aws.amazon.com/blogs/aws/boto-python-3/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 2456a480f892a48cf52f5868856fb666
+  item_date: "2014-08-11 00:00:00"
+  title: Tag Your Elastic Load Balancers
+  url: https://aws.amazon.com/blogs/aws/tag-your-elastic-load-balancers/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 3035e2c7e33f4cab17879a9ce52151be
+  item_date: "2014-08-13 00:00:00"
+  title: New Introductory AWS Videos amp; Labs - DynamoDB, Elastic Beanstalk, and
+    Elastic MapReduce
+  url: https://aws.amazon.com/blogs/aws/new-aws-intro-videos-ddb-beanstalk-emr/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 528aee9baa39cfb5fa943af146009a43
+  item_date: "2014-08-20 00:00:00"
+  title: What?s better than the world?s best Whois data? The world?s best PARSED Whois
+    data!
+  url: https://blog.domaintools.com/2014/08/whats-better-than-the-worlds-best-whois-data-the-worlds-best-parsed-whois-data/
+  domain: blog.domaintools.com
+  image: ""
+- curated_id: 982d2846edb6f15ec01681a04ba9f88c
+  item_date: "2014-08-21 00:00:00"
+  title: DISA Authorizes AWS as First Commercial Cloud Approved for Sensitive Workloads
+  url: https://aws.amazon.com/blogs/aws/disa-conditional-ato-levels-3-to-5/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 2df9c3c0adca36545f3b0174210b4603
+  item_date: "2014-08-28 00:00:00"
+  title: New Resources APIs for the AWS SDK for Java
+  url: https://aws.amazon.com/blogs/aws/java-sdk-resource-apis-preview/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 94d51768982d3b19591ecab7d8edaeb3
+  item_date: "2014-09-24 00:00:00"
+  title: Welcome the First AWS Community Heroes
+  url: https://aws.amazon.com/blogs/aws/welcome-first-aws-community-heroes/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 927abca7328a4cedea849e1ceebe07fb
+  item_date: "2014-09-25 00:00:00"
+  title: New Resource APIs in Version 2 of the AWS SDK for Ruby
+  url: https://aws.amazon.com/blogs/aws/ruby-sdk-resource-model/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 910946106fc5808c84d6aa12c30681a4
+  item_date: "2014-12-02 00:00:00"
+  title: Custom Domain Tracking With Email Delivery
+  url: http://dyn.com/blog/custom-domain-tracking-with-email-delivery/
+  domain: dyn.com
+  image: ""
 - curated_id: EI7haK43eN4QuUEK123zUqB6IWfA8cSZW77eoQ5fBGNm7YWVOtlxGJEykAI123wrhvGlVGDviU6tCgjqjoDG3m116dDw117117
   item_date: "2015-01-06 00:00:00"
   title: Does One API Description Language Fit an Entire Enterprise
   url: https://blog.soa.com/does-one-api-description-language-fit-an-entire-enterprise/
   domain: blog.soa.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-soa-comdoes-one-api-description-language-fit-an-entire-enterprise.png
+- curated_id: 8ec123538f4c833571e24137d740d817
+  item_date: "2015-03-05 00:00:00"
+  title: What we have learned from selling 100,000 new gTLDs
+  url: https://opensrs.com/blog/2015/03/what-we-have-learned-from-selling-100000-new-gtlds/
+  domain: opensrs.com
+  image: ""
+- curated_id: 1b6dca0484cf86ffb1b2015dc2ae2332
+  item_date: "2015-03-31 00:00:00"
+  title: How DNS evolved into a necessity for our society
+  url: http://www.dnsmadeeasy.com/how-dns-evolved-into-a-necessity-for-our-society/
+  domain: www.dnsmadeeasy.com
+  image: ""
+- curated_id: e73755afc0dc590398ea958666d881b4
+  item_date: "2015-04-09 00:00:00"
+  title: DNS Made Easy Introduces Load Balancing System that Ensures Optimal Traffic
+    Flow
+  url: http://www.dnsmadeeasy.com/dns-made-easy-introduces-load-balancing-system-that-ensures-optimal-traffic-flow/
+  domain: www.dnsmadeeasy.com
+  image: ""
+- curated_id: 1915a128329f90a70ab58cd3d5dd14e4
+  item_date: "2015-05-05 00:00:00"
+  title: Microsoft introduces Azure DNS in public preview, expanding its cloud capabilities
+  url: http://venturebeat.com/2015/05/05/microsoft-introduces-azure-dns-in-public-preview-expanding-its-cloud-capabilities/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 341d9794b5d0685ed42b1ad9faa7f0ce
+  item_date: "2015-05-13 09:01:35"
+  title: OpenDNS Enforces Threat Intelligence at the Speed of Automatic
+  url: https://blog.opendns.com/2015/05/13/opendns-custom-api-operationalizes-threat-intelligence/
+  domain: blog.opendns.com
+  image: ""
+- curated_id: d58435d33fe55e7b1ce9d4022bceb5c8
+  item_date: "2015-05-18 00:00:00"
+  title: St. Louis Federal Reserve Suffers DNS Breach
+  url: http://krebsonsecurity.com/2015/05/st-louis-federal-reserve-suffers-dns-breach/
+  domain: krebsonsecurity.com
+  image: ""
+- curated_id: c6877cbc2eea6fd4ce204a648233e017
+  item_date: "2015-05-28 00:00:00"
+  title: DNS Made Easy Releases Falcon-Fast Update Platform
+  url: http://www.dnsmadeeasy.com/dns-made-easy-releases-falcon-fast-update-platform/
+  domain: www.dnsmadeeasy.com
+  image: ""
+- curated_id: 9147e1b2968e8c1b678e3739b2f17e1e
+  item_date: "2015-06-05 00:00:00"
+  title: Dyn is Taking a DNS-Centric Approach to Cloud-Deployed Network Services
+  url: http://dyn.com/blog/dyn-is-taking-a-dns-centric-approach-to-cloud-deployed-network-services/
+  domain: dyn.com
+  image: ""
+- curated_id: 2cba9f879d476a37281e3e02f792d309
+  item_date: "2015-06-09 00:00:00"
+  title: Internet Standards Like Whois Get REST, JSON Support
+  url: http://www.programmableweb.com/news/internet-standards-whois-get-rest-json-support/2015/06/09
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 71b035a8abd0312ea977d960e661269d
+  item_date: "2015-06-09 00:00:00"
+  title: Ancient DNS Weakness Puts Schools at Risk
+  url: http://www.dnsmadeeasy.com/ancient-dns-weakness-puts-schools-at-risk/
+  domain: www.dnsmadeeasy.com
+  image: ""
+- curated_id: fd0a31bf81ab735c3e092f456986fced
+  item_date: "2015-06-10 00:00:00"
+  title: 'DNS State of Confusion: A Summary'
+  url: http://dyn.com/blog/dns-state-of-confusion-a-summary/
+  domain: dyn.com
+  image: ""
+- curated_id: 48cec8269e2fe96d18d5ef7698bcc878
+  item_date: "2015-06-19 00:00:00"
+  title: DNS Made Easy Releases Real Time Statistics
+  url: http://www.dnsmadeeasy.com/dns-made-easy-releases-real-time-statistics/
+  domain: www.dnsmadeeasy.com
+  image: ""
+- curated_id: 7d4a36338d8fc8e1bca03f2c59e7f54d
+  item_date: "2015-06-24 00:00:00"
+  title: 'DNS Coach: What is a PTR Record used for?'
+  url: http://www.dnsmadeeasy.com/dns-coach-what-is-a-ptr-record-used-for/
+  domain: www.dnsmadeeasy.com
+  image: ""
+- curated_id: e82edfcfed374b0d41ab93e91a307e99
+  item_date: "2015-06-25 00:00:00"
+  title: Controlling Your Traffic in the Cloud
+  url: http://dyn.com/blog/controlling-your-traffic-in-the-cloud/
+  domain: dyn.com
+  image: ""
+- curated_id: 876c56193184d4c7e0ddb2b32604225d
+  item_date: "2015-06-30 00:00:00"
+  title: Help save domain privacy
+  url: https://opensrs.com/blog/2015/06/help-save-domain-privacy/
+  domain: opensrs.com
+  image: ""
+- curated_id: 81205be7b5b7e95d2c2d5b2616a5aad7
+  item_date: "2015-06-30 00:00:00"
+  title: Introducing s2n, a New Open Source TLS Implementation
+  url: https://blogs.aws.amazon.com/security/post/TxCKZM94ST1S6Y/Introducing-s2n-a-New-Open-Source-TLS-Implementation
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: c68aa9a97b9ef56508b89dd57db3c907
+  item_date: "2015-07-08 00:00:00"
+  title: DNS Coach Explains Secondary DNS
+  url: http://www.dnsmadeeasy.com/dns-coach-explains-secondary-dns/
+  domain: www.dnsmadeeasy.com
+  image: ""
+- curated_id: 8cf44dfe81e616b0dff884e9add7fb7f
+  item_date: "2015-07-08 00:00:00"
+  title: DNS Made Easy Announces Initiative to Urge Users to Utilize Secondary DNS
+  url: http://www.dnsmadeeasy.com/dns-made-easy-announces-initiative-to-urge-users-to-utilize-secondary-dns/
+  domain: www.dnsmadeeasy.com
+  image: ""
+- curated_id: 8d5b64316ee9dcbc15ea2be71e7db59f
+  item_date: "2015-08-31 00:00:00"
+  title: Subscribe to AWS Public IP Address Changes via Amazon SNS
+  url: https://aws.amazon.com/blogs/aws/subscribe-to-aws-public-ip-address-changes-via-amazon-sns/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: d0b43442313aa54ba11607fb9a56508f
+  item_date: "2015-09-03 00:00:00"
+  title: Google Calendar is getting a new, more secure URL
+  url: http://venturebeat.com/2015/09/03/google-calendar-is-getting-a-new-more-secure-url/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 3f72d2ddad3208c9d3d0eafe972b86d5
+  item_date: "2015-10-16 00:00:00"
+  title: Measuring DNS Performance for the User Experience
+  url: http://dyn.com/blog/measuring-dns-performance-for-the-user-experience/
+  domain: dyn.com
+  image: ""
+- curated_id: 2e95e1ff8c510f493a3812d0e25ca3d4
+  item_date: "2015-10-20 00:00:00"
+  title: DigitalOcean simplifies IP addressing of services with new cloud...
+  url: http://www.businesscloudnews.com/2015/10/21/digitalocean-simplifies-ip-addressing-of-services-with-new-cloud-building-invention/
+  domain: www.businesscloudnews.com
+  image: ""
+- curated_id: dbf357047748147283de03ec493cb7c4
+  item_date: "2015-12-07 00:00:00"
+  title: Measuring DNS Performance with Open Recursive Name Servers
+  url: http://research.dyn.com/2015/12/dns-performance/
+  domain: research.dyn.com
+  image: ""
+- curated_id: adac9f9d1099529ed50199da59d81955
+  item_date: "2015-12-08 00:00:00"
+  title: Akamai Releases Q3 2015 State of the Internet - Security Report
+  url: |
+    https://www.akamai.com/us/en/about/news/press/2015-press/akamai-releases-third-quarter-2015-state-of-the-internet-security-report.jsp
+  domain: www.akamai.com
+  image: ""
+- curated_id: b88bdb7223ccf5e354334a1e9c8bc4a6
+  item_date: "2015-12-09 00:00:00"
+  title: Domain Mapping on GitHub
+  url: http://bavatuesdays.com/domain-mapping-on-github/
+  domain: bavatuesdays.com
+  image: ""
+- curated_id: bb5897a6f7010c058d92a63557e8e479
+  item_date: "2015-12-10 00:00:00"
+  title: New ? Route 53 Traffic Flow
+  url: https://aws.amazon.com/blogs/aws/new-route-53-traffic-flow/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 9ff53e2e077e2653357e70c22b6eb1b5
+  item_date: "2015-12-11 00:00:00"
+  title: Domain Mapping on Squarespace
+  url: http://bavatuesdays.com/domain-mapping-on-squarespace/
+  domain: bavatuesdays.com
+  image: ""
+- curated_id: 6ccc36117977291e2496b782c152985a
+  item_date: "2015-12-15 00:00:00"
+  title: Attack Against DNS Root Servers
+  url: https://www.schneier.com/blog/archives/2015/12/attack_against_.html
+  domain: www.schneier.com
+  image: ""
+- curated_id: 5cb933af43c2c501f269309f29179f03
+  item_date: "2016-01-22 00:00:00"
+  title: CloudFlare launches new data centers in Oslo and Minneapolis
+  url: https://blog.cloudflare.com/cloudflare-launches-new-data-centers-in-oslo-and-minneapolis/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: 34adcdfd788835e2596e2a9525e7a658
+  item_date: "2016-01-25 00:00:00"
+  title: Dyn Weighs In On Whois
+  url: http://dyn.com/blog/dyn-weighs-in-on-whois/
+  domain: dyn.com
+  image: ""
+- curated_id: c5fa5f99db0330e5609049ca525625f1
+  item_date: "2016-02-02 00:00:00"
+  title: How to Set Up DNS Resolution Between On-Premises Networks and AWS Using AWS
+    Directory Service and Microsoft Active Directory
+  url: https://blogs.aws.amazon.com/security/post/TxVN0EHWWVM29S/How-to-Set-Up-DNS-Resolution-Between-On-Premises-Networks-and-AWS-Using-AWS-Dire
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: 76d0f85b9279921de5e35bd1072a9af1
+  item_date: "2016-02-03 00:00:00"
+  title: CloudFlare?s Impact On The HTTP/2 ?Universe?
+  url: https://blog.cloudflare.com/cloudflares-impact-on-the-http-2-universe/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: c08c5f257a5e7d834e2e2be8057396d2
+  item_date: "2016-02-23 00:00:00"
+  title: CloudFlare launches registrar to prevent DNS hijacking attacks
+  url: http://www.zdnet.com/article/cloudflare-launches-registrar-to-prevent-dns-hijacking-attacks/#ftag=RSSbaffb68
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 6c95e30c854b6d828342f4e555393533
+  item_date: "2016-02-24 00:00:00"
+  title: Monitoring DNS Load Balancers
+  url: http://blog.catchpoint.com/2016/02/24/dns-load-balancing/
+  domain: blog.catchpoint.com
+  image: ""
+- curated_id: d34057964351b4199b6520488d7b6647
+  item_date: "2016-02-24 00:00:00"
+  title: 'Introducing CloudFlare Registrar: Designed for Security, Not the Masses'
+  url: https://blog.cloudflare.com/introducing-cloudflare-registrar/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: 212aa37f93b100380ebff069694e1e21
+  item_date: "2016-02-25 00:00:00"
+  title: DDoS Security Solutions to Protect Your Business from any Loss
+  url: https://dzone.com/articles/ddos-security-solutions-to-protect-your-business-f
+  domain: dzone.com
+  image: ""
+- curated_id: cd6a1d50a376173c2f901f279b3547c3
+  item_date: "2016-02-29 00:00:00"
+  title: DDoS attacks surge in Q4, says Akamai
+  url: http://www.zdnet.com/article/ddos-attacks-surge-in-q4-says-akamai/#ftag=RSSbaffb68
+  domain: www.zdnet.com
+  image: ""
+- curated_id: ae9990c4c353f6593b800e178f1ec4d3
+  item_date: "2016-03-01 00:00:00"
+  title: 'Staying afloat: the DROWN Attack and CloudFlare'
+  url: https://blog.cloudflare.com/the-drown-attack/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: a6941818adf0f753fdae613f7642aaff
+  item_date: "2016-03-02 00:00:00"
+  title: '400Gbps: Winter of Whopping Weekend DDoS Attacks'
+  url: https://blog.cloudflare.com/a-winter-of-400gbps-weekend-ddos-attacks/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: 4a11102690f4c5756732d118caefba30
+  item_date: "2016-03-02 00:00:00"
+  title: Detect DNS Spoofing, Protect Your Digital Identity
+  url: http://blog.catchpoint.com/2016/03/02/dns-poisoning/
+  domain: blog.catchpoint.com
+  image: ""
+- curated_id: 5dc328c635aa91d70b3288f8a7d821f1
+  item_date: "2016-03-04 00:00:00"
+  title: The importance of domain reputation
+  url: https://postmarkapp.com/blog/the-importance-of-domain-reputation
+  domain: postmarkapp.com
+  image: ""
+- curated_id: 4ab11f3f59a87eec248f7881127b2f76
+  item_date: "2016-03-10 00:00:00"
+  title: DDoS hack attacks are growing at an alarming rate
+  url: http://www.businessinsider.com/ddos-attacks-grow-85-percent-year-on-year-q4-2014-2015-verisign-report-2016-3
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 6b27b6df2a11e29d664f8cca93b7e0a5
+  item_date: "2016-03-10 00:00:00"
+  title: How to Detect and Analyze DDOS Attacks Using Log Analysis
+  url: https://dzone.com/articles/how-to-detect-and-analyze-ddos-attacks-using-log-a
+  domain: dzone.com
+  image: ""
+- curated_id: 5f236b05e9c838b7124da0131edab2ee
+  item_date: "2016-03-15 00:00:00"
+  title: Rackspace launches early access program for DNS as a service offering
+  url: http://www.fiercedevops.com/story/rackspace-launches-early-access-program-dns-service-offering/2016-03-15
+  domain: www.fiercedevops.com
+  image: ""
+- curated_id: d1afd8ae3f707666c5c1585f07d0cc4e
+  item_date: "2016-03-21 00:00:00"
+  title: Introducing DomainTools Reverse IP Whois
+  url: http://blog.domaintools.com/2016/03/introducing-domaintools-reverse-ip-whois/
+  domain: blog.domaintools.com
+  image: ""
+- curated_id: 1b0318a6f7e90c4ae9e7b54cf02e5706
+  item_date: "2016-03-30 00:00:00"
+  title: The Trouble with Tor
+  url: https://blog.cloudflare.com/the-trouble-with-tor/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: b48e81f96fda4518d26bb7ca7c522a6a
+  item_date: "2016-03-30 09:12:51"
+  title: Google Domains moves to a .Google domain
+  url: http://venturebeat.com/2016/03/30/google-domains-dot-google/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 9ec04fc25cb0e5933ec5db23ccf8e4b0
+  item_date: "2016-04-04 00:00:00"
+  title: Top 25 new gTLDs for March 2016
+  url: https://opensrs.com/blog/2016/04/top-25-new-gtlds-for-march-2016/
+  domain: opensrs.com
+  image: ""
+- curated_id: 759a552c5ee71eb404ab4326f29590a5
+  item_date: "2016-04-05 00:00:00"
+  title: Using DNS to Debug Downtime
+  url: https://dzone.com/articles/using-dns-to-debug-downtime
+  domain: dzone.com
+  image: ""
+- curated_id: 72f5594108fce9ac8fc483e40ea34957
+  item_date: "2016-04-11 00:00:00"
+  title: 'Taipei: CloudFlare?s 77th Data Center is Now Live'
+  url: https://blog.cloudflare.com/taipei/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: 111056447e1700e2f20aefd370f8fa55
+  item_date: "2016-04-13 00:00:00"
+  title: 'New for Virtual DNS Customers: Self-Service Dashboard and APIs, and Two
+    New Features'
+  url: https://blog.cloudflare.com/new-for-virtual-dns-customers-self-service-dashboard-and-apis-and-two-new-features/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: 18e360d332503542a924efd4b8bdf309
+  item_date: "2016-04-14 00:00:00"
+  title: Detect DNS Spoofing, Protect Your Digital Identity
+  url: https://dzone.com/articles/detect-dns-spoofing-protect-your-digital-identity
+  domain: dzone.com
+  image: ""
+- curated_id: 52579d433ddd1baa718ebe6d58c20131
+  item_date: "2016-04-14 00:00:00"
+  title: ""
+  url: https://www.nginx.com/blog/load-balancing-dns-traffic-nginx-plus/
+  domain: www.nginx.com
+  image: ""
+- curated_id: 0aaed6ade8a9b1222ccf49ab06f492b8
+  item_date: "2016-04-19 00:00:00"
+  title: ""
+  url: https://www.nginx.com/blog/overcoming-ephemeral-port-exhaustion-nginx-plus/
+  domain: www.nginx.com
+  image: ""
+- curated_id: 9dd3ad300579538efbcd9fec3ca1ceaf
+  item_date: "2016-04-26 00:00:00"
+  title: 'Kiev, Ukraine: CloudFlare?s 78th Data Center'
+  url: https://blog.cloudflare.com/kiev/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: 7a76d434885fe9466bf48cf8a13bb39d
+  item_date: "2016-05-02 00:00:00"
+  title: Stronger protection and more control over security settings with CloudFlare?s
+    new cPanel plugin
+  url: https://blog.cloudflare.com/cpanel-plugin/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: 9e0a86e0821de0251858e689fe9453c0
+  item_date: "2016-05-03 00:00:00"
+  title: Introducing CloudFlare Origin CA
+  url: https://blog.cloudflare.com/cloudflare-ca-encryption-origin/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: a8c16b4ff11fea37a8c1578253b710b4
+  item_date: "2016-06-08 00:00:00"
+  title: Open Sourcing CloudFlare?s UI Framework
+  url: https://blog.cloudflare.com/cf-ui/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: 5d4f74147758c741a87ca061f012539d
+  item_date: "2016-06-17 00:00:00"
+  title: Configuring Custom Domains and SSL
+  url: https://support.brightcove.com/en/gallery/docs/configuring-custom-domains-and-ssl
+  domain: support.brightcove.com
+  image: ""
+- curated_id: ff2b79f489a7ee7207b560e3395b713e
+  item_date: "2016-07-11 00:00:00"
+  title: 'DomainTools 101: The IP Crowd'
+  url: https://blog.domaintools.com/2016/07/domaintools-101-the-ip-crowd/
+  domain: blog.domaintools.com
+  image: ""
+- curated_id: 1db451e8810d2b7e2ae62292b2032507
+  item_date: "2016-07-14 20:04:09"
+  title: 'The Netflix Tech Blog: Denominator: A Multi-Vendor Interface for DNS'
+  url: http://techblog.netflix.com/2013/03/denominator-multi-vendor-interface-for.html
+  domain: techblog.netflix.com
+  image: ""
+- curated_id: 26874fce7d07f745843525c2ad344f21
+  item_date: "2016-07-26 00:00:00"
+  title: Full Support for IPv6
+  url: https://letsencrypt.org//2016/07/26/full-ipv6-support.html
+  domain: letsencrypt.org
+  image: ""
+- curated_id: ce72c69d6bc079fabfc6cfe2f096d12b
+  item_date: "2016-07-27 09:21:14"
+  title: Vixies Farsight Rolls Out Its First Enterprise DNS Security Service
+  url: http://www.darkreading.com/cloud/vixies-farsight-rolls-out-its-first-enterprise-dns-security-service/d/d-id/1326382
+  domain: www.darkreading.com
+  image: ""
+- curated_id: bd74214c86e63fd61095b0e7810747a2
+  item_date: "2016-08-01 00:00:00"
+  title: 'Don?t Call It A Comeback: Why DNS Is At The Core of Internet Performance
+    Management'
+  url: http://dyn.com/blog/dont-call-it-a-comeback-why-dns-is-at-the-core-of-internet-performance-management/
+  domain: dyn.com
+  image: ""
+- curated_id: 195df1774d61cdfa76ab7307f8774602
+  item_date: "2016-08-02 00:00:00"
+  title: Introducing the p0f BPF compiler
+  url: https://blog.cloudflare.com/introducing-the-p0f-bpf-compiler/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: 1c1c3a08e0fcc09d26b3258281f36aa5
+  item_date: "2016-08-03 00:00:00"
+  title: 'DNS Experience Tests: A Key Cog in the Online Ecosystem'
+  url: http://blog.catchpoint.com/2016/08/03/dns-experience-tests/
+  domain: blog.catchpoint.com
+  image: ""
+- curated_id: 4d0fbf62cc1807585499487cb0e020ce
+  item_date: "2016-08-12 00:00:00"
+  title: IANA successor organization set up amid internet handover controversy
+  url: http://www.pcworld.com/article/3106741/internet/iana-successor-organization-set-up-amid-internet-handover-controversy.html
+  domain: www.pcworld.com
+  image: ""
+- curated_id: cb3bf8849f31e797b09d190e8cfc33f6
+  item_date: "2016-08-12 13:01:42"
+  title: Airtel is sniffing and censoring CloudFlare?s traffic in India and CloudFlare
+    doesn?t even know it.
+  url: https://medium.com/@karthikb351/airtel-is-sniffing-and-censoring-cloudflares-traffic-in-india-and-they-don-t-even-know-it-90935f7f6d98#.rllbwnqwu
+  domain: medium.com
+  image: ""
+- curated_id: f48c4918f9a5026be1932339093376ce
+  item_date: "2016-08-16 00:00:00"
+  title: Extending Global Load Balancing to the Cloud with Secondary DNS
+  url: http://dyn.com/blog/extending-global-load-balancing-to-the-cloud-with-secondary-dns/
+  domain: dyn.com
+  image: ""
+- curated_id: 7ce3762957d2ef73b2a3844a3e0d7808
+  item_date: "2016-08-16 00:00:00"
+  title: Poorly Configured DNSSEC = Potential DDoS Weapon
+  url: http://www.darkreading.com/cloud/poorly-configured-dnssec---potential-ddos-weapon/d/d-id/1326643
+  domain: www.darkreading.com
+  image: ""
+- curated_id: 59234f0b3e8781276997184952113028
+  item_date: "2016-08-18 00:00:00"
+  title: The Cuban CDN
+  url: https://blog.cloudflare.com/the-cuban-cdn/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: a12c5cb3696592cfd6e6960eedf20fd8
+  item_date: "2016-08-21 00:00:00"
+  title: Get.blog by WordPress ? Prebook .blog domains before its open to public
+  url: https://get.blog/
+  domain: get.blog
+  image: ""
+- curated_id: 1f9303a3d2659c04b7245b1deeb6bc67
+  item_date: "2016-08-24 00:00:00"
+  title: 'Joe St. Sauver: Non-U.S. Universities with .edu Domain Names: Theyre More
+    Common Than You Might Think'
+  url: https://www.farsightsecurity.com/Blog/20160824-stsauver-edu-investigation/
+  domain: www.farsightsecurity.com
+  image: ""
+- curated_id: 9f66292ac41daf9a265ec09b0198f01a
+  item_date: "2016-08-25 00:00:00"
+  title: Deliver Content as Well as Netflix with Dyn Internet Intelligence
+  url: http://dyn.com/blog/deliver-content-as-well-as-netflix-with-dyn-internet-intelligence/
+  domain: dyn.com
+  image: ""
+- curated_id: 7e427d2ee465eef6c3f7eae4e4c17de4
+  item_date: "2016-08-25 10:27:56"
+  title: The Truly Massive Scale of IPv6 Visualized
+  url: https://www.youtube.com/watch
+  domain: www.youtube.com
+  image: ""
+- curated_id: acc7c03732760c9f5bc84591572c6d10
+  item_date: "2016-08-29 16:30:07"
+  title: 'Crank up security on your site with some of our most recommended #PageRules'
+  url: https://www.cloudflare.com/features-page-rules/harden-security/
+  domain: www.cloudflare.com
+  image: ""
+- curated_id: c4a204ee010271b8d2277616a7434a49
+  item_date: "2016-08-31 00:00:00"
+  title: DNS is NOT a Transport Protocol!
+  url: https://community.infoblox.com/t5/Company-Blog/DNS-is-NOT-a-Transport-Protocol/ba-p/7546
+  domain: community.infoblox.com
+  image: ""
+- curated_id: 41c806161583631a271e1f1ef959ba4b
+  item_date: "2016-08-31 00:00:00"
+  title: How I used Cloudinary to solve responsive image needs in my Jekyll website,
+    and shared the magic in a plugin
+  url: http://cloudinary.com/blog/how_i_used_cloudinary_to_solve_responsive_image_needs_in_my_jekyll_website_and_shared_the_magic_in_a_plugin
+  domain: cloudinary.com
+  image: ""
+- curated_id: f8b26d7eb9f6199a8f1da84bbde92917
+  item_date: "2016-09-01 00:00:00"
+  title: Measure Cloud Performance Like A Customer
+  url: http://dyn.com/blog/measure-cloud-performance-like-a-customer/
+  domain: dyn.com
+  image: ""
+- curated_id: eea26a8c379ac2202d695fc2f798caaf
+  item_date: "2016-09-02 09:00:06"
+  title: 'Take your domain?s performance to the next level. Learn about these  reccomended
+    #PageRules'
+  url: https://www.cloudflare.com/features-page-rules/optimize-speed/
+  domain: www.cloudflare.com
+  image: ""
+- curated_id: 69a9084000d27864607c82aa7a045696
+  item_date: "2016-09-02 13:05:03"
+  title: 'Enhance security amp; performance on your WordPress site with our recommended  #PageRules'
+  url: https://www.cloudflare.com/features-page-rules/optimize-wordpress/
+  domain: www.cloudflare.com
+  image: ""
+- curated_id: 5f3d7935cdd854854dcce05b2058fb3d
+  item_date: "2016-09-02 17:00:03"
+  title: 'Enhance the experience on @magento with some of our most recommended #PageRules'
+  url: https://www.cloudflare.com/features-page-rules/optimize-magento/
+  domain: www.cloudflare.com
+  image: ""
+- curated_id: f144177a70bc1720166dc8ccfa6a0442
+  item_date: "2016-09-06 00:00:00"
+  title: 'A Domain by Any Other Name: CNAMES, Wildcard Records and Another Level of
+    Indirection'
+  url: https://www.digitalgov.gov/2016/09/06/a-domain-by-any-other-name-cnames-wildcard-records-and-another-level-of-indirection/
+  domain: www.digitalgov.gov
+  image: ""
+- curated_id: 8cb15f1e190f81366e7fb34da10d8ee1
+  item_date: "2016-09-08 00:00:00"
+  title: Help Us to Help You Get to the Next Big Thing in DNS Security
+  url: https://community.infoblox.com/t5/Company-Blog/Help-Us-to-Help-You-Get-to-the-Next-Big-Thing-in-DNS-Security/ba-p/7605
+  domain: community.infoblox.com
+  image: ""
+- curated_id: ee2614cde76dc5ea5f70e72623aa058b
+  item_date: "2016-09-08 12:09:42"
+  title: 'Tweet: [New Blog] Benefits of Adopting IPv6 https://t.co/UiIrWAjtLD'
+  url: https://twitter.com/TeamARIN/statuses/773961526885638145
+  domain: twitter.com
+  image: ""
+- curated_id: 5da0f6e83f46d2f6a90eaf948d36f66c
+  item_date: "2016-09-09 21:13:39"
+  title: 'Tweet: Cloudflare has graciously arranged to host the vDOS attack log, which
+    is pretty large as text files go https://t.co/gfK3VdR0zn'
+  url: https://twitter.com/briankrebs/statuses/774460806020956160
+  domain: twitter.com
+  image: ""
+- curated_id: f30e1096ee1759adb79550559d13a2b8
+  item_date: "2016-09-13 00:00:00"
+  title: Dyn Joins Technology Industry Leaders Urging Congress To Support ICANN /
+    IANA Transition
+  url: http://dyn.com/blog/dyn-joins-technology-industry-leaders-urging-congress-to-support-icann-iana-transition/
+  domain: dyn.com
+  image: ""
+- curated_id: 0bac44c43bafc0874c7e619603709e21
+  item_date: "2016-09-13 03:31:51"
+  title: 'Tweet: Announcing the official DNSimple API v2 Node.js client! https://t.co/9qiPGLfyGV
+    ??'
+  url: https://twitter.com/dnsimple/statuses/775643148303396864
+  domain: twitter.com
+  image: ""
+- curated_id: 5cd33c8fadeba32f440a0b60fbf1ebca
+  item_date: "2016-09-14 00:00:00"
+  title: Internet naming system not U.S. property, says congressional watchdog
+  url: http://www.pcworld.com/article/3119891/internet/internet-naming-system-not-us-property-says-congressional-watchdog.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: fc30f7e3d3810a94045ddf92b26d0620
+  item_date: "2016-09-14 00:00:00"
+  title: ""
+  url: https://www.nginx.com/blog/ip-transparency-direct-server-return-nginx-plus-transparent-proxy/
+  domain: www.nginx.com
+  image: ""
+- curated_id: de372b4411248bc572b1079ca99b7c43
+  item_date: "2016-09-16 00:00:00"
+  title: GoDaddy#039;s Proposal for Standard DNS Configuration API Could Ease a Lot
+    of Pain
+  url: http://www.programmableweb.com/news/godaddys-proposal-standard-dns-configuration-api-could-ease-lot-pain/2016/09/16
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: a867c6ebef8f175127a6f529cc93978f
+  item_date: "2016-09-16 10:09:48"
+  title: GoDaddy?s New API Eases Domain Name Redirect to Microsoft, Squarespace, Others
+  url: http://smallbiztrends.com/2016/09/godaddy-dns-domain-connect.html
+  domain: smallbiztrends.com
+  image: ""
+- curated_id: 85222f54205d605ebc6e3208891a5d83
+  item_date: "2016-09-19 00:00:00"
+  title: CloudFlare?s new WordPress plugin
+  url: https://blog.cloudflare.com/new-wordpress-plugin/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: 5e290c23abb31ac8f511d2506b38a8a2
+  item_date: "2016-09-19 00:00:00"
+  title: The U.S. Is Not ?Handing Over? The Internet
+  url: http://dyn.com/blog/the-u-s-is-not-handing-over-the-internet/
+  domain: dyn.com
+  image: ""
+- curated_id: d009f2c8d97c30ab0354804943101ce2
+  item_date: "2016-09-20 00:00:00"
+  title: Are dedicated IPs important?
+  url: https://postmarkapp.com/blog/are-dedicated-ips-important
+  domain: postmarkapp.com
+  image: ""
+- curated_id: bff68c19a4ef4c5b3cf7ecb1e18a3b3b
+  item_date: "2016-09-21 09:15:15"
+  title: Introducing TLS 1.3
+  url: https://blog.cloudflare.com/introducing-tls-1-3/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: 63cc26b43f767da22d7416d03a85e756
+  item_date: "2016-09-21 09:15:15"
+  title: Is TLS Fast Yet?
+  url: https://istlsfastyet.com/
+  domain: istlsfastyet.com
+  image: ""
+- curated_id: e377836bb1db41824dfda0d08f3a0dec
+  item_date: "2016-09-21 16:55:16"
+  title: Cloudflare looks to TLS 1.3 to secure internet
+  url: http://www.scmagazineuk.com/cloudflare-looks-to-tls-13-to-secure-internet/article/523982/
+  domain: www.scmagazineuk.com
+  image: ""
+- curated_id: 25de738ed01c3be7e4dc38998fef6ddf
+  item_date: "2016-09-23 00:00:00"
+  title: An overview of TLS 1.3 and QA
+  url: https://blog.cloudflare.com/tls-1-3-overview-and-q-and-a/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: bfc9d61cea20e75eb7ce645f23da8da8
+  item_date: "2016-09-27 00:00:00"
+  title: 'Six years old and time for an update: CloudFlare becomes Cloudflare'
+  url: https://blog.cloudflare.com/time-for-an-update/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: 2df3d2c44faa46079bc081953d268a03
+  item_date: "2016-09-28 00:00:00"
+  title: Internet Visibility  Control Is Critical To Your Cloud Success
+  url: http://dyn.com/blog/internet-visibility-control-is-critical-to-your-cloud-success/
+  domain: dyn.com
+  image: ""
+- curated_id: b2ace4fc62da4365d6c911b662e00313
+  item_date: "2016-09-29 00:00:00"
+  title: 'Cloudflare Traffic Manager: The Details'
+  url: https://blog.cloudflare.com/cloudflare-traffic-manager-the-details/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: 735e0858e4ebb85aa518ff7a8d3c75e6
+  item_date: "2016-09-29 00:00:00"
+  title: Cloudflare#039;s Traffic Control Could Be Used to Target Specific API Security
+    Concerns
+  url: http://www.programmableweb.com/news/cloudflares-traffic-control-could-be-used-to-target-specific-api-security-concerns/brief/2016/09/29
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: fc1d244f429bd075967d652d090f0d75
+  item_date: "2016-09-29 00:00:00"
+  title: The ICANN and IANA Transition End Game II
+  url: https://www.lawfareblog.com/icann-and-iana-transition-end-game-ii
+  domain: www.lawfareblog.com
+  image: ""
+- curated_id: 778ab0a22efdd07fe533637352428c11
+  item_date: "2016-09-29 00:00:00"
+  title: Control your traffic at the edge with Cloudflare
+  url: https://blog.cloudflare.com/cloudflare-traffic/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: b8b3a493e960176cebc494c5723a1aeb
+  item_date: "2016-09-30 13:15:04"
+  title: 'Tweet: See new Cloudflare Traffic Control in action, with a live demo of
+    rate limiting https://t.co/AWIb1fD2My https://t.co/zm8hdViOv3'
+  url: https://twitter.com/Cloudflare/statuses/781950513159868417
+  domain: twitter.com
+  image: ""
+- curated_id: a4e6a41ccc7fe01947702591e9c783a5
+  item_date: "2016-10-01 00:00:00"
+  title: "US to Transfer Internet DNS Oversight After GOP Sabotage Effort Fails\r\n"
+  url: http://motherboard.vice.com/read/us-to-transfer-internet-dns-oversight-after-gop-sabotage-effort-fails
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: b4582a9aa679ee99025b3ecc31c1d8d5
+  item_date: "2016-10-03 00:00:00"
+  title: Oversight Transition Isnt Giving Away the Internet, But Wont Fix ICANNs Problems
+  url: https://www.eff.org/deeplinks/2016/09/oversight-transition-isnt-giving-away-internet-wont-fix-icanns-problems
+  domain: www.eff.org
+  image: ""
+- curated_id: 80054254d0fa32d317bac98f0932281b
+  item_date: "2016-10-07 00:00:00"
+  title: How to change your IP Address from Static to Dynamic
+  url: http://boingboing.net/2016/10/07/how-to-change-your-ip-address.html
+  domain: boingboing.net
+  image: ""
+- curated_id: f4259627fd73c7ef75305bc671cf48ff
+  item_date: "2016-10-11 08:05:31"
+  title: 'Tweet: AWS and Microsoft Azure Gain Native IPv6 Connectivity - @RedmondIT  https://t.co/eocDQ9cpaz'
+  url: https://redmondmag.com/blogs/the-schwartz-report/2016/10/azure-gains-ipv6-connectivity.aspx
+  domain: redmondmag.com
+  image: ""
+- curated_id: df043cf1ae2ac2ea5e464d4f57c84111
+  item_date: "2016-10-12 00:00:00"
+  title: Detecting The Recent Blockchain DNS Hijack
+  url: https://blog.opendns.com/2016/10/12/detecting-recent-blockchain-dns-hijack/
+  domain: blog.opendns.com
+  image: ""
+- curated_id: 78d849ce8487366e7c00e4a3eb125b40
+  item_date: "2016-10-12 08:41:34"
+  title: TLS nonce-nse
+  url: https://blog.cloudflare.com/tls-nonce-nse/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: 104e812ab66efa43ae87b4bc44068469
+  item_date: "2016-10-12 11:38:28"
+  title: |-
+    Tweet: What is the difference between A, AAAA, CNAME, and ANAME records? And how do you use them?
+    https://t.co/dzjfTUxwwShellip; https://t.co/3NEuejP94i
+  url: http://news.constellix.com/dns-record-types/
+  domain: news.constellix.com
+  image: ""
+- curated_id: 10a7c6506bdd49fdfe494658422ae449
+  item_date: "2016-10-13 00:00:00"
+  title: Global Load Balancing with Amazon Route 53 and NGINX Plus
+  url: https://www.nginx.com/blog/global-load-balancing-amazon-route-53-nginx-plus/
+  domain: www.nginx.com
+  image: ""
+- curated_id: d5d4fa9296c05a244ed4d56445a4e0c5
+  item_date: "2016-10-17 00:00:00"
+  title: Discovering Docker?s IP Address
+  url: https://dzone.com/articles/discovering-dockers-ip-address
+  domain: dzone.com
+  image: ""
+- curated_id: 6f62ac9a2d98865aa71a4bdc4a92f0c0
+  item_date: "2016-10-20 00:00:00"
+  title: Engineers are testing a new name-based internet
+  url: http://www.futurity.org/mobilityfirst-internet-1277112-2/
+  domain: www.futurity.org
+  image: ""
+- curated_id: 23ae607e7013735ff003ec4b75dc7887
+  item_date: "2016-10-20 00:00:00"
+  title: 'Recent IoT-based Attacks: What Is the Impact On Managed DNS Operators?'
+  url: http://dyn.com/blog/recent-iot-based-attacks-what-is-the-impact-on-managed-dns-operators/
+  domain: dyn.com
+  image: ""
+- curated_id: 2cebbb725b0f0124d69ca22efafdb15b
+  item_date: "2016-10-21 00:00:00"
+  title: Introducing Internationalized Domain Name (IDN) Support
+  url: https://letsencrypt.org//2016/10/21/introducing-idn-support.html
+  domain: letsencrypt.org
+  image: ""
+- curated_id: 0c5670a989089d54e542ce185e1a964b
+  item_date: "2016-10-31 00:00:00"
+  title: Sundown Exploit Kit Operating 80,000 Malicious Subdomains
+  url: https://continuum.cisco.com/2016/10/31/sundown-exploit-kit-operating-80000-malicious-subdomains/
+  domain: continuum.cisco.com
+  image: ""
+- curated_id: 547076ce524331ad8cf22b972033d5a1
+  item_date: "2016-11-01 00:00:00"
+  title: ThreatConnect Shares Incident Information on Typosquatting Domains
+  url: https://www.threatconnect.com/blog/chinese-typosquatting-domains-identified/
+  domain: www.threatconnect.com
+  image: ""
+- curated_id: 198333bbe58b276dd19e911ad7877c4b
+  item_date: "2016-11-03 00:00:00"
+  title: Advanced Secondary DNS For The Technically Inclined
+  url: http://dyn.com/blog/advanced-secondary-dns-for-the-technically-inclined/
+  domain: dyn.com
+  image: ""
+- curated_id: f18ec96f7aa4c6af5004464d606693e4
+  item_date: "2016-11-03 00:00:00"
+  title: Visualizing the Evolution
+  url: https://blog.opendns.com/2016/11/03/visualizing-the-evolution/
+  domain: blog.opendns.com
+  image: ""
+- curated_id: 6425a5adda4534ddd2d505c1fe54d2f7
+  item_date: "2016-11-07 00:00:00"
+  title: CoreDNS for Kubernetes Service Discovery
+  url: https://community.infoblox.com/t5/Community-Blog/CoreDNS-for-Kubernetes-Service-Discovery/ba-p/8187
+  domain: community.infoblox.com
+  image: ""
+- curated_id: d8d69cbf616415a1f4527f4c6725d7b8
+  item_date: "2016-11-09 00:00:00"
+  title: Introducing DomainTools PhishEye
+  url: https://blog.domaintools.com/2016/11/introducing-domaintools-phisheye/
+  domain: blog.domaintools.com
+  image: ""
 ...
