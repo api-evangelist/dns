@@ -3,7 +3,7 @@ info:
   title: API Evangelist Tools
   description: These are the tools included as part of this API research.
   version: 1.0.0
-host: definitions.apievangelist.com
+host: dns.apievangelist.com
 basePath: /apis
 schemes:
   - http
@@ -22,10 +22,10 @@ paths:
           schema:
             type: array
             items:
-              $ref: '#/definitions/tool'
+              $ref: '#/dns/tool'
       tags:
         - Tools
-definitions:
+dns:
   tool:
     properties:
       slug:

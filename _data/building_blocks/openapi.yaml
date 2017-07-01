@@ -3,7 +3,7 @@ info:
   title: API Evangelist Building Blocks
   description: These are the building blocks for this research.
   version: 1.0.0
-host: definitions.apievangelist.com
+host: dns.apievangelist.com
 basePath: /apis
 schemes:
   - http
@@ -22,10 +22,10 @@ paths:
           schema:
             type: array
             items:
-              $ref: '#/definitions/building_block'
+              $ref: '#/dns/building_block'
       tags:
         - Building Blocks
-definitions:
+dns:
   building_block:
     properties:
       building_block_id:

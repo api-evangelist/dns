@@ -3,7 +3,7 @@ info:
   title: API Evangelist News
   description: These are the items I have curated as part of this research.
   version: 1.0.0
-host: definitions.apievangelist.com
+host: dns.apievangelist.com
 basePath: /apis
 schemes:
   - http
@@ -22,10 +22,10 @@ paths:
           schema:
             type: array
             items:
-              $ref: '#/definitions/news'
+              $ref: '#/dns/news'
       tags:
         - Curated
-definitions:
+dns:
   news:
     properties:
       curated_id:
