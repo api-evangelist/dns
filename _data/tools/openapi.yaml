@@ -25,7 +25,7 @@ paths:
               $ref: '#/dns/tool'
       tags:
         - Tools
-dns:
+definitions:
   tool:
     properties:
       slug:

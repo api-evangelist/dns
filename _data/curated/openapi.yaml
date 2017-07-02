@@ -25,7 +25,7 @@ paths:
               $ref: '#/dns/news'
       tags:
         - Curated
-dns:
+definitions:
   news:
     properties:
       curated_id:

@@ -23,7 +23,7 @@ paths:
               $ref: '#/dns/blog'
       tags:
         - Blog
-dns:
+definitions:
   blog:
     properties:
       title:

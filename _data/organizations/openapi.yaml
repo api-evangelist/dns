@@ -25,7 +25,7 @@ paths:
               $ref: '#/dns/organizations'
       tags:
         - Organizations
-dns:
+definitions:
   partner:
     properties:
       slug:
