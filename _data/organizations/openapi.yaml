@@ -3,7 +3,7 @@ info:
   title: API Evangelist Organizations
   description: These are the organizations I've curated as part of this research.
   version: 1.0.0
-host: dns.apievangelist.com
+host: definitions.apievangelist.com
 basePath: /apis
 schemes:
   - http
@@ -22,7 +22,7 @@ paths:
           schema:
             type: array
             items:
-              $ref: '#/dns/organizations'
+              $ref: '#/definitions/organizations'
       tags:
         - Organizations
 definitions:
