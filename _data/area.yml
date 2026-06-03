@@ -1,0 +1,19 @@
+meta:
+  name: DNS
+  description: DNS (Domain Name System) is the distributed naming system that translates
+    human-readable domain names (like example.com) into the numerical IP addresses
+    computers use to communicate. It functions as the internet's phone book, enabling
+    users to access websites and services using memorable names instead of numeric
+    addresses.
+  tags:
+  - Domain Names
+  - Infrastructure
+  - Networking
+  - Protocol
+  portal: null
+  github: null
+  repo: dns
+services_tools: []
+features: []
+use_cases: []
+integrations: []
