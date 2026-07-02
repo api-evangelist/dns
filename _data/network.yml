@@ -1,0 +1,6 @@
+related:
+- name: Service Mesh
+  url: https://service-mesh.apievangelist.com
+  icon: https://service-mesh.apievangelist.com/icon.png
+  description: Service mesh is a dedicated infrastructure layer for handling service-to-service communication
+    in microservices architectures. It provides traffic management, mutual TLS security,…
