@@ -1,8 +1,7 @@
 ---
-title: 'Engineering Enterprise-Grade Context: Making the Model Context Protocol (MCP)
-  Viable for Financial Services'
-link: https://glama.ai/blog/2025-11-06-engineering-enterprise-grade-context-making-the-model-context-protocol-mcp-viable-for-financial-services
-published: '2025-11-06'
+title: 'The Lethal Trifecta: Securing Model Context Protocol Against Data Flow Attacks'
+link: https://glama.ai/blog/2025-11-11-the-lethal-trifecta-securing-model-context-protocol-against-data-flow-attacks
+published: '2025-11-11'
 provider: glama-ai
 repo: https://github.com/api-evangelist/glama-ai
 domain: glama.ai

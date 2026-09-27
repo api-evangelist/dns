@@ -1,7 +1,7 @@
 ---
-title: 'Model Context Protocol Proxies: Enabling Enterprise Control with Virtual MCPs'
-link: https://glama.ai/blog/2025-12-09-model-context-protocol-proxies-enabling-enterprise-control-with-virtual-mcps
-published: '2025-12-09'
+title: 'MCP Moves to the Linux Foundation: Neutral Stewardship for Agentic Infrastructure'
+link: https://glama.ai/blog/2025-12-15-mcp-moves-to-the-linux-foundation-neutral-stewardship-for-agentic-infrastructure
+published: '2025-12-15'
 provider: glama-ai
 repo: https://github.com/api-evangelist/glama-ai
 domain: glama.ai
