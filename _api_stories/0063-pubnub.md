@@ -1,7 +1,7 @@
 ---
-title: What is Model Context Protocol? A Simple Guide for Business Leaders-Part I
-link: https://www.pubnub.com/blog/what-is-model-context-protocol-guide-for-business-leaders/
-published: '2025-07-08'
+title: 'Model Context Protocol Part II: From Theory to Enterprise Impact'
+link: https://www.pubnub.com/blog/mcp-part-ii-theory-to-enterprise-impact/
+published: '2025-07-10'
 provider: pubnub
 repo: https://github.com/api-evangelist/pubnub
 domain: www.pubnub.com

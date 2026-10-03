@@ -1,7 +1,8 @@
 ---
-title: 'The Lethal Trifecta: Securing Model Context Protocol Against Data Flow Attacks'
-link: https://glama.ai/blog/2025-11-11-the-lethal-trifecta-securing-model-context-protocol-against-data-flow-attacks
-published: '2025-11-11'
+title: 'Scaling Agentic Commerce: Shopify''s Implementation of the Interactive Model
+  Context Protocol (MCP UI)'
+link: https://glama.ai/blog/2025-11-13-scaling-agentic-commerce-shopifys-implementation-of-the-interactive-model-context-protocol-mcp-ui
+published: '2025-11-13'
 provider: glama-ai
 repo: https://github.com/api-evangelist/glama-ai
 domain: glama.ai
