@@ -1,5 +1,6 @@
 aid: dns
 name: DNS
+kind: topic
 description: >-
   DNS (Domain Name System) is the distributed naming system that translates
   human-readable domain names (like example.com) into the numerical IP addresses
