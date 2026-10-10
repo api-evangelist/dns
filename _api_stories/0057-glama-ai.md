@@ -1,7 +1,8 @@
 ---
-title: 'TMCP: Reimagining Model Context Protocol Server Architecture with Modern TypeScript'
-link: https://glama.ai/blog/2025-10-23-tmcp-reimagining-model-context-protocol-server-architecture-with-modern-type-script
-published: '2025-10-23'
+title: 'The Model Context Protocol Registry: Standardizing Server Discovery in a Decentralized
+  Ecosystem'
+link: https://glama.ai/blog/2025-10-26-the-model-context-protocol-registry-standardizing-server-discovery-in-a-decentralized-ecosystem
+published: '2025-10-26'
 provider: glama-ai
 repo: https://github.com/api-evangelist/glama-ai
 domain: glama.ai

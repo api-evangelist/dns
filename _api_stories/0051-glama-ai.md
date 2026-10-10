@@ -1,8 +1,7 @@
 ---
-title: 'Scaling Agentic Commerce: Shopify''s Implementation of the Interactive Model
-  Context Protocol (MCP UI)'
-link: https://glama.ai/blog/2025-11-13-scaling-agentic-commerce-shopifys-implementation-of-the-interactive-model-context-protocol-mcp-ui
-published: '2025-11-13'
+title: OpenTelemetry for Model Context Protocol (MCP) Analytics and Agent Observability
+link: https://glama.ai/blog/2025-11-29-open-telemetry-for-model-context-protocol-mcp-analytics-and-agent-observability
+published: '2025-11-29'
 provider: glama-ai
 repo: https://github.com/api-evangelist/glama-ai
 domain: glama.ai
