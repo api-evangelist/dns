@@ -1,8 +1,8 @@
 ---
-title: 'Engineering Enterprise-Grade Context: Making the Model Context Protocol (MCP)
-  Viable for Financial Services'
-link: https://glama.ai/blog/2025-11-06-engineering-enterprise-grade-context-making-the-model-context-protocol-mcp-viable-for-financial-services
-published: '2025-11-06'
+title: 'Scaling Agentic Commerce: Shopify''s Implementation of the Interactive Model
+  Context Protocol (MCP UI)'
+link: https://glama.ai/blog/2025-11-13-scaling-agentic-commerce-shopifys-implementation-of-the-interactive-model-context-protocol-mcp-ui
+published: '2025-11-13'
 provider: glama-ai
 repo: https://github.com/api-evangelist/glama-ai
 domain: glama.ai
