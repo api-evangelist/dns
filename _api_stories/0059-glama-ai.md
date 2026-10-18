@@ -1,7 +1,7 @@
 ---
-title: 'TMCP: Reimagining Model Context Protocol Server Architecture with Modern TypeScript'
-link: https://glama.ai/blog/2025-10-23-tmcp-reimagining-model-context-protocol-server-architecture-with-modern-type-script
-published: '2025-10-23'
+title: 'Model Context Protocol Proxies: Enabling Enterprise Control with Virtual MCPs'
+link: https://glama.ai/blog/2025-12-09-model-context-protocol-proxies-enabling-enterprise-control-with-virtual-mcps
+published: '2025-12-09'
 provider: glama-ai
 repo: https://github.com/api-evangelist/glama-ai
 domain: glama.ai
