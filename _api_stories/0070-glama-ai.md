@@ -1,7 +1,8 @@
 ---
-title: 'TMCP: Reimagining Model Context Protocol Server Architecture with Modern TypeScript'
-link: https://glama.ai/blog/2025-10-23-tmcp-reimagining-model-context-protocol-server-architecture-with-modern-type-script
-published: '2025-10-23'
+title: 'Scaling Agentic Commerce: Shopify''s Implementation of the Interactive Model
+  Context Protocol (MCP UI)'
+link: https://glama.ai/blog/2025-11-13-scaling-agentic-commerce-shopifys-implementation-of-the-interactive-model-context-protocol-mcp-ui
+published: '2025-11-13'
 provider: glama-ai
 repo: https://github.com/api-evangelist/glama-ai
 domain: glama.ai

@@ -1,8 +1,8 @@
 ---
-title: 'The Model Context Protocol Registry: Standardizing Server Discovery in a Decentralized
-  Ecosystem'
-link: https://glama.ai/blog/2025-10-26-the-model-context-protocol-registry-standardizing-server-discovery-in-a-decentralized-ecosystem
-published: '2025-10-26'
+title: Securing Enterprise AI Agents with Unique Identities in the Model Context Protocol
+  (MCP)
+link: https://glama.ai/blog/2025-11-27-securing-enterprise-ai-agents-with-unique-identities-in-the-model-context-protocol-mcp
+published: '2025-11-27'
 provider: glama-ai
 repo: https://github.com/api-evangelist/glama-ai
 domain: glama.ai
