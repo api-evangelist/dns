@@ -2,7 +2,7 @@
 title: Update on the Next MCP Protocol Release
 link: https://blog.modelcontextprotocol.io/posts/2025-09-26-mcp-next-version-update/
 published: '2025-09-26'
-provider: mcp
-repo: https://github.com/api-evangelist/mcp
+provider: augments-dev
+repo: https://github.com/api-evangelist/augments-dev
 domain: blog.modelcontextprotocol.io
 ---
